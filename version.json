@@ -1,6 +1,6 @@
 [
   {
-    "unity_ads": "Interstitial_Android",
+    "unity_ads": "Rewarded_Android",
     "allow": "no",
     "version": "2.3",
     "message": "June 13, 2026\n\n- Fixed No Internet issue\n- Fixed Loading issue\n- Added Customized Skins",

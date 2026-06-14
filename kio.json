@@ -90,7 +90,7 @@
             "type1": "Default",
             "type_links": {
               "01 STARLIGHT 2018": "unavailable",
-              "02 LUCKYBOX": "unavailable",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Akai/Luckybox/Akai%20Luckybox%20-%20Default.zip",
               "03 KUNG FU PANDA": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Default.zip"
             }
           },
@@ -99,7 +99,7 @@
             "type1": "Summer",
             "type_links": {
               "01 STARLIGHT 2018": "unavailable",
-              "02 LUCKYBOX": "unavailable",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Akai/Luckybox/Akai%20Luckybox%20-%20Elite%20Stream%20Recluse.zip",
               "03 KUNG FU PANDA": "https://github.com/injctr/large/raw/main/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Summer.zip"
             }
           },
@@ -1305,70 +1305,80 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero021-icon.png/revision/latest?cb=20251110110542",
             "type1": "Default",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Default.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Default.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero022-icon.png/revision/latest?cb=20260424020831",
             "type1": "Basic",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Basic.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Basic.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Basic.zip"
             }
           },
           "03 ELITE 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero023-icon.png/revision/latest?cb=20220125050157",
             "type1": "Elite 1",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Elite%20Ghouls%20Fury.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Elite%20Ghouls%20Fury.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Elite%201.zip"
             }
           },
           "04 ELITE 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-icon.png/revision/latest?cb=20220125050200",
             "type1": "Elite 2",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Elite%20Savage%20Hunter.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Elite%20Savage%20Hunter.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Elite%202.zip"
             }
           },
           "05 COLLECTOR": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero025-icon.png/revision/latest?cb=20260424021528",
             "type1": "Collector",
             "type_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Collector.zip"
             }
           },
           "06 SPECIAL 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero026-icon.png/revision/latest?cb=20220125055615",
             "type1": "Special 1",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Special%20Savage.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Special%20Savage.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Special.zip"
             }
           },
           "07 STARLIGHT 2022": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero027-icon.png/revision/latest?cb=20220401091149",
             "type1": "Starlight 2022",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Starlight.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Starlight.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Starlight.zip"
             }
           },
           "08 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero028-icon.png/revision/latest?cb=20230623130812",
             "type1": "Epic",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Epic.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Epic.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Epic.zip"
             }
           },
           "09 SPECIAL 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero029-icon.png/revision/latest?cb=20241013071543",
             "type1": "Special 2",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Special%20Razor%20Edge.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Balmond/Collector/Balmond%20Collector%20-%20Special%20Razor%20Edge.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Balmond/Titans/Balmond%20Titans%20-%20Special%20M-Pass.zip"
             }
           },
           "10 SEASON 39": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero100210-icon.png/revision/latest?cb=20260421224142",
             "type1": "Season 39",
             "type_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 COLLECTOR TITANS": "unavailable"
             }
           }
         },
@@ -1376,6 +1386,10 @@
           "01 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero025-icon.png/revision/latest?cb=20260424021528",
             "type2": "Collector"
+          },
+          "02 COLLECTOR TITANS": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Balmond%20skin%20Collector%20Titans.png",
+            "type2": "Collector Titans"
           }
         }
       },
@@ -1722,42 +1736,48 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero701-icon.png/revision/latest?cb=20241021145730",
             "type1": "Default",
             "type_links": {
-              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Default.zip"
+              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Default.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Joy/Special/Joy%20Special%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero702-icon.png/revision/latest?cb=20220126142207",
             "type1": "Basic",
             "type_links": {
-              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Basic.zip"
+              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Basic.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Joy/Special/Joy%20Special%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero703-icon.png/revision/latest?cb=20220126142202",
             "type1": "Elite",
             "type_links": {
-              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Elite.zip"
+              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Elite.zip",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "04 SPECIAL 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero704-icon.png/revision/latest?cb=20220118094825",
             "type1": "Special 1",
             "type_links": {
-              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Special%20The%20Deep%20One.zip"
+              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Special%20The%20Deep%20One.zip",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "05 SPECIAL 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero705-icon.png/revision/latest?cb=20220126142200",
             "type1": "Special 2",
             "type_links": {
-              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Emerald%20Guardian.zip"
+              "01 EPIC": "https://github.com/injctr/large/raw/main/Belerick/Epic/Belerick%20Epic%20-%20Emerald%20Guardian.zip",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "06 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero706-icon.png/revision/latest?cb=20250301113845",
             "type1": "Epic",
             "type_links": {
-              "01 EPIC": "unavailable"
+              "01 EPIC": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           }
         },
@@ -1765,6 +1785,10 @@
           "01 EPIC": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero706-icon.png/revision/latest?cb=20250301113845",
             "type2": "Epic"
+          },
+          "02 STARLIGHT": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Belerick%20skin%20Starlight.png",
+            "type2": "Starlight"
           }
         }
       },
@@ -5923,7 +5947,8 @@
             "type1": "Default",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Joy/Starlight/Joy%20Starlight%20-%20Default.zip",
-              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Default.zip"
+              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Default.zip",
+              "03 SPECIAL": "https://github.com/injctr/large/raw/main/Joy/Special/Joy%20Special%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -5931,7 +5956,8 @@
             "type1": "Basic",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Joy/Starlight/Joy%20Starlight%20-%20Basic.zip",
-              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Basic.zip"
+              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Basic.zip",
+              "03 SPECIAL": "https://github.com/injctr/large/raw/main/Joy/Special/Joy%20Special%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -5939,7 +5965,8 @@
             "type1": "Elite",
             "type_links": {
               "01 STARLIGHT 2025": "https://github.com/injctr/large/raw/main/Joy/Starlight/Joy%20Starlight%20-%20Elite.zip",
-              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Elite.zip"
+              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Elite.zip",
+              "03 SPECIAL": "unavailable"
             }
           },
           "04 STARLIGHT 2025": {
@@ -5947,7 +5974,8 @@
             "type1": "Starlight 2025",
             "type_links": {
               "01 STARLIGHT 2025": "unavailable",
-              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Starlight.zip"
+              "02 CHAMPION": "https://github.com/injctr/large/raw/main/Joy/Champion/Joy%20Champion%20-%20Starlight.zip",
+              "03 SPECIAL": "unavailable"
             }
           },
           "05 CHAMPION": {
@@ -5955,7 +5983,8 @@
             "type1": "Champion",
             "type_links": {
               "01 STARLIGHT 2025": "unavailable",
-              "02 CHAMPION": "unavailable"
+              "02 CHAMPION": "unavailable",
+              "03 SPECIAL": "unavailable"
             }
           }
         },
@@ -5967,6 +5996,10 @@
           "02 CHAMPION": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero1186-icon.png/revision/latest?cb=20260421223258",
             "type2": "Champion"
+          },
+          "03 SPECIAL": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Joy%20skin%20Special.png",
+            "type2": "Special"
           }
         }
       },
@@ -6247,49 +6280,56 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero621-icon.png/revision/latest?cb=20241021145645",
             "type1": "Default",
             "type_links": {
-              "01 EPIC": "https://www.dropbox.com/scl/fi/bc89hxp0yueoo9tikd97v/Kaja-Epic-Default.zip?rlkey=kzd17qhesplavwr5kszd1ycel&st=l803wtbu&dl=1"
+              "01 EPIC": "https://www.dropbox.com/scl/fi/bc89hxp0yueoo9tikd97v/Kaja-Epic-Default.zip?rlkey=kzd17qhesplavwr5kszd1ycel&st=l803wtbu&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kaja/Luckybox/Kaja%20Luckybox%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero622-icon.png/revision/latest?cb=20220126141806",
             "type1": "Basic",
             "type_links": {
-              "01 EPIC": "https://www.dropbox.com/scl/fi/s9uflzpwhgll1lpfott3e/Kaja-Epic-Basic.zip?rlkey=6xusqxrsfp78u4zm2u026665h&st=ehc6kzvs&dl=1"
+              "01 EPIC": "https://www.dropbox.com/scl/fi/s9uflzpwhgll1lpfott3e/Kaja-Epic-Basic.zip?rlkey=6xusqxrsfp78u4zm2u026665h&st=ehc6kzvs&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kaja/Luckybox/Kaja%20Luckybox%20-%20Basic.zip"
             }
           },
           "03 STARLIGHT 2019": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero623-icon.png/revision/latest?cb=20220126141804",
             "type1": "Starlight 2019",
             "type_links": {
-              "01 EPIC": "unavailable"
+              "01 EPIC": "unavailable",
+              "02 LUCKYBOX": "unavailable"
             }
           },
           "04 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero624-icon.png/revision/latest?cb=20220126141802",
             "type1": "Elite",
             "type_links": {
-              "01 EPIC": "unavailable"
+              "01 EPIC": "unavailable",
+              "02 LUCKYBOX": "unavailable"
             }
           },
           "05 LUCKYBOX": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero625-icon.png/revision/latest?cb=20250522143052",
             "type1": "Luckybox",
             "type_links": {
-              "01 EPIC": "unavailable"
+              "01 EPIC": "unavailable",
+              "02 LUCKYBOX": "unavailable"
             }
           },
           "06 SEASON 20": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero626-icon.png/revision/latest?cb=20220126141758",
             "type1": "Season 20",
             "type_links": {
-              "01 EPIC": "unavailable"
+              "01 EPIC": "unavailable",
+              "02 LUCKYBOX": "unavailable"
             }
           },
           "07 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero627-icon.png/revision/latest?cb=20240322092312",
             "type1": "Epic",
             "type_links": {
-              "01 EPIC": "unavailable"
+              "01 EPIC": "unavailable",
+              "02 LUCKYBOX": "unavailable"
             }
           }
         },
@@ -6297,6 +6337,10 @@
           "01 EPIC": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero627-icon.png/revision/latest?cb=20240322092312",
             "type2": "Epic"
+          },
+          "02 LUCKYBOX": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero625-icon.png/revision/latest?cb=20250522143052",
+            "type2": "Luckybox"
           }
         }
       },
@@ -6817,7 +6861,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/5ihebbpad72av51fb9ed4/Lancelot-Zodiac-Default.zip?rlkey=rgmrv699m8f7pza332aro5vc4&st=bu99o6zk&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/1mp4q6roxca40beguf4t6/Lancelot-Dawning-Default.zip?rlkey=1d3p08mxm2xf7lxy5c0d3sjc3&st=2dmg8tpw&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/cjqtxtyt6hgrw258o81sy/Lancelot-Champion-Default.zip?rlkey=mrbj9oc5ze6h4vky2fclz7c94&st=8qv996ee&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/p1j62cbmnk452m7aap7wb/Lancelot-Kishin-Default.zip?rlkey=xncu1eziopau187v0p79l2wuo&st=spiahy2v&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Default.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/jrjzg56gqtm5ox5fn9p0s/Lancelot-Valentine-Default.zip?rlkey=njo7obg5ggtf73dxn5scy4q3o&st=odjwi3wv&dl=1"
             }
           },
@@ -6829,7 +6873,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/4zb3q3zee2673g8imdurc/Lancelot-Zodiac-Basic.zip?rlkey=9g1az8sz362xokor3egz0exwm&st=ta43reag&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/rmmau9rl9yzb04e912iib/Lancelot-Dawning-Basic.zip?rlkey=2jir7wkwyoybkybhmywi71emm&st=87tu487o&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/xfnggfybpshe41cp8y9l5/Lancelot-Champion-Basic.zip?rlkey=rc5jeoppybu2i1xi1vmecvkoa&st=xjoy5nn9&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/n4952cz4q2bqnegkixgjm/Lancelot-Kishin-Basic.zip?rlkey=c0p7g42aemmd3iiylro0gr6ft&st=jj2fwfej&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Basic.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/600qt2idiet62plq2wh2z/Lancelot-Valentine-Basic.zip?rlkey=5i1bpnq6s6391phje7xmfcx48&st=hk3k4jf1&dl=1"
             }
           },
@@ -6841,7 +6885,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/t84rn1lolvli8tkxm0p2c/Lancelot-Zodiac-Christmas.zip?rlkey=qt206yhqel5cj89thkkwgvjvx&st=srzvp8na&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/vht22yd2cjnce94j3a9y8/Lancelot-Dawning-Christmas.zip?rlkey=6s4aurgqe191bq66oqllqu35e&st=smunn8ag&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/gsru9i7d8dgouxkidi8ee/Lancelot-Champion-Christmas.zip?rlkey=l9sbx0lqdkr2xv49qqe6krhet&st=v8orm4h8&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/vns5n48tho9gxohjhbw3u/Lancelot-Kishin-Christmas.zip?rlkey=u6p7v87ergljg0npzht1np30w&st=c0xz3986&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Christmas.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/n8yg7o6bgn55ghve73vi3/Lancelot-Valentine-Christmas.zip?rlkey=qglotd8e8gxkqu5f5q4ny7c54&st=3we9gdq3&dl=1"
             }
           },
@@ -6853,7 +6897,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/jh2r5of725h55eyewn8ma/Lancelot-Zodiac-Luckybox.zip?rlkey=vwdtym7wi6hte3hhdjeei4wgu&st=7wlguf5g&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/k4wpgfx466o9scfpt44e6/Lancelot-Dawning-Luckybox.zip?rlkey=b8cyqadk29x94vcbnh0tudimo&st=5mflphru&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/qp29z533x3drrmt9zu0tb/Lancelot-Champion-Luckybox.zip?rlkey=xfb3o80h8vgdoudl88ai4x8hk&st=bqsa5f43&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/cdak3jyxvdhgs1m5ab2zs/Lancelot-Kishin-Luckybox.zip?rlkey=gg9a6mb4w6woo6iexgf2orymn&st=xivika3p&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Luckybox.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/sg336jiesg9ybfkpz6b2n/Lancelot-Valentine-Luckybox.zip?rlkey=fubn0gkufenjuvfxfjc4at703&st=ohv9tm6q&dl=1"
             }
           },
@@ -6865,7 +6909,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/71x2rmjccf6n2fcp3l2em/Lancelot-Zodiac-Starlight.zip?rlkey=tmlcadesk27pfhkdi77dnsxbc&st=bulcw4ph&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/6ysyl54fva6bcmmt287f6/Lancelot-Dawning-Starlight.zip?rlkey=0s8f6iuspznbhwtekbglgts7d&st=m0s5ayra&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/zsre4flu7w9m0hyl6wtwe/Lancelot-Champion-Starlight.zip?rlkey=4fv2j19wvvb4hbpcildh5jgph&st=ps7adsjt&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/0ks0xes9fr0jujmno34uo/Lancelot-Kishin-Starlight.zip?rlkey=eks5o9khpfwsgx06lgrblwe8a&st=55d0vllt&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Starlight.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/6oehe1qqkxyu5lenz7jyi/Lancelot-Valentine-Starlight.zip?rlkey=4odjx52uu4r2tk3x4t2osfex8&st=yr5a2xcu&dl=1"
             }
           },
@@ -6877,7 +6921,7 @@
               "02 ZODIAC": "unavailable",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/842zo71kovp14irao8kch/Lancelot-Dawning-Zodiac.zip?rlkey=egkmuw4tespjkxv5k7l5lv24g&st=arlltwls&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/zbk8mz00qavhov85moibt/Lancelot-Champion-Zodiac.zip?rlkey=sa49u4oifsbgak5qlcgth0krv&st=3jcrr5u1&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/dxq6s2m2t2xj0rzpc59jx/Lancelot-Kishin-Zodiac.zip?rlkey=dt7ziyytf1r0v04h1mfmu6xr0&st=x3m9ep77&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Zodiac.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/nu26826s7yu106qxc1nmp/Lancelot-Valentine-Zodiac.zip?rlkey=te1n2lzlbb83f57qjdumw7pdj&st=3h082cmp&dl=1"
             }
           },
@@ -6889,7 +6933,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/szac7bt9bk0v7atlq49cx/Lancelot-Zodiac-Epic.zip?rlkey=o4ynpt3nh4km9rbh9f7zrrs7d&st=4f2evp7s&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/r2qii59svs0ow5brdw452/Lancelot-Dawning-Epic.zip?rlkey=334ai1s18x491z8rp76sftr09&st=gtk8age4&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/dtodiwwlexfx9qr1crbnj/Lancelot-Champion-Epic.zip?rlkey=vkwxbpcxav1gpvafpk7qvses3&st=s1y2k9jp&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/ac53tt0i8acq6pyqmkigl/Lancelot-Kishin-Epic.zip?rlkey=2yzrk97g39qqcqxu1n04cgb28&st=ooeu1d0h&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Epic.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/o8ana0ys99iob57h29dg9/Lancelot-Valentine-Epic.zip?rlkey=ai02miqhqarsjmlwv0yec1l3o&st=438by2zc&dl=1"
             }
           },
@@ -6901,7 +6945,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/j3kdd1jy56oegdn9mjdcw/Lancelot-Zodiac-Dawning.zip?rlkey=rrs66awopvmqgbytyqh8dmzs1&st=x7jmyrax&dl=1",
               "03 DAWNING": "unavailable",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/37u11s4fmq551ckdmtv84/Lancelot-Champion-Dawning.zip?rlkey=t6qd2ktdf506e3w6bvxed277w&st=kwz1vpac&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/kqujjdzx77smp2zc24e63/Lancelot-Kishin-Dawning.zip?rlkey=pdbtvo83geduc6q821vnog82b&st=9qvijzeg&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Dawning%20Stars.zip",
               "06 VALENTINE": "unavailable"
             }
           },
@@ -6913,7 +6957,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/e1zakuzsebnz8kucd98lb/Lancelot-Zodiac-Champion.zip?rlkey=hepoeztuoqoyjxx4lf0cjoebx&st=1plrfwjg&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/fzo8xvatauds9nubnjpnj/Lancelot-Dawning-Champion.zip?rlkey=7athuwl5fkrudqdabz3iax34p&st=1rht5wnv&dl=1",
               "04 CHAMPION": "unavailable",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/y4mwiyq4kcnnu3kilh01u/Lancelot-Kishin-Champion.zip?rlkey=s8otk5ad0gpgpbgutoktshjwz&st=rmd5mai1&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Champion.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/j0cq6pr9mie0nrpwp3b0h/Lancelot-Valentine-Champion.zip?rlkey=yi2g1x4j2w081mngmwj1n268h&st=gcsuzb5x&dl=1"
             }
           },
@@ -6925,7 +6969,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/33ma0xzhngykp8sar51v1/Lancelot-Zodiac-Dragon.zip?rlkey=w7q42ztrc9g28jvgdjitrqbhj&st=lwpsit7j&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/71t36z0j7oh4ftq7mr6sb/Lancelot-Dawning-Dragon-Tamer.zip?rlkey=o8fs9b2rmhm4i3mb54ug2x0w2&st=j8hixwtk&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/3mruc3hwvdlzz95b5y7w2/Lancelot-Champion-Dragon.zip?rlkey=vhbup9k7539bvsa81n72xm8z0&st=5byxs357&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/28ff9o7k5vnfyt74smdll/Lancelot-Kishin-Dragon-Tamer.zip?rlkey=rbz0a9t78lm5kibhvv25wi2wc&st=kr7pa0n0&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Dragon%20Tamer.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/209drpegu53mepo755kbg/Lancelot-Valentine-Dragon.zip?rlkey=bwqxm9ilhb6q0ukjvxzgfmxpv&st=0dnbl1ri&dl=1"
             }
           },
@@ -6937,7 +6981,7 @@
               "02 ZODIAC": "https://www.dropbox.com/scl/fi/tmjc4v2s3v7jzh9hpmcqu/Lancelot-Zodiac-Elite.zip?rlkey=a2ha7xpwayusep14akh4s8pgu&st=ic527r8n&dl=1",
               "03 DAWNING": "https://www.dropbox.com/scl/fi/lbjy6i39gxwa02n6ahczd/Lancelot-Dawning-Elite.zip?rlkey=j9309b4oqekcsdbwg94djm4g5&st=gzh6cor2&dl=1",
               "04 CHAMPION": "https://www.dropbox.com/scl/fi/myb4svxvdlhr1p1h5wc06/Lancelot-Champion-Elite.zip?rlkey=3lip0buqnm5v9nficcox5s2x5&st=66hdes3t&dl=1",
-              "05 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/maw470uqhzze3dd1iw3ve/Lancelot-Kishin-Elite.zip?rlkey=x0cm0vle9gc2hnvhih6pxn8rb&st=u7trftyf&dl=1",
+              "05 KISHIN DENSETSU": "https://github.com/injctr/large/raw/main/Lancelot/Kishin%20Densetsu/Lancelot%20Kishin%20-%20Elite.zip",
               "06 VALENTINE": "https://www.dropbox.com/scl/fi/aj72daec5ymjmmk8xw4qz/Lancelot-Valentine-Elite.zip?rlkey=1vpvhli7k7yceiro6i0t5nczc&st=13j7u62a&dl=1"
             }
           },
@@ -7951,7 +7995,7 @@
             "type1": "Default",
             "type_links": {
               "01 ZODIAC": "https://www.dropbox.com/scl/fi/j0dgjjsdvznqt0mefjocn/Lunox-Zodiac-Default.zip?rlkey=osu2rinj9nxmv1ckzy4xdf4lp&st=7i8gjfxh&dl=1",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/qhs7d8srhuxwbikyra0zh/Lunox-Luckybox-Default.zip?rlkey=4d0627w0vg55yapzwgl7b1dyo&st=p58piq1q&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Default.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/s8mj1s7pbfpwqlrhildqk/Lunox-Legend-Default.zip?rlkey=mucyhn160hbno9ijuwrrgciy5&st=tezkgqeg&dl=1"
             }
           },
@@ -7960,7 +8004,7 @@
             "type1": "Basic",
             "type_links": {
               "01 ZODIAC": "https://www.dropbox.com/scl/fi/gql5r2t9qkjepzkdmsaiy/Lunox-Zodiac-Basic.zip?rlkey=1radyfuxn2w8k7xj50gjv9ajn&st=pj6rw3au&dl=1",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/2bpnqtrlutn7agjssygap/Lunox-Luckybox-Basic.zip?rlkey=sjio7t43t465y5zd2b6clocch&st=n0w5ibt0&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Basic.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/fymfb9b2qdct1liunk4bo/Lunox-Legend-Basic.zip?rlkey=e09p3km23ijp24rmau5hy3oqh&st=4xwns77u&dl=1"
             }
           },
@@ -7969,7 +8013,7 @@
             "type1": "Elite 1",
             "type_links": {
               "01 ZODIAC": "https://www.dropbox.com/scl/fi/39idmwdxhmlq8td7g5zj6/Lunox-Zodiac-Elite-Harmony.zip?rlkey=hpho3avtdfj4c938pio89s3l2&st=khf4f1es&dl=1",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/jbc0h5z9555cbitc07w48/Lunox-Luckybox-Elite.zip?rlkey=xa35un2totml1efvlqctohy5r&st=55rm8ld4&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Elite%20Cosmic.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/kdoorlse58ihzxop67lxf/Lunox-Legend-Elite.zip?rlkey=m2273vyybbay0blzvczx5uju7&st=vv3sc985&dl=1"
             }
           },
@@ -7978,7 +8022,7 @@
             "type1": "Starlight 2019",
             "type_links": {
               "01 ZODIAC": "https://www.dropbox.com/scl/fi/so81ead4cnsitiy2181cb/Lunox-Zodiac-Starlight.zip?rlkey=iu7yyx4f2gzy13t6bixytju40&st=bdaey94w&dl=1",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/ajw5tlgwfoso7mg7qxtrx/Lunox-Luckybox-Starlight.zip?rlkey=e5sb33if7imc1e3q8gajgk8de&st=qoik1bc3&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Starlight.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/9zghhif209z76vq1fl73m/Lunox-Legend-Starlight.zip?rlkey=2upfs95n0z1bsf829nemsyo6t&st=8slct10a&dl=1"
             }
           },
@@ -7987,7 +8031,7 @@
             "type1": "Zodiac",
             "type_links": {
               "01 ZODIAC": "unavailable",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/b965j3f7p0kuiex2gp9jg/Lunox-Luckybox-Zodiac.zip?rlkey=q20wbwe4klu1gcuo4c6wyb10m&st=7vi3tz5a&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Zodiac.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/l2e4m7cdbjdrlkt0eqg0h/Lunox-Legend-Zodiac.zip?rlkey=yairefez0e5a1eh2o6qzfhrlf&st=26a8a4qj&dl=1"
             }
           },
@@ -8005,7 +8049,7 @@
             "type1": "Epic 1",
             "type_links": {
               "01 ZODIAC": "https://www.dropbox.com/scl/fi/x2d1adgax0foyrdh3fs2c/Lunox-Zodiac-Epic-Eyes.zip?rlkey=afzf3krnntiktqsnz768ndobd&st=zyt28wd1&dl=1",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/8p4gp3ouwjbxv554dxaaa/Lunox-Luckybox-Epic-Eyes.zip?rlkey=7b38n5uegd7oz9xrkc1owbmi0&st=ihwyu7wq&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Epic%20Eyes.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/dfm9zdzea0vqpiqnxrdtx/Lunox-Legend-Epic-Eyes.zip?rlkey=pmr6cpzn8s9jzw9yse14ocept&st=erp6mmjf&dl=1"
             }
           },
@@ -8014,7 +8058,7 @@
             "type1": "Epic 2",
             "type_links": {
               "01 ZODIAC": "https://www.dropbox.com/scl/fi/cijses52edbryrvrhi6py/Lunox-Zodiac-Epic-Dawn.zip?rlkey=9ijqi77tvl9i6fvr7xbo0ix44&st=f7i2tn4m&dl=1",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/ybrxmtswfkba3w1wlko98/Lunox-Luckybox-Epic-Dawn.zip?rlkey=nvt1i9t6nybpcdv89qiv6a984&st=ihg7zbux&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Epic%20Dawn.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/dxww9xumg6avmxm97gv69/Lunox-Legend-Epic-Dawn.zip?rlkey=v54judw47c2i4btoo5mj0g51g&st=k1sp5lt2&dl=1"
             }
           },
@@ -8032,7 +8076,7 @@
             "type1": "Elite 2",
             "type_links": {
               "01 ZODIAC": "https://www.dropbox.com/scl/fi/bfn2c2l305rxgo93osbjo/Lunox-Zodiac-Elite-Top-Up.zip?rlkey=csknxh7txujl0e5pefajmnz5p&st=i3oo8ldw&dl=1",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/g6p4lmxteqcfnkbmnd44h/Lunox-Luckybox-Elite-Top-up.zip?rlkey=ysn9dg39x1cbsrw5d4cb0kl85&st=iqi3g6dj&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Elite%20Nature's.zip",
               "03 LEGEND": "https://www.dropbox.com/scl/fi/7ltvdjvko2mb0kjvpxkte/Lunox-Legend-Elite-Top-up.zip?rlkey=5qqyfoq09xd8wmmv61wmubzhc&st=a75fzw7c&dl=1"
             }
           },
@@ -8041,7 +8085,7 @@
             "type1": "MPL",
             "type_links": {
               "01 ZODIAC": "unavailable",
-              "02 LUCKYBOX": "unavailable",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20MPL.zip",
               "03 LEGEND": "unavailable"
             }
           }
@@ -9268,7 +9312,8 @@
               "01 STARLIGHT 2024": "https://www.dropbox.com/scl/fi/79mjv294sfi1r2olrxwca/Novaria-Starlight-Default.zip?rlkey=k1u203en2h2sryzinl6e03t1n&st=zsq8ccjh&dl=1",
               "02 PAINTED 1 STARLIGHT": "https://www.dropbox.com/scl/fi/1gt5mr8d5w5mh334o2jjr/Novaria-Starlight-Paint-Honey-Default.zip?rlkey=j4qcmupzwvnjsq0z0yva4fhfw&st=t04pymiz&dl=1",
               "03 PAINTED 2 STARLIGHT": "https://www.dropbox.com/scl/fi/blaikzlq3l11vo429annh/Novaria-Starlight-Paint-Aqua-Default.zip?rlkey=71r5j2axwyz7lnd3menin28sl&st=si1n61ny&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/v5o99bycx5owr7ubc1uln/Novaria-Collector-Default.zip?rlkey=ddqsfdp5b5kffvctzy9923b6j&st=f18powyp&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Novaria/Collector/Novaria%20Collector%20-%20Default.zip",
+              "05 SPECIAL M7": "https://github.com/injctr/large/raw/main/Novaria/Special/Novaria%20M7%20-%20Default.zip"
             }
           },
           "02 NOVARIA": {
@@ -9278,7 +9323,8 @@
               "01 STARLIGHT 2024": "https://www.dropbox.com/scl/fi/2l74jpierr87lvwappmum/Novaria-Starlight-Basic.zip?rlkey=m4lpkxrho95x4qsdkd2u3qaz2&st=vk8mdrb8&dl=1",
               "02 PAINTED 1 STARLIGHT": "https://www.dropbox.com/scl/fi/3qlx5aon7wzzf92qb4b75/Novaria-Starlight-Paint-Honey-Basic.zip?rlkey=cvny1udjvv5pj070h61d2mcq6&st=ljlcbv1s&dl=1",
               "03 PAINTED 2 STARLIGHT": "https://www.dropbox.com/scl/fi/0k90zqzlf0aymebiwpxfy/Novaria-Starlight-Paint-Aqua-Basic.zip?rlkey=jkgmf306mzr46usvrek94ik70&st=cflfa70r&dl=1",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/gei4u1vxnh4va0a978bwa/Novaria-Collector-Basic.zip?rlkey=xwp10mebj04bi9071j3eh4jky&st=0n0jw9ws&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Novaria/Collector/Novaria%20Collector%20-%20Basic.zip",
+              "05 SPECIAL M7": "https://github.com/injctr/large/raw/main/Novaria/Special/Novaria%20M7%20-%20Basic.zip"
             }
           },
           "03 STARLIGHT 2024": {
@@ -9288,7 +9334,8 @@
               "01 STARLIGHT 2024": "unavailable",
               "02 PAINTED 1 STARLIGHT": "unavailable",
               "03 PAINTED 2 STARLIGHT": "unavailable",
-              "04 COLLECTOR": "https://www.dropbox.com/scl/fi/mlpl786482b3e4ogih16y/Novaria-Collector-Starlight.zip?rlkey=u28s2pu337dfmeimmj5sjrhpr&st=fr35krn4&dl=1"
+              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Novaria/Collector/Novaria%20Collector%20-%20Starlight.zip",
+              "05 SPECIAL M7": "https://github.com/injctr/large/raw/main/Novaria/Special/Novaria%20M7%20-%20Starlight.zip"
             }
           },
           "04 COLLECTOR": {
@@ -9298,7 +9345,8 @@
               "01 STARLIGHT 2024": "unavailable",
               "02 PAINTED 1 STARLIGHT": "unavailable",
               "03 PAINTED 2 STARLIGHT": "unavailable",
-              "04 COLLECTOR": "unavailable"
+              "04 COLLECTOR": "unavailable",
+              "05 SPECIAL M7": "unavailable"
             }
           },
           "05 SPECIAL": {
@@ -9308,7 +9356,8 @@
               "01 STARLIGHT 2024": "unavailable",
               "02 PAINTED 1 STARLIGHT": "unavailable",
               "03 PAINTED 2 STARLIGHT": "unavailable",
-              "04 COLLECTOR": "unavailable"
+              "04 COLLECTOR": "unavailable",
+              "05 SPECIAL M7": "unavailable"
             }
           }
         },
@@ -9328,6 +9377,10 @@
           "04 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1194-icon.png/revision/latest?cb=20240905080720",
             "type2": "Collector"
+          },
+          "05 SPECIAL M7": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1195-icon.png/revision/latest?cb=20260421221437",
+            "type2": "Special M7"
           }
         }
       },
@@ -9376,7 +9429,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "https://www.dropbox.com/scl/fi/va867e63b4yseb5esnsm9/Odette-Christmas-Default.zip?rlkey=ycvwerbehluxh10xxnyk1hb9f&st=aptuoamo&dl=1",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/tnlxq3721bv7btczpm3n7/Odette-Valentine-Default.zip?rlkey=zmlo18vog2y1f1mxhiwgqu94a&st=50sghp1q&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -9389,7 +9442,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "https://www.dropbox.com/scl/fi/7uui06tljn5a2y4d5zv1u/Odette-Christmas-Basic.zip?rlkey=v9qt2w9ziacltkutdyqfsfgvk&st=84q32ofm&dl=1",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/jlodpbr4mc86dsuhcopj3/Odette-Valentine-Basic.zip?rlkey=rlaluuqvtvmwhpk4rsanl8jkk&st=t2m8k228&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Basic.zip"
             }
           },
           "03 CHRISTMAS": {
@@ -9402,7 +9455,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "unavailable",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/sj7hw8f2vk5ah574ouoxe/Odette-Valentine-Christmas.zip?rlkey=4gnyt4u41fc3wgqgghxs57e7d&st=nz3jatch&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Christmas.zip"
             }
           },
           "04 LUCKYBOX": {
@@ -9415,7 +9468,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "unavailable",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/cwz8cucz2k8a1n5n8yygg/Odette-Valentine-Luckybox.zip?rlkey=35j1a10zm5r0b5wm97f66r0cz&st=8i41tx0c&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Luckybox.zip"
             }
           },
           "05 SPECIAL": {
@@ -9428,7 +9481,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "https://www.dropbox.com/scl/fi/fo2rh3j8fnxhncmgu29kw/Odette-Christmas-Special.zip?rlkey=3hashta30v33dxg1mnbqizqjm&st=5w4khg4p&dl=1",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/vs83dwkdo5bf6eqr0bm6u/Odette-Valentine-Special.zip?rlkey=9t2s95n3gh01a3tnq4fet4zie&st=5dqw76xb&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Special.zip"
             }
           },
           "06 ZODIAC": {
@@ -9441,7 +9494,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "unavailable",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/70lhz2y7zbszryz3s7k04/Odette-Valentine-Zodiac.zip?rlkey=dn0bwuo3r6aaxwojbycwen0xs&st=9vcsreos&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Zodiac.zip"
             }
           },
           "07 LUNAR FEST": {
@@ -9454,7 +9507,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "https://www.dropbox.com/scl/fi/keq8c6u2wtsgv31p6by14/Odette-Christmas-Lunar-Fest.zip?rlkey=q2vhy3zkxzvn5zy3lpe4ekeqe&st=rqtuwxe9&dl=1",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/0px0dg1o6hm2dltvybs39/Odette-Valentine-Lunar.zip?rlkey=rh32zalkamrtf2rlhcxfw9wh0&st=5zws97vt&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Lunar%20Fest.zip"
             }
           },
           "08 CREATE": {
@@ -9467,7 +9520,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "unavailable",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/tzg85dal1lt12sca95bqn/Odette-Valentine-Create.zip?rlkey=4ybwr6x9ud9ebpybaq76f072n&st=8xe78ae1&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Create.zip"
             }
           },
           "09 STARLIGHT 2024": {
@@ -9480,7 +9533,7 @@
               "04 CREATE": "unavailable",
               "05 STARLIGHT 2024": "unavailable",
               "06 CHRISTMAS": "https://www.dropbox.com/scl/fi/cdlayx04cwb44nu1c6olu/Odette-Christmas-Starlight.zip?rlkey=v36lzztzjduamc36vnrxq0dcm&st=v2b1iygh&dl=1",
-              "07 VALENTINE": "https://www.dropbox.com/scl/fi/3cxkiu89muh7mmzdpu66k/Odette-Valentine-Starlight.zip?rlkey=6i955ckqmwhxnoupr5puhx0nu&st=5pn7d7af&dl=1"
+              "07 VALENTINE": "https://github.com/injctr/large/raw/main/Odette/Valentine/Odette%20Valentine%20-%20Starlight.zip"
             }
           }
         },
@@ -9526,7 +9579,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/er7ovjzq41jsg3pm2undk/Paquito-KOF-Default.zip?rlkey=rgnouwkv4zvid7ndioy1wjbx4&st=2hjrl18h&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Default.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Default.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Default.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -9538,7 +9592,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/gpm8kqmb8jqoxnzgo0crg/Paquito-KOF-Basic.zip?rlkey=mgy68i0hyl9onpze154h855eu&st=r1n8bi8q&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Basic.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Basic.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Basic.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "03 MANNY PACQUIAO": {
@@ -9550,7 +9605,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/jewjfkkb8pmrl5euz7o4p/Paquito-KOF-Manny-Pacquiao.zip?rlkey=gjrfluyay0me8bsxrjevc5t86&st=y2gkb9gl&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Manny%20Pacquiao.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Manny%20Pacquiao.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Manny%20Pacquiao.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Manny%20Pacquiao.zip"
             }
           },
           "04 SPECIAL 1": {
@@ -9562,7 +9618,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/msl7r1vow9yxip07ejyav/Paquito-KOF-Special.zip?rlkey=z2evlhy9ygeti7fe75y8ceq3p&st=uph530kk&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Special.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Special%20Underground%20Boxer.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Special%20Underground%20Boxer.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Special%20Underground%20Boxer.zip"
             }
           },
           "05 STARLIGHT 2022": {
@@ -9574,7 +9631,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/6ljaug5kohiykeehqru69/Paquito-KOF-Starlight.zip?rlkey=2c8wltf48dj7u16fwyv71vvdc&st=f8iqi9ae&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Starlight.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Starlight.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Starlight.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "06 SPECIAL 2": {
@@ -9586,7 +9644,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/i29cz9kvd9zfaocff9q7g/Paquito-KOF-Special-MPass.zip?rlkey=nu6mpsyeuaybe3pp1eywz8etj&st=vmhaxf54&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Special%20MPL.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Special%20Fist%20of%20Light.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Special%20Fist%20of%20Light.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Special%20Fists%20of%20Light.zip"
             }
           },
           "07 COLLECTOR": {
@@ -9598,7 +9657,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/wfw0pgf8gtm6d6k7p3j8l/Paquito-KOF-Collector.zip?rlkey=57dk6dpfsh88sg0uk90t8ihy8&st=67nhxhaa&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Collector.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Collector.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20Collector.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20Collector.zip"
             }
           },
           "08 KOF": {
@@ -9610,7 +9670,8 @@
               "03 KOF": "unavailable",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20KOF.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20KOF.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20KOF.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20KOF.zip"
             }
           },
           "09 FMVP": {
@@ -9622,7 +9683,8 @@
               "03 KOF": "https://www.dropbox.com/scl/fi/o06bx9ief3nsu7mmh9tkf/Paquito-KOF-FMVP.zip?rlkey=7wybpzczn52xxmlgjuekhix1l&st=k7itwx45&dl=1",
               "04 FMVP": "unavailable",
               "05 STREET FIGHTER 2": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%202/Paquito%20Street%20Fighter%202%20-%20Champion.zip",
-              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20FMVP.zip"
+              "06 STREET FIGHTER 1": "https://github.com/injctr/large/raw/main/Paquito/Street%20Fighter%201/Paquito%20Street%20Fighter%201%20-%20FMVP.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Paquito/Epic/Paquito%20Epic%20-%20FMVP.zip"
             }
           }
         },
@@ -9650,6 +9712,10 @@
           "06 STREET FIGHTER 1": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20SF1.jpg",
             "type2": "Street Fighter 1"
+          },
+          "07 EPIC": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20skin%20Epic.png",
+            "type2": "Epic"
           }
         }
       },
@@ -9661,7 +9727,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/n6gsp5nw6xs72ao127i91/Pharsa-Collector-Default.zip?rlkey=3e62s2goroiodb57jhzbbrwdw&st=9920bdgu&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Default.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/dg7kpmcms1dxrs6fyct5i/Pharsa-Neobeast-Default.zip?rlkey=vj0sqgccfhxwt5tp77bn7snwy&st=kkrohnsy&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/dg7kpmcms1dxrs6fyct5i/Pharsa-Neobeast-Default.zip?rlkey=vj0sqgccfhxwt5tp77bn7snwy&st=kkrohnsy&dl=1",
+              "04 TIDES": "https://github.com/injctr/large/raw/main/Pharsa/Tides/Pharsa%20AllStar%20-%20Default.zip"
             }
           },
           "02 BASIC 1": {
@@ -9670,7 +9737,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/c1jr7qut63pdi7px4l041/Pharsa-Collector-Basic.zip?rlkey=copfc6tn68d7rolh0i58rk6un&st=zx61xpir&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Basic.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/f5bayalj6mu1gput88nvd/Pharsa-Neobeast-Basic.zip?rlkey=x4daxb9m15a071ymw2oofvs2y&st=cuuu0zx2&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/f5bayalj6mu1gput88nvd/Pharsa-Neobeast-Basic.zip?rlkey=x4daxb9m15a071ymw2oofvs2y&st=cuuu0zx2&dl=1",
+              "04 TIDES": "https://github.com/injctr/large/raw/main/Pharsa/Tides/Pharsa%20AllStar%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -9679,7 +9747,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/b9aoc5s38nzvwuz058xnu/Pharsa-Collector-Elite.zip?rlkey=dpp0nw9afs046d0etxw2lds8t&st=j9batgl5&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Elite.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/qlzvp07pm442gpk3db9nh/Pharsa-Neobeast-Elite.zip?rlkey=nv8jy2b6jvrzru37expg7old5&st=j1epa53b&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/qlzvp07pm442gpk3db9nh/Pharsa-Neobeast-Elite.zip?rlkey=nv8jy2b6jvrzru37expg7old5&st=j1epa53b&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "04 BASIC 2": {
@@ -9688,7 +9757,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/iwvrxsjnfpimofey9zany/Pharsa-Collector-Indigo.zip?rlkey=m6uz6pvutejhp3635oy8v08g5&st=myg4bcaa&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Indigo.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/cwm85ycrt0tngeis99ori/Pharsa-Neobeast-Indigo.zip?rlkey=ctkgztknrp67dyj3guvzz8rdb&st=kldaksda&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/cwm85ycrt0tngeis99ori/Pharsa-Neobeast-Indigo.zip?rlkey=ctkgztknrp67dyj3guvzz8rdb&st=kldaksda&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "05 SEASON 14": {
@@ -9697,7 +9767,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/00xa5r4ua5j1f2neqvse2/Pharsa-Collector-Season.zip?rlkey=z8swd73qtp1w0qcf6jbyhvsps&st=6sf9rwes&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Season.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/pvdc4a83ctzrzdq3qbvby/Pharsa-Neobeast-Season.zip?rlkey=bz2t1pqfv7w2le1ibp0dmitvd&st=v24tls49&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/pvdc4a83ctzrzdq3qbvby/Pharsa-Neobeast-Season.zip?rlkey=bz2t1pqfv7w2le1ibp0dmitvd&st=v24tls49&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "06 COLLECTOR": {
@@ -9706,7 +9777,8 @@
             "type_links": {
               "01 COLLECTOR": "unavailable",
               "02 NEW COLLECTOR": "unavailable",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/mluaip06vcwkkrzl1pi3l/Pharsa-Neobeast-Collector.zip?rlkey=x0jn54o4armn3mvme6ogwalru&st=y48g98gl&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/mluaip06vcwkkrzl1pi3l/Pharsa-Neobeast-Collector.zip?rlkey=x0jn54o4armn3mvme6ogwalru&st=y48g98gl&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "07 SPECIAL": {
@@ -9715,7 +9787,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/k4y11g8dne8y70gjya4ak/Pharsa-Collector-Special.zip?rlkey=8666xrjmax03ytx0zel4xto2b&st=xsgox4m8&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Special.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/jj6bkrty9i7kjj8cq1z2e/Pharsa-Neobeast-Special.zip?rlkey=2cdb1vvf4wumq9p8db1fp6sgm&st=wh78ihmi&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/jj6bkrty9i7kjj8cq1z2e/Pharsa-Neobeast-Special.zip?rlkey=2cdb1vvf4wumq9p8db1fp6sgm&st=wh78ihmi&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "08 STARLIGHT 2021": {
@@ -9724,7 +9797,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/f87nrqr4h65544apqxnju/Pharsa-Collector-Starlight.zip?rlkey=mpxxzyzjtsk4k9gta33hpfpxk&st=2v10hohy&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Starlight.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/leokusuvt9p5oo2w38ps5/Pharsa-Neobeast-Starlight.zip?rlkey=5j45w8zr5t675xmj1wqsnwgod&st=jurht9wl&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/leokusuvt9p5oo2w38ps5/Pharsa-Neobeast-Starlight.zip?rlkey=5j45w8zr5t675xmj1wqsnwgod&st=jurht9wl&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "09 MSC 2022": {
@@ -9733,7 +9807,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/ajqr5e94xnzwnpylrzesr/Pharsa-Collector-MSC.zip?rlkey=or2lr21rx9x0txuk6os1bwvaj&st=7do81ivd&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20MSC.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/1o2pd688iaciolhku1zau/Pharsa-Neobeast-MSC.zip?rlkey=snh0gvuc1jq936i5y1xa4zh6r&st=bberhn6m&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/1o2pd688iaciolhku1zau/Pharsa-Neobeast-MSC.zip?rlkey=snh0gvuc1jq936i5y1xa4zh6r&st=bberhn6m&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "10 EPIC": {
@@ -9742,7 +9817,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/2dvrb7t6m3xj7uc82l8mv/Pharsa-Collector-Epic.zip?rlkey=byhrinmil5anpvjsvqhru0ntm&st=4q20fxj1&dl=1",
               "02 NEW COLLECTOR": "https://github.com/injctr/large/raw/main/Pharsa/New%20Collector/Pharsa%20Collector%20-%20Epic.zip",
-              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/utuojge5u48lntvsoq1jv/Pharsa-Neobeast-Epic.zip?rlkey=od99b5u3xd5pz5rgxbjlfab4n&st=99tpdvc9&dl=1"
+              "03 NEOBEAST": "https://www.dropbox.com/scl/fi/utuojge5u48lntvsoq1jv/Pharsa-Neobeast-Epic.zip?rlkey=od99b5u3xd5pz5rgxbjlfab4n&st=99tpdvc9&dl=1",
+              "04 TIDES": "unavailable"
             }
           },
           "11 NEOBEAST": {
@@ -9751,7 +9827,8 @@
             "type_links": {
               "01 COLLECTOR": "https://www.dropbox.com/scl/fi/njb7kwvdizs5pbd72mn1y/Pharsa-Collector-Neobeast.zip?rlkey=je4p9qodn6ykwx7d108s38q5o&st=6gscl860&dl=1",
               "02 NEW COLLECTOR": "unavailable",
-              "03 NEOBEAST": "unavailable"
+              "03 NEOBEAST": "unavailable",
+              "04 TIDES": "unavailable"
             }
           },
           "12 TIDES": {
@@ -9760,7 +9837,8 @@
             "type_links": {
               "01 COLLECTOR": "unavailable",
               "02 NEW COLLECTOR": "unavailable",
-              "03 NEOBEAST": "unavailable"
+              "03 NEOBEAST": "unavailable",
+              "04 TIDES": "unavailable"
             }
           }
         },
@@ -9776,6 +9854,10 @@
           "03 NEOBEAST": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero105211-icon.png/revision/latest?cb=20250301113857",
             "type2": "Neobeast"
+          },
+          "04 TIDES": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero105212-icon.png/revision/latest?cb=20260423000426",
+            "type2": "Tides"
           }
         }
       },
@@ -9977,7 +10059,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/wtz9nf3erdvsafy9odqih/Roger-Prime-Default.zip?rlkey=3mq9pes8z7ok8vy90soosivp3&st=i3so43si&dl=1",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/a7rqw8f254xfl4ciqq944/Roger-Transformers-Default.zip?rlkey=3hzzopwwlqwx5usja98k7indh&st=12rmwy4l&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/dcqa83amwpwerjiebeur5/Roger-Metro-Default.zip?rlkey=bw81b4ui2c57s8n3x30i8qag3&st=cdkw4kyw&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/dcqa83amwpwerjiebeur5/Roger-Metro-Default.zip?rlkey=bw81b4ui2c57s8n3x30i8qag3&st=cdkw4kyw&dl=1",
+              "07 SPECIAL": "https://github.com/injctr/large/raw/main/Roger/Special/Roger%20Special%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -9989,7 +10072,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/clwsal0kzbil3otzxxz0w/Roger-Prime-Basic.zip?rlkey=o0kahoprom2ze707pb29gwhn2&st=xib9x9ar&dl=1",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/0hp7mm1tkxsxe9j5cgmpv/Roger-Transformers-Basic.zip?rlkey=ru2cgdev480985dkoknhx1p7d&st=x7lf6v1e&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/yfn5zw2582k3eucm2rhm4/Roger-Metro-Basic.zip?rlkey=86egpxmsbhtez11gwayf6woqu&st=86jwb0rg&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/yfn5zw2582k3eucm2rhm4/Roger-Metro-Basic.zip?rlkey=86egpxmsbhtez11gwayf6woqu&st=86jwb0rg&dl=1",
+              "07 SPECIAL": "https://github.com/injctr/large/raw/main/Roger/Special/Roger%20Special%20-%20Basic.zip"
             }
           },
           "03 LUCKYBOX": {
@@ -10001,7 +10085,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/fdnhtl5zgx0qji07buwok/Roger-Prime-Luckybox.zip?rlkey=cu888ac4y9p5c2nvhvdqmxyoz&st=4os0l9sx&dl=1",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/pc0qzpt0s1sofdocfex6w/Roger-Transformers-Luckybox.zip?rlkey=b9e6pwm3d1a1bmjcy6s52iuh0&st=8ifzahx9&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/md53mftxr9vzvbqanhmqo/Roger-Metro-Luckybox.zip?rlkey=noil96mipluscosdhz91hodfq&st=49bmjapv&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/md53mftxr9vzvbqanhmqo/Roger-Metro-Luckybox.zip?rlkey=noil96mipluscosdhz91hodfq&st=49bmjapv&dl=1",
+              "07 SPECIAL": "unavailable"
             }
           },
           "04 STARLIGHT 2018": {
@@ -10013,7 +10098,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/mlls9sdrwo6cfs4dg0ria/Roger-Prime-Starlight.zip?rlkey=mkjwxryxlwzfldjsdo8c3xz29&st=y8n4muor&dl=1",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/i8wyal3b9f1rxqvnv0zmj/Roger-Transformers-Starlight.zip?rlkey=83hmx2rznb6wd7qdoqnl5mn2e&st=259rzh0i&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/g6rl3e6jhjpd2jmpxnoj4/Roger-Metro-Starlight.zip?rlkey=cl6xzg9qsp1040o6tm6kmpyp2&st=q5jzjrgp&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/g6rl3e6jhjpd2jmpxnoj4/Roger-Metro-Starlight.zip?rlkey=cl6xzg9qsp1040o6tm6kmpyp2&st=q5jzjrgp&dl=1",
+              "07 SPECIAL": "unavailable"
             }
           },
           "05 EPIC 1": {
@@ -10025,7 +10111,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/3pioqw0z7u50pqzs8tjwi/Roger-Prime-Epic-Phantom.zip?rlkey=1ec99yjf5us1lsq2kqkhscpmu&st=3ubdzy12&dl=1",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/84lh3as6h3x7ljavziqzf/Roger-Transformers-Epic-Phantom.zip?rlkey=y11pjs4bra0tcmydrybhvqxjc&st=k88dhztv&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/idms5m40z59gm79967gah/Roger-Metro-Epic-Phantom.zip?rlkey=sjw071gqwj28os1qcvwsouak8&st=txh062hz&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/idms5m40z59gm79967gah/Roger-Metro-Epic-Phantom.zip?rlkey=sjw071gqwj28os1qcvwsouak8&st=txh062hz&dl=1",
+              "07 SPECIAL": "unavailable"
             }
           },
           "06 EPIC 2": {
@@ -10037,7 +10124,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/3hut8v6f9r82sx3g2u9jy/Roger-Prime-Epic-Cyborg.zip?rlkey=d5zf6mc27x1l8p6wu72dc9ki4&st=1l3xts6b&dl=1",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/mkntzk5ua9omurpcy8clu/Roger-Transformers-Epic-Cyborg.zip?rlkey=017i8bwb4q95ngq2ewgjl36kf&st=328fs3ji&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/xwzzpck3g63fbr1ojb3ac/Roger-Metro-Epic-Cyborg.zip?rlkey=x09o87wq57dozg4lyft71x8o0&st=0tl93onf&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/xwzzpck3g63fbr1ojb3ac/Roger-Metro-Epic-Cyborg.zip?rlkey=x09o87wq57dozg4lyft71x8o0&st=0tl93onf&dl=1",
+              "07 SPECIAL": "unavailable"
             }
           },
           "07 M3": {
@@ -10049,7 +10137,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/djuwtnis8e3i9a71qkz1y/Roger-Prime-M3.zip?rlkey=arf4msq9b79j1398992ddaicx&st=3bdrpq58&dl=1",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/vc52lf4ukan61bwprpk0v/Roger-Transformers-M3.zip?rlkey=lck3j52xcbdp2wjexd2kbhyjj&st=b62359y5&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/j8ixcnro6terit9eslx50/Roger-Metro-M3.zip?rlkey=9l17epmnn5s4rtfar4an9q56h&st=fk2pqm9d&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/j8ixcnro6terit9eslx50/Roger-Metro-M3.zip?rlkey=9l17epmnn5s4rtfar4an9q56h&st=fk2pqm9d&dl=1",
+              "07 SPECIAL": "unavailable"
             }
           },
           "08 PRIME": {
@@ -10061,7 +10150,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "unavailable",
               "05 TRANSFORMERS": "https://www.dropbox.com/scl/fi/97dmot06ytls60wnkga4u/Roger-Transformers-Prime.zip?rlkey=6yq000tihwilldxp24mpsn6hi&st=ibw0w9rc&dl=1",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/0chddicdax5wbgtmp22h2/Roger-Metro-Prime.zip?rlkey=ugaiqwff49afi87i4vzxpoyi7&st=87goq8az&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/0chddicdax5wbgtmp22h2/Roger-Metro-Prime.zip?rlkey=ugaiqwff49afi87i4vzxpoyi7&st=87goq8az&dl=1",
+              "07 SPECIAL": "unavailable"
             }
           },
           "09 TRANSFORMERS": {
@@ -10073,7 +10163,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "https://www.dropbox.com/scl/fi/swt742aa92fjew69loaqb/Roger-Prime-Transformers.zip?rlkey=rijeiemssenwhevdt3s8prlvz&st=j8hcgq6u&dl=1",
               "05 TRANSFORMERS": "unavailable",
-              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/vdkpwec9z3zy94seqx0hm/Roger-Metro-Transformers.zip?rlkey=5rglme5fucmhjo4z5jxjlj1w1&st=cqrpdn80&dl=1"
+              "06 METRO ZERO": "https://www.dropbox.com/scl/fi/vdkpwec9z3zy94seqx0hm/Roger-Metro-Transformers.zip?rlkey=5rglme5fucmhjo4z5jxjlj1w1&st=cqrpdn80&dl=1",
+              "07 SPECIAL": "unavailable"
             }
           },
           "10 METRO ZERO": {
@@ -10085,7 +10176,8 @@
               "03 M3": "unavailable",
               "04 PRIME": "unavailable",
               "05 TRANSFORMERS": "unavailable",
-              "06 METRO ZERO": "unavailable"
+              "06 METRO ZERO": "unavailable",
+              "07 SPECIAL": "unavailable"
             }
           }
         },
@@ -10113,6 +10205,10 @@
           "06 METRO ZERO": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/44/Hero103910-icon.png/revision/latest?cb=20250615074317",
             "type2": "Metro Zero"
+          },
+          "07 SPECIAL": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero103911-icon.png/revision/latest?cb=20260530012752",
+            "type2": "Special"
           }
         }
       },
@@ -10345,7 +10441,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/rghoqb17ek4artwymqwnl/Selena-Luckybox-Default.zip?rlkey=xfdgnrpj2e9rlm7qakou1x9fd&st=gluw6uar&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/27p7r9lbihjrd7ce0ihej/Selena-STUN-Default.zip?rlkey=5wfsnme8uav4p4t1g34jpckxb&st=qa6odg32&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/3vft2ofr9tijdi0uqeimj/Selena-Abyss-Default.zip?rlkey=4mgbqv7vhezmfqe0829xcjocn&st=jc2tnj81&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/aby3zkhxxf81cclcg4hfs/Selena-Zenith-Default.zip?rlkey=t7ympj1de4r93tu2py3yq09tc&st=k91bsgkm&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Default.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Selena/Epic%20Butterfly/Selena%20Epic%20Butterfly%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -10357,7 +10454,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/s1og1jxm0gfkogb0qa6i3/Selena-Luckybox-Basic.zip?rlkey=gfmml7x9f3ixi0wtc23xqpglu&st=lvqdmfed&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/gb2jftsmr4bge1imgrkng/Selena-STUN-Basic.zip?rlkey=0k29hjtcxheakbbjd48b1xptb&st=803pqupa&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/ggzzawty0onzv4c50351r/Selena-Abyss-Basic.zip?rlkey=7h0h17plsn2mvnxg1739xypfr&st=znojt4h2&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/8u58feq1ie8ord4ajh4qa/Selena-Zenith-Basic.zip?rlkey=avx03oclsm6tgk0b0q7w0vp22&st=fmmpk1od&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Basic.zip",
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Selena/Epic%20Butterfly/Selena%20Epic%20Butterfly%20-%20Basic.zip"
             }
           },
           "03 EPIC": {
@@ -10369,7 +10467,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/b326fx7bzw2g8vtgk69ri/Selena-Luckybox-Epic.zip?rlkey=dvv16hn0xtn41u8qrtnhvsjzx&st=v5fgzoee&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/h52gg7k2ffbz5asz5u28r/Selena-STUN-Virus.zip?rlkey=9bp5vv6x4225efcd3qcc91ckn&st=8ryvu9p7&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/dsfw4shzpimqga0627vrp/Selena-Abyss-Epic.zip?rlkey=190nitqst8m8wts65mkt8w6eg&st=ago0p56m&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/ktyhmcwtf2fnype8rkcz5/Selena-Zenith-Virus.zip?rlkey=cawag1o497fgjhcrj598nav4p&st=7bt324e0&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Virus.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "04 ZODIAC": {
@@ -10381,7 +10480,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/l4ofcz9u5ymy3didxojbk/Selena-Luckybox-Zodiac.zip?rlkey=har9mhg11kh462einxz2o4gwv&st=kasnrahu&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/bgls80yzdwxoep3mvxnbq/Selena-STUN-Zodiac.zip?rlkey=03b1jvqqemv013q16gv0c3w57&st=iv68qrk8&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/u7cqdtb590r3cq8iy3mwv/Selena-Abyss-Zodiac.zip?rlkey=o59ti76e2jlj4xw87dvb99ypi&st=0n0hocp5&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/ec3j29pvce2o0mizyij78/Selena-Zenith-Zodiac.zip?rlkey=xqplffko2494tiwqws6dj0584&st=lz5b3e8k&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Zodiac.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "05 STARLIGHT 2019": {
@@ -10393,7 +10493,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/qm8heliz11l3gfih93j9z/Selena-Luckybox-Starlight.zip?rlkey=fs1fnmarzp0p3z3we0mw8w4dt&st=qadbleap&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/ni2nv5lgzub4j2t8lw4q5/Selena-STUN-Starlight.zip?rlkey=iwbc0p5kg1pj8xtkrj57ahox3&st=hodpu6gl&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/03un44moncm0ueizzoeba/Selena-Abyss-Starlight.zip?rlkey=bbivgze6ncebce3h6o6k4386g&st=5l4yawux&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/soz957gkrevu908ye1d7s/Selena-Zenith-Starlight.zip?rlkey=a7nmw4nk8uj9a3g9981h8jd9s&st=y7syscbn&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Starlight.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "06 LUCKYBOX": {
@@ -10405,7 +10506,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/py9rt74rtszoj9hii26tj/Selena-STUN-Luckybox.zip?rlkey=f6su3kdjhnnvxjw1qac3938f8&st=kqey8wpc&dl=1",
               "04 STUN": "unavailable",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/0zskzwmuahenfo0dyzgbl/Selena-Abyss-Luckybox.zip?rlkey=n8ocpowyj0nk9a9vjtgqmyrck&st=u112qcuf&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/d6ytmmn1unytdnxzlx7tr/Selena-Zenith-Luckybox.zip?rlkey=wu6zsjkjofxmi6xf2eiu96ipl&st=y6izjcc4&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Luckybox.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "07 ELITE": {
@@ -10417,7 +10519,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/003e2bq76s7nkp2um6ykq/Selena-Luckybox-Elite.zip?rlkey=heoksuzsiqvzqjy6s38w5jj5i&st=qeoodlc9&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/t2cfe120pwwibcqdmjns3/Selena-STUN-Elite.zip?rlkey=m56nc3221twm0rmluirqt7jjq&st=86y1w0s6&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/tff7y85v11hnypmwojocf/Selena-Abyss-Elite.zip?rlkey=og25epvxru15vofabipaq1c8r&st=pbapvghs&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/zsxu20tfav94dx4sbp4ae/Selena-Zenith-Elite.zip?rlkey=bgiycacbo9fa7ybq6xnevus5m&st=p0f4v5hv&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Elite.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "08 STUN": {
@@ -10429,7 +10532,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/92wdaqq7ismohtz21zw4n/Selena-Luckybox-STUN.zip?rlkey=tzgk3uqjma0rs4cdled1gamz2&st=w4u6hkk0&dl=1",
               "04 STUN": "unavailable",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/ajjj3puewp255r590jxmv/Selena-Abyss-STUN.zip?rlkey=r1s93eq6glns7is7dwhja5lqm&st=eziz9wni&dl=1",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/dxl6rz9eqnjo4wtjwdely/Selena-Zenith-STUN.zip?rlkey=v3nbjmf8qx74z8j3hkm0vsxts&st=bhocffhr&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20STUN.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "09 ABYSS": {
@@ -10441,7 +10545,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/dr2fs5ljt192uufvz9um0/Selena-Luckybox-Abyss.zip?rlkey=g8n49j3k71cecnb75nonr6433&st=ikp4bnyw&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/lzeojfljllsczs040wm29/Selena-STUN-Abyss.zip?rlkey=6aet51zmipacawuqwuhstuzc3&st=x937o6rc&dl=1",
               "05 ABYSS": "unavailable",
-              "06 ZENITH": "https://www.dropbox.com/scl/fi/0ytrnrebhk9pzs0zldaxg/Selena-Zenith-Abyss.zip?rlkey=85tor96vuyq6bkycrtysquepv&st=87yz62pb&dl=1"
+              "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Abyss.zip",
+              "07 EPIC": "unavailable"
             }
           },
           "10 ZENITH": {
@@ -10453,7 +10558,8 @@
               "03 LUCKYBOX": "https://www.dropbox.com/scl/fi/s5qr544fokx5pslpw139w/Selena-Luckybox-Zenith.zip?rlkey=l82px2oswtjmc43mvffmal875&st=crablrci&dl=1",
               "04 STUN": "https://www.dropbox.com/scl/fi/hqik9z7e4k546d9r0v8px/Selena-STUN-Zenith.zip?rlkey=hhp0mx7rb1rmuf4x28b675pus&st=7uafq3sr&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/lv9tm17985cepsc360ypr/Selena-Abyss-Zenith.zip?rlkey=xgunhtin1wmkpi7jthgmvecqt&st=rwwz3cz6&dl=1",
-              "06 ZENITH": "unavailable"
+              "06 ZENITH": "unavailable",
+              "07 EPIC": "unavailable"
             }
           }
         },
@@ -10481,6 +10587,10 @@
           "06 ZENITH": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero106311-icon.png/revision/latest?cb=20250106155532",
             "type2": "Zenith"
+          },
+          "07 EPIC": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Selena%20skin%20Epic.png",
+            "type2": "Epic"
           }
         }
       },
@@ -10624,7 +10734,7 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/5vfykaryc3cqa5xww9rzd/Sun-Lunar-Default.zip?rlkey=p8fn0mdtmdxn7crn24lljroeu&st=e9o3nqak&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/rxcrpnly3qqu5x2pxagyx/Sun-Collector-Default.zip?rlkey=3y4arcrgx1kadgl76q94683bq&st=vwxcp49l&dl=1",
-              "03 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/8crc7yjxmts08zys1xy0i/Sun-Annual-Star-Default.zip?rlkey=sxh06xent3qqa0v1zy6j05mck&st=x2kcr5yz&dl=1"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Default.zip"
             }
           },
           "02 ELITE": {
@@ -10633,7 +10743,7 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/wagdix1dv8wwp9m9wlt61/Sun-Lunar-Elite.zip?rlkey=y2dmu4sq9txy9schcwdtch0sn&st=31fjo577&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/iwjtryvs2cz70jk8fbzys/Sun-Collector-Elite.zip?rlkey=b1vyzxexm5nmhfzr9onpzsuzb&st=x4k8u7pk&dl=1",
-              "03 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/ntd8xhmvy2jex24wkr8fb/Sun-Annual-Star-Elite.zip?rlkey=l9utzpcdukvncqyk61s56uuo6&st=kjbxlrl4&dl=1"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Elite.zip"
             }
           },
           "03 SPECIAL 1": {
@@ -10642,7 +10752,7 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/i04eqyojojqkbpv0drmne/Sun-Lunar-Special-Rockstar.zip?rlkey=dsjkfytzuub70u669msxh3wsa&st=dh2bv6eo&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/wl3n9x661rc98ofn5o3md/Sun-Collector-Special.zip?rlkey=z3pot8jt9j60xvlbtdhaetno4&st=ipqcy22x&dl=1",
-              "03 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/1h8pqxdur41rsbtbdkk7r/Sun-Annual-Star-Special-Rock-Star.zip?rlkey=dsdicti4nobiakxuw81v410wv&st=wixz5w3p&dl=1"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Special%20Rock%20Star.zip"
             }
           },
           "04 SPECIAL 2": {
@@ -10651,7 +10761,7 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/66qi84ui0hgf0m49idjrq/Sun-Lunar-Special-Street.zip?rlkey=w80xxvzie6xkarijpsnq6rkb4&st=4p49pf51&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/jz0l4nv9ilbjdtrvh8lef/Sun-Collector-Special-Street.zip?rlkey=6eccvuve45zotcclr3cu23vrq&st=4spfdw0g&dl=1",
-              "03 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/yucvscgav8hutatlx0cyf/Sun-Annual-Star-Special-Street-Legend.zip?rlkey=kpztj2fi1sly68ydgfbp91ah7&st=89h723el&dl=1"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Special%20Street%20Legend.zip"
             }
           },
           "05 STARLIGHT 2021": {
@@ -10660,7 +10770,7 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/6ym5sgv021s1r2lt5see3/Sun-Lunar-Starlight.zip?rlkey=fgqup58wgc34t1q8ny11xvdsb&st=5fwphjjj&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/nih01pdswwkf5ip6azalj/Sun-Collector-Starlight.zip?rlkey=clya001bcnlmcckir35bgylob&st=up7y4bmb&dl=1",
-              "03 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/p9myyd59xx9nnakh126mt/Sun-Annual-Star-Starlight.zip?rlkey=c5ly9iv9h32fk5yoe9lfnq7kh&st=zgxfmgdz&dl=1"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Starlight.zip"
             }
           },
           "06 S15 FIRST RECHARGE": {
@@ -10669,7 +10779,7 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/onjkq42j3ggsjuukig12w/Sun-Lunar-Top-up.zip?rlkey=fukdrqatko19smmoftkuwkdgr&st=pdt9tna8&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/ihvrjq9e75fsha69rfuz8/Sun-Collector-Top-up.zip?rlkey=l8ogstdajajynndit6pitj5f8&st=crwtxw47&dl=1",
-              "03 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/z8b22jv7ry7h90fnzw1op/Sun-Annual-Star-Celestial-Outlaw.zip?rlkey=7kuha1xq8jhxdde79vsbp7yra&st=gy3sqhyu&dl=1"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Celestial%20Outlaw.zip"
             }
           },
           "07 LUNAR FEST": {
@@ -10678,7 +10788,7 @@
             "type_links": {
               "01 LUNAR FEST": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/vyba8yi272rknosjjlmey/Sun-Collector-Lunar.zip?rlkey=3yg90p1g5wnii5xjt7z0dmd4m&st=cxqnx7hi&dl=1",
-              "03 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/147dqm59imya0q0ss2h1t/Sun-Annual-Star-Lunar-Fest.zip?rlkey=i23a8vtyt5e77sgo95hikpl01&st=hwq9gf2t&dl=1"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Lunar%20Fest.zip"
             }
           },
           "08 COLLECTOR": {
@@ -10687,7 +10797,7 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/yei3z7777vh3p7vsgkwb1/Sun-Lunar-Collector.zip?rlkey=s31hkjny2hwze3zvuzm696s7s&st=3pp6e8ay&dl=1",
               "02 COLLECTOR": "unavailable",
-              "03 ANNUAL STARLIGHT": "unavailable"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Collector.zip"
             }
           }
         },
@@ -10803,7 +10913,7 @@
             "type1": "Default",
             "type_links": {
               "01 KUNG FU PANDA": "https://www.dropbox.com/scl/fi/ykrfmird44m51857i2rfj/Thamuz-Kungfu-Default.zip?rlkey=57w8jkn9ijx60g6fktjr9iicy&st=l8xqh932&dl=1",
-              "02 11.11": "https://www.dropbox.com/scl/fi/m639qxmmxkqhqx1vryran/Thamuz-11.11-Default.zip?rlkey=mtikg0uslssnrl045a9t8cq6r&st=0ju7euig&dl=1"
+              "02 11.11": "https://github.com/injctr/large/raw/main/Thamuz/11.11/Thamuz%2011.11%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -10811,7 +10921,7 @@
             "type1": "Basic",
             "type_links": {
               "01 KUNG FU PANDA": "https://www.dropbox.com/scl/fi/7j1h55vzqset14tuyhigu/Thamuz-Kungfu-Basic.zip?rlkey=crga6wuih35vj5969hmd6hmap&st=e34z65ya&dl=1",
-              "02 11.11": "https://www.dropbox.com/scl/fi/oemjthjbx5xodf14u7m29/Thamuz-11.11-Basic.zip?rlkey=wv8heullf5ci0xd1bd9z6mt1j&st=htk1fc9x&dl=1"
+              "02 11.11": "https://github.com/injctr/large/raw/main/Thamuz/11.11/Thamuz%2011.11%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -10819,7 +10929,7 @@
             "type1": "Elite",
             "type_links": {
               "01 KUNG FU PANDA": "https://www.dropbox.com/scl/fi/quzltiw6am4dpig6pkpoj/Thamuz-Kungfu-Elite.zip?rlkey=l9kyix8npv5vc8vhdi8fbm3rd&st=h0tdlrxv&dl=1",
-              "02 11.11": "https://www.dropbox.com/scl/fi/mxkoro4nqhcuzjiblhmxc/Thamuz-11.11-Elite.zip?rlkey=9l9esyw3bgyovtqt9d39mcewk&st=bco4zp4v&dl=1"
+              "02 11.11": "https://github.com/injctr/large/raw/main/Thamuz/11.11/Thamuz%2011.11%20-%20Elite.zip"
             }
           },
           "04 SPECIAL": {
@@ -10827,7 +10937,7 @@
             "type1": "Special",
             "type_links": {
               "01 KUNG FU PANDA": "https://www.dropbox.com/scl/fi/tqml2c3kbeunzpjzelrhx/Thamuz-Kungfu-Special.zip?rlkey=mkj3xnjwvwhxnptpy6rmbpf76&st=qmxnyn4v&dl=1",
-              "02 11.11": "https://www.dropbox.com/scl/fi/mz140gv4jq7mj16j7i69d/Thamuz-11.11-Special.zip?rlkey=pu8r3wqyegbb8qzf5flkvbdtm&st=2mkl4z7v&dl=1"
+              "02 11.11": "https://github.com/injctr/large/raw/main/Thamuz/11.11/Thamuz%2011.11%20-%20Special.zip"
             }
           },
           "05 KUNG FU PANDA": {
@@ -10835,7 +10945,7 @@
             "type1": "Kung Fu Panda",
             "type_links": {
               "01 KUNG FU PANDA": "unavailable",
-              "02 11.11": "https://www.dropbox.com/scl/fi/de3fe52t3hl031tzq9va5/Thamuz-11.11-Kung-Fu.zip?rlkey=8mz8zz17sw1ejc3m0fg3euukz&st=3apjojxm&dl=1"
+              "02 11.11": "https://github.com/injctr/large/raw/main/Thamuz/11.11/Thamuz%2011.11%20-%20Kungfu%20Panda.zip"
             }
           },
           "06 STARLIGHT 2023": {
@@ -10843,13 +10953,13 @@
             "type1": "Starlight 2023",
             "type_links": {
               "01 KUNG FU PANDA": "https://www.dropbox.com/scl/fi/ecpzlewdm58y4jlxp8w7d/Thamuz-Kungfu-Starlight.zip?rlkey=p7mffqqz4hjxthyrw1g4i7g1m&st=nns094hf&dl=1",
-              "02 11.11": "https://www.dropbox.com/scl/fi/sh0dxg7eh1wwu1jnalikx/Thamuz-11.11-Starlight.zip?rlkey=2y1iphei0jvb88pzkd1ojnhpx&st=fq47mlza&dl=1"
+              "02 11.11": "https://github.com/injctr/large/raw/main/Thamuz/11.11/Thamuz%2011.11%20-%20Starlight.zip"
             }
           }
         },
         "Skins": {
           "01 KUNG FU PANDA": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115335",
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero725-icon.png/revision/latest?cb=20220805125357",
             "type2": "Kung Fu Panda"
           },
           "02 11.11": {
@@ -11829,7 +11939,8 @@
               "01 M-WORLD": "https://www.dropbox.com/scl/fi/osxnitg85wrum1ogypa51/Yin-M-World-Default.zip?rlkey=fhfld3lblju8yow696v24d7c2&st=2mhsjniv&dl=1",
               "02 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/x4vlbf1w6x6t7av2ygtg9/Yin-JJK-Default.zip?rlkey=4n879szmvqumwixq3wlglyqh0&st=b2lcbwly&dl=1",
               "03 STARLIGHT 2023": "https://www.dropbox.com/scl/fi/1qdtmaehqrft9ltg1dgcj/Yin-Starlight-Default.zip?rlkey=h3qibg3octgievcr9xz6kefzu&st=wkkc7sb4&dl=1",
-              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/v1vxjyfng3lkkvje5spa8/Yin-AOT-Default.zip?rlkey=y7rsngbzktpxh4qzc675omv8q&st=32o91mx1&dl=1"
+              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/v1vxjyfng3lkkvje5spa8/Yin-AOT-Default.zip?rlkey=y7rsngbzktpxh4qzc675omv8q&st=32o91mx1&dl=1",
+              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -11839,7 +11950,8 @@
               "01 M-WORLD": "https://www.dropbox.com/scl/fi/ka7e8hh5cd2m23jws82we/Yin-M-World-Basic.zip?rlkey=hvpaas8vjcokejwi9momhfd9j&st=6g6nxdz1&dl=1",
               "02 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/bgu8amgv9p9kn7puno8md/Yin-JJK-Basic.zip?rlkey=9fr5r0v52cvemyc8tlrrss9wn&st=1klqf1kn&dl=1",
               "03 STARLIGHT 2023": "https://www.dropbox.com/scl/fi/14hkofx5pv830u9fzliox/Yin-Starlight-Basic.zip?rlkey=inqtu8jrnh3dq9wfbfwxr24db&st=0dvw4dqv&dl=1",
-              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/1kdfb9phcdpej6zbdbbyt/Yin-AOT-Basic.zip?rlkey=7zr1zmfbgcrak6zb7oqy3xpua&st=brfm7dei&dl=1"
+              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/1kdfb9phcdpej6zbdbbyt/Yin-AOT-Basic.zip?rlkey=7zr1zmfbgcrak6zb7oqy3xpua&st=brfm7dei&dl=1",
+              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Basic.zip"
             }
           },
           "03 M-WORLD": {
@@ -11849,7 +11961,8 @@
               "01 M-WORLD": "unavailable",
               "02 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/h7o1fw5hhbanbs7g4opak/Yin-JJK-M-World.zip?rlkey=kcrgatowbg9ydgenbllrkv5xj&st=dq6i4ndc&dl=1",
               "03 STARLIGHT 2023": "unavailable",
-              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/tv734per2iab9xljjpzdu/Yin-AOT-M-World.zip?rlkey=giy463h0k7q0e3avizcl52opd&st=gjxi7l8d&dl=1"
+              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/tv734per2iab9xljjpzdu/Yin-AOT-M-World.zip?rlkey=giy463h0k7q0e3avizcl52opd&st=gjxi7l8d&dl=1",
+              "05 COLLECTOR": "unavailable"
             }
           },
           "04 JUJUTSU KAISEN": {
@@ -11859,7 +11972,8 @@
               "01 M-WORLD": "https://www.dropbox.com/scl/fi/tszsw3gcy2efx89icmv1r/Yin-M-World-JJK.zip?rlkey=md8od7xomr9wz0pkpr7q4tchg&st=5685z3qk&dl=1",
               "02 JUJUTSU KAISEN": "unavailable",
               "03 STARLIGHT 2023": "unavailable",
-              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/ewr67upaehjbd7rdjgyxb/Yin-AOT-JJK.zip?rlkey=sqbup72cixacvjhldclte5eme&st=nbupbxr9&dl=1"
+              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/ewr67upaehjbd7rdjgyxb/Yin-AOT-JJK.zip?rlkey=sqbup72cixacvjhldclte5eme&st=nbupbxr9&dl=1",
+              "05 COLLECTOR": "unavailable"
             }
           },
           "05 STARLIGHT 2023": {
@@ -11869,7 +11983,8 @@
               "01 M-WORLD": "https://www.dropbox.com/scl/fi/j6vypz3ra5wcssdislla2/Yin-M-World-Starlight.zip?rlkey=0ufmiswp4y5t7b6w2xusedmik&st=d4rwtg25&dl=1",
               "02 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/u1u866n5d5jttbwacibbf/Yin-JJK-Starlight.zip?rlkey=vp8pnx3tuj304v81yq8zvwk6o&st=2o7qf30w&dl=1",
               "03 STARLIGHT 2023": "unavailable",
-              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/kpabi8i7y0pb1bg5rt1y5/Yin-AOT-Starlight.zip?rlkey=bm1qfxc90b2oi09xqy7vd85l1&st=2u9werif&dl=1"
+              "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/kpabi8i7y0pb1bg5rt1y5/Yin-AOT-Starlight.zip?rlkey=bm1qfxc90b2oi09xqy7vd85l1&st=2u9werif&dl=1",
+              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Starlight.zip"
             }
           },
           "06 ATTACK ON TITAN": {
@@ -11879,7 +11994,8 @@
               "01 M-WORLD": "https://www.dropbox.com/scl/fi/zq9r5f1avqe7oa0jz47jz/Yin-M-World-AoT.zip?rlkey=gvip2s4nsmu6gatlig601eyko&st=rmas14fi&dl=1",
               "02 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/v4dnyjpj9vc6uairny6gt/Yin-JJK-AOT.zip?rlkey=zfb131fn325jegy8t79naoxpp&st=86zpmkev&dl=1",
               "03 STARLIGHT 2023": "unavailable",
-              "04 ATTACK ON TITAN": "unavailable"
+              "04 ATTACK ON TITAN": "unavailable",
+              "05 COLLECTOR": "unavailable"
             }
           }
         },
@@ -11899,6 +12015,10 @@
           "04 ATTACK ON TITAN": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero1136-icon.png/revision/latest?cb=20240301101156",
             "type2": "Attack on Titan"
+          },
+          "05 COLLECTOR": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/Yin%20skin%20Collector.png",
+            "type2": "Collector"
           }
         }
       },
@@ -13423,40 +13543,110 @@
       }
     },
     "Latest": {
-      "Chou_09 STREET FIGHTER 1": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Chou%20SF1.jpg",
-        "type2": "Street Fighter 1",
-        "key": "Chou"
+      "Lancelot_05 KISHIN DENSETSU": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero104712-icon.png/revision/latest?cb=20240928233454",
+        "type2": "Kishin Densetsu",
+        "key": "Lancelot"
+      },
+      "Balmond_02 COLLECTOR TITANS": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Balmond%20skin%20Collector%20Titans.png",
+        "type2": "Collector Titans",
+        "key": "Balmond"
+      },
+      "Thamuz_02 11.11": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero727-icon.png/revision/latest?cb=20241013072538",
+        "type2": "11.11",
+        "key": "Thamuz"
+      },
+      "Lunox_02 LUCKYBOX": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero686-icon.png/revision/latest?cb=20260424022726",
+        "type2": "Luckybox",
+        "key": "Lunox"
+      },
+      "Odette_07 VALENTINE": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero104610.png/revision/latest?cb=20260421221542",
+        "type2": "Valentine",
+        "key": "Odette"
+      },
+      "Sun_03 ANNUAL STARLIGHT": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero279-icon.png/revision/latest?cb=20251107123321",
+        "type2": "Annual Starlight",
+        "key": "Sun"
+      },
+      "Paquito_07 EPIC": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20skin%20Epic.png",
+        "type2": "Epic",
+        "key": "Paquito"
+      },
+      "Yin_05 COLLECTOR": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Yin%20skin%20Collector.png",
+        "type2": "Collector",
+        "key": "Yin"
+      },
+      "Pharsa_04 TIDES": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero105212-icon.png/revision/latest?cb=20260423000426",
+        "type2": "Tides",
+        "key": "Pharsa"
+      },
+      "Selena_06 ZENITH": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero106311-icon.png/revision/latest?cb=20250106155532",
+        "type2": "Zenith",
+        "key": "Selena"
+      },
+      "Selena_07 EPIC": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Selena%20skin%20Epic.png",
+        "type2": "Epic",
+        "key": "Selena"
+      },
+      "Novaria_04 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1194-icon.png/revision/latest?cb=20240905080720",
+        "type2": "Collector",
+        "key": "Novaria"
+      },
+      "Novaria_05 SPECIAL M7": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1195-icon.png/revision/latest?cb=20260421221437",
+        "type2": "Special M7",
+        "key": "Novaria"
+      },
+      "Kaja_02 LUCKYBOX": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero625-icon.png/revision/latest?cb=20250522143052",
+        "type2": "Luckybox",
+        "key": "Kaja"
+      },
+      "Akai_02 LUCKYBOX": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero095-icon.png/revision/latest?cb=20260424021838",
+        "type2": "Luckybox",
+        "key": "Akai"
+      },
+      "Belerick_02 STARLIGHT": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Belerick%20skin%20Starlight.png",
+        "type2": "Starlight",
+        "key": "Belerick"
+      },
+      "Joy_03 SPECIAL": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Joy%20skin%20Special.png",
+        "type2": "Special",
+        "key": "Joy"
+      },
+      "Roger_07 SPECIAL": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero103911-icon.png/revision/latest?cb=20260530012752",
+        "type2": "Special",
+        "key": "Roger"
       },
       "Chou_08 STREET FIGHTER 2": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20CHOU%2099.png",
         "type2": "Street Fighter 2",
         "key": "Chou"
       },
-      "Guinevere_06 STREET FIGHTER 1": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Guinevere%20SF1.jpg",
-        "type2": "Street Fighter 1",
-        "key": "Guinevere"
-      },
       "Guinevere_05 STREET FIGHTER 2": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20GUINEVERE%2099.png",
         "type2": "Street Fighter 2",
         "key": "Guinevere"
       },
-      "Dyrroth_06 STREET FIGHTER 1": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Dyrroth%20SF1.jpg",
-        "type2": "Street Fighter 1",
-        "key": "Dyrroth"
-      },
       "Dyrroth_05 STREET FIGHTER 2": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20DYRROTH.png",
         "type2": "Street Fighter 2",
         "key": "Dyrroth"
-      },
-      "Paquito_06 STREET FIGHTER 1": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20SF1.jpg",
-        "type2": "Street Fighter 1",
-        "key": "Paquito"
       },
       "Paquito_05 STREET FIGHTER 2": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20PAQUITO.png",
@@ -13497,11 +13687,6 @@
         "img2": "https://github.com/injctr/IMAGES/raw/main/Harith%20-%20Rebel%20Emberfang.png",
         "type2": "Starlight 2026",
         "key": "Harith"
-      },
-      "Obsidia_01 STARLIGHT 2026": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1303-icon.png/revision/latest?cb=20260422235635",
-        "type2": "Starlight 2026",
-        "key": "Obsidia"
       }
     },
     "CS-Categories": [

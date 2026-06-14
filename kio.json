@@ -7822,94 +7822,81 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero961-icon.png/revision/latest?cb=20241021153129",
             "type1": "Default",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/yqmer90dnjcw6ezh4tlnx/Luo-Yi-Collector-Default.zip?rlkey=gx13sp25ywcjs45s9c17mi4z4&st=kfopfkku&dl=1",
-              "03 CREATE": "https://www.dropbox.com/scl/fi/519hrjr3y8puzi0x9z0s3/Luo-Yi-Create-Default.zip?rlkey=fj0kb47q17qc95qpn8dec68x6&st=f6z102io&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lou%20Yi/Collector/Luo%20Yi%20Collector%20-%20Default.zip",
+              "02 CREATE": "https://github.com/injctr/large/raw/main/Lou%20Yi/Create/Luo%20Yi%20Create%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero962-icon.png/revision/latest?cb=20230623124552",
             "type1": "Basic",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/d17nbphfgicczzpjki0nn/Luo-Yi-Collector-Basic.zip?rlkey=iuvlp769nnlksg498rglxofsw&st=k1gekoy7&dl=1",
-              "03 CREATE": "https://www.dropbox.com/scl/fi/t0cxgttchgjsf859le7fn/Luo-Yi-Create-Basic.zip?rlkey=qetgu7gpq53ug905ukm15yapo&st=x1zyw9pu&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lou%20Yi/Collector/Luo%20Yi%20Collector%20-%20Basic.zip",
+              "02 CREATE": "https://github.com/injctr/large/raw/main/Lou%20Yi/Create/Luo%20Yi%20Create%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero963-icon.png/revision/latest?cb=20230623124417",
             "type1": "Elite",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/pdxztwf7ri4z32llb1esy/Luo-Yi-Collector-Elite.zip?rlkey=4ik03skxke6pss5bgyboy2urf&st=f9xnrl0t&dl=1",
-              "03 CREATE": "https://www.dropbox.com/scl/fi/0wmaiyhdyezpeqitcnrfx/Luo-Yi-Create-Elite.zip?rlkey=2qosci25uraivhvm7twrzj8ij&st=pt2unlzk&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lou%20Yi/Collector/Luo%20Yi%20Collector%20-%20Elite.zip",
+              "02 CREATE": "https://github.com/injctr/large/raw/main/Lou%20Yi/Create/Luo%20Yi%20Create%20-%20Elite.zip"
             }
           },
           "04 LUNAR FEST": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero964-icon.png/revision/latest?cb=20230805044003",
             "type1": "Lunar Fest",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/zd938h19vv64vorkmsmz9/Luo-Yi-Collector-Lunar-Fest.zip?rlkey=yrhwukmrtvxxh2ov1ny7xin8i&st=ekikqqna&dl=1",
-              "03 CREATE": "https://www.dropbox.com/scl/fi/c8c1vd1t661g432lu64ke/Luo-Yi-Create-Lunar.zip?rlkey=jfy6hgp3xkpmloda5a3hit3zq&st=7b9whxp0&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lou%20Yi/Collector/Luo%20Yi%20Collector%20-%20Lunar%20Fest.zip",
+              "02 CREATE": "https://github.com/injctr/large/raw/main/Lou%20Yi/Create/Luo%20Yi%20Create%20-%20Lunar.zip"
             }
           },
           "05 STARLIGHT 2021": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero965-icon.png/revision/latest?cb=20230623124339",
             "type1": "Starlight 2021",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/sl3r33fv5rz3ii9redac6/Luo-Yi-Collector-Starlight.zip?rlkey=kj6bpoqi54q63wf35ntwyeaol&st=cf966p2e&dl=1",
-              "03 CREATE": "https://www.dropbox.com/scl/fi/vwz42qmlb7hjwhnhkyqtu/Luo-Yi-Create-Starlight.zip?rlkey=ict8843uw8ct2nvbu2k8y2f6q&st=u40kuujg&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lou%20Yi/Collector/Luo%20Yi%20Collector%20-%20Starlight.zip",
+              "02 CREATE": "https://github.com/injctr/large/raw/main/Lou%20Yi/Create/Luo%20Yi%20Create%20-%20Starlight.zip"
             }
           },
           "06 COLLECTOR": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero966-icon.png/revision/latest?cb=20230623130855",
             "type1": "Collector",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CREATE": "https://www.dropbox.com/scl/fi/bg0pw1qgqd9x8cfgkm6t1/Luo-Yi-Create-Collector.zip?rlkey=h2bebe2igp73ipejntnr46ngu&st=psxo9v3h&dl=1"
+              "01 COLLECTOR": "unavailable",
+              "02 CREATE": "https://github.com/injctr/large/raw/main/Lou%20Yi/Create/Luo%20Yi%20Create%20-%20Collector.zip"
             }
           },
           "07 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero967-icon.png/revision/latest?cb=20230623130950",
             "type1": "Epic",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "https://www.dropbox.com/scl/fi/9thjlxi84w4quav2vo91y/Luo-Yi-Collector-Epic.zip?rlkey=8s7bnje6qqlenvtju6qf90g6d&st=f659m69r&dl=1",
-              "03 CREATE": "https://www.dropbox.com/scl/fi/3fjmmjcfyxja2gd40c8kq/Luo-Yi-Create-Epic.zip?rlkey=nxpg9sere4xyketr54w1iq9zs&st=0o86u7ws&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Lou%20Yi/Collector/Luo%20Yi%20Collector%20-%20Epic.zip",
+              "02 CREATE": "https://github.com/injctr/large/raw/main/Lou%20Yi/Create/Luo%20Yi%20Create%20-%20Epic.zip"
             }
           },
           "08 CREATE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero968-icon.png/revision/latest?cb=20250530072618",
             "type1": "Create",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CREATE": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 CREATE": "unavailable"
             }
           },
           "09 CREATE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero969-icon.png/revision/latest?cb=20251107123322",
             "type1": "Create",
             "type_links": {
-              "01 STARLIGHT 2021": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 CREATE": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 CREATE": "unavailable"
             }
           }
         },
         "Skins": {
-          "01 STARLIGHT 2021": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero965-icon.png/revision/latest?cb=20230623124339",
-            "type2": "Starlight 2021"
-          },
-          "02 COLLECTOR": {
+          "01 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero966-icon.png/revision/latest?cb=20230623130855",
             "type2": "Collector"
           },
-          "03 CREATE": {
+          "02 CREATE": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero968-icon.png/revision/latest?cb=20250530072618",
             "type2": "Create"
           }
@@ -7921,14 +7908,14 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1271-icon.png/revision/latest?cb=20250125233414",
             "type1": "Default",
             "type_links": {
-              "01 NARUTO": "https://www.dropbox.com/scl/fi/qd0936vajp0z0ty83o5rc/Lukas-Naruto-Default.zip?rlkey=xb9hwn8uwsag66d75ppkxbkkz&st=idxy0dom&dl=1"
+              "01 NARUTO": "https://github.com/injctr/large/raw/main/Lukas/Naruto/Lukas%20Naruto%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/ce/Hero1272-icon.png/revision/latest?cb=20250125233257",
             "type1": "Basic",
             "type_links": {
-              "01 NARUTO": "https://www.dropbox.com/scl/fi/ub53tvj5pbswnuhcfn8a2/Lukas-Naruto-Basic.zip?rlkey=4hxetq8vain9d2v2f18ihu4wh&st=vkjogjee&dl=1"
+              "01 NARUTO": "https://github.com/injctr/large/raw/main/Lukas/Naruto/Lukas%20Naruto%20-%20Basic.zip"
             }
           },
           "03 NARUTO": {
@@ -7952,36 +7939,36 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero681-icon.png/revision/latest?cb=20241021145719",
             "type1": "Default",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/j0dgjjsdvznqt0mefjocn/Lunox-Zodiac-Default.zip?rlkey=osu2rinj9nxmv1ckzy4xdf4lp&st=7i8gjfxh&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Default.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Default.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/s8mj1s7pbfpwqlrhildqk/Lunox-Legend-Default.zip?rlkey=mucyhn160hbno9ijuwrrgciy5&st=tezkgqeg&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero682-icon.png/revision/latest?cb=20220126142158",
             "type1": "Basic",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/gql5r2t9qkjepzkdmsaiy/Lunox-Zodiac-Basic.zip?rlkey=1radyfuxn2w8k7xj50gjv9ajn&st=pj6rw3au&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Basic.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Basic.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/fymfb9b2qdct1liunk4bo/Lunox-Legend-Basic.zip?rlkey=e09p3km23ijp24rmau5hy3oqh&st=4xwns77u&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Basic.zip"
             }
           },
           "03 ELITE 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero683-icon.png/revision/latest?cb=20220126142156",
             "type1": "Elite 1",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/39idmwdxhmlq8td7g5zj6/Lunox-Zodiac-Elite-Harmony.zip?rlkey=hpho3avtdfj4c938pio89s3l2&st=khf4f1es&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Elite%20Harmony.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Elite%20Cosmic.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/kdoorlse58ihzxop67lxf/Lunox-Legend-Elite.zip?rlkey=m2273vyybbay0blzvczx5uju7&st=vv3sc985&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Elite.zip"
             }
           },
           "04 STARLIGHT 2019": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f5/Hero684-icon.png/revision/latest?cb=20220126142154",
             "type1": "Starlight 2019",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/so81ead4cnsitiy2181cb/Lunox-Zodiac-Starlight.zip?rlkey=iu7yyx4f2gzy13t6bixytju40&st=bdaey94w&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Starlight.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Starlight.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/9zghhif209z76vq1fl73m/Lunox-Legend-Starlight.zip?rlkey=2upfs95n0z1bsf829nemsyo6t&st=8slct10a&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Starlight.zip"
             }
           },
           "05 ZODIAC": {
@@ -7990,41 +7977,41 @@
             "type_links": {
               "01 ZODIAC": "unavailable",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Zodiac.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/l2e4m7cdbjdrlkt0eqg0h/Lunox-Legend-Zodiac.zip?rlkey=yairefez0e5a1eh2o6qzfhrlf&st=26a8a4qj&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Zodiac.zip"
             }
           },
           "06 LUCKYBOX": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero686-icon.png/revision/latest?cb=20260424022726",
             "type1": "Luckybox",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/kcnqmtiyen5q9yno11xq0/Lunox-Zodiac-Luckybox.zip?rlkey=1asx0nn9897df0etu3ocy4xad&st=793agukg&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Luckybox.zip",
               "02 LUCKYBOX": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/wyd2za2ir7pqe1i3rrqm8/Lunox-Legend-Luckybox.zip?rlkey=nlhwfi47v8djoaylr5qyzr1i4&st=ipshbh2n&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Luckybox.zip"
             }
           },
           "07 EPIC 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero687-icon.png/revision/latest?cb=20220126142713",
             "type1": "Epic 1",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/x2d1adgax0foyrdh3fs2c/Lunox-Zodiac-Epic-Eyes.zip?rlkey=afzf3krnntiktqsnz768ndobd&st=zyt28wd1&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Epic%20Eyes.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Epic%20Eyes.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/dfm9zdzea0vqpiqnxrdtx/Lunox-Legend-Epic-Eyes.zip?rlkey=pmr6cpzn8s9jzw9yse14ocept&st=erp6mmjf&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Epic%20Eyes.zip"
             }
           },
           "08 EPIC 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b6/Hero688-icon.png/revision/latest?cb=20220126142705",
             "type1": "Epic 2",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/cijses52edbryrvrhi6py/Lunox-Zodiac-Epic-Dawn.zip?rlkey=9ijqi77tvl9i6fvr7xbo0ix44&st=f7i2tn4m&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Epic%20Dawn.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Epic%20Dawn.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/dxww9xumg6avmxm97gv69/Lunox-Legend-Epic-Dawn.zip?rlkey=v54judw47c2i4btoo5mj0g51g&st=k1sp5lt2&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Epic%20Dawn.zip"
             }
           },
           "09 LEGEND": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero689-icon.png/revision/latest?cb=20230623130915",
             "type1": "Legend",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/ghyeatl3zkti4hl56lqau/Lunox-Zodiac-Legend.zip?rlkey=vi9ocxr50024fs2m8jj4zk16y&st=kafkef68&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Legend.zip",
               "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/xef300se91bo1adwd1du5/Lunox-Luckybox-Legend.zip?rlkey=strmbbvu7agbwxxk0p12ap9ck&st=okxviv3x&dl=1",
               "03 LEGEND": "unavailable"
             }
@@ -8033,9 +8020,9 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero106810-icon.png/revision/latest?cb=20240619163035",
             "type1": "Elite 2",
             "type_links": {
-              "01 ZODIAC": "https://www.dropbox.com/scl/fi/bfn2c2l305rxgo93osbjo/Lunox-Zodiac-Elite-Top-Up.zip?rlkey=csknxh7txujl0e5pefajmnz5p&st=i3oo8ldw&dl=1",
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Lunox/Zodiac/Lunox%20Zodiac%20-%20Elite%20Top%20Up.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Lunox/Luckybox/Lunox%20Luckybox%20-%20Elite%20Nature's.zip",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/7ltvdjvko2mb0kjvpxkte/Lunox-Legend-Elite-Top-up.zip?rlkey=5qqyfoq09xd8wmmv61wmubzhc&st=a75fzw7c&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Lunox/Legend/Lunox%20Legend%20-%20Elite%20Top%20up.zip"
             }
           },
           "11 MPL": {

@@ -536,38 +536,38 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero071-icon.png/revision/latest?cb=20241021145111",
             "type1": "Default",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/c45vj8m7e97hgpyvlimyz/Alucard-Luckybox-Default.zip?rlkey=qs6nbs90lu34i8jey5yj4tan0&st=qciofk0s&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Default.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/jy6kyfdqnej52jaz61uju/Alucard-Legend-Default.zip?rlkey=z588uthcz5336jk658xx6fby8&st=f4ozrvni&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/h4a5i62f5hen128lo80kv/Alucard-Legend-Default.zip?rlkey=x0mf2fziwmbsrpa78fbnbqknj&st=h919elrh&dl=1",
-              "05 LIGHTBORN": "https://www.dropbox.com/scl/fi/m2g1qfug155ewa4qsg22w/Alucard-Lightborn-Default.zip?rlkey=jkru70tsjyn52q7y6usxmm02k&st=hy6p9wqp&dl=1",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/ydw8f0so6ejx656dh5dwb/Alucard-Starwars-Default.zip?rlkey=zfc5gdjddegkyutdwpqiid1gq&st=6osunjez&dl=1",
-              "07 SPECIAL": "https://www.dropbox.com/scl/fi/95la877dty6kcmu3zivlr/Alucard-Special-Default.zip?rlkey=1n9v467rxag04qfdjycz6j5ew&st=24s5l3sl&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Default.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Default.zip",
+              "05 LIGHTBORN": "https://github.com/injctr/large/raw/main/Alucard/Lightborn/Alucard%20Lightborn%20-%20Default.zip",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Default.zip",
+              "07 SPECIAL": "https://github.com/injctr/large/raw/main/Alucard/Special/Alucard%20Special%20-%20Default.zip"
             }
           },
           "02 BASIC - LONE HERO": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero072-icon.png/revision/latest?cb=20220920084827",
             "type1": "Basic - Lone Hero",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/0ty4hnwpf3l1312ed4p7f/Alucard-Luckybox-Basic.zip?rlkey=1uq61n48slbpa2vlod6thawcx&st=xori5gt8&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Basic.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/t460nvnfkg0h0v258y32f/Alucard-Legend-Basic.zip?rlkey=cs3xgeklfi1j6mqv717dmeomr&st=d2untmcz&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/n5uldezvjqn6fd4tber2v/Alucard-Legend-Basic.zip?rlkey=r7d14ufndl72mon3avx7tmo9j&st=jt9hlvqq&dl=1",
-              "05 LIGHTBORN": "https://www.dropbox.com/scl/fi/ibypx9locw0s4mv0vu14z/Alucard-Lightborn-Basic.zip?rlkey=ioc32u14hvgnhfgwyu01yir0q&st=rpbtzthr&dl=1",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/zufz81dy9b08vjjnf0vys/Alucard-Starwars-Basic.zip?rlkey=iavw8o48b5dilsfl0a2t3j8u5&st=lmnc0dih&dl=1",
-              "07 SPECIAL": "https://www.dropbox.com/scl/fi/0e8gmtagfx57uaen1e2p3/Alucard-Special-Basic.zip?rlkey=mmloevgsj8j9eh0o7k28u3prj&st=1wagfuld&dl=1"
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Basic.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Basic.zip",
+              "05 LIGHTBORN": "https://github.com/injctr/large/raw/main/Alucard/Lightborn/Alucard%20Lightborn%20-%20Basic.zip",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Basic.zip",
+              "07 SPECIAL": "https://github.com/injctr/large/raw/main/Alucard/Special/Alucard%20Special%20-%20Basic.zip"
             }
           },
           "03 SEASON 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero073-icon.png/revision/latest?cb=20220920084843",
             "type1": "Season 2",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/2ndzx7d1miuo452p78dc5/Alucard-Luckybox-Season.zip?rlkey=0e2dxym3ju0r7l64r4x2x9u8c&st=q1dmawdv&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Season.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/9ywaqzoampb2eezh2mbtg/Alucard-Legend-Season.zip?rlkey=2hwr7zflh7ti6zwp5l5eqwerp&st=wi5kym9y&dl=0",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/jpp7abf6cgm57hrd13ibv/Alucard-Legend-Season.zip?rlkey=ztsbziutm4gimg93xui6pe2a2&st=go1np7bc&dl=1",
-              "05 LIGHTBORN": "https://www.dropbox.com/scl/fi/3dz2tmdy27kmfjfwr992n/Alucard-Lightborn-Season.zip?rlkey=e0qji9jv5v3mh6y47ew2v4ktu&st=5m9k14mh&dl=1",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/mwvub72issjzs6zaktrba/Alucard-Starwars-Season.zip?rlkey=pmvn0zgnfk278ritji3qwshyi&st=dxpehn05&dl=1",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Season.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Season.zip",
+              "05 LIGHTBORN": "https://github.com/injctr/large/raw/main/Alucard/Lightborn/Alucard%20Lightborn%20-%20Season.zip",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Season.zip",
               "07 SPECIAL": "unavailable"
             }
           },
@@ -577,10 +577,10 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/0ym7zdmnw0hm4f8hw1r73/Alucard-Legend-Luckybox.zip?rlkey=grlt08bpz8l6hcdifgngvhsdh&st=fdala8rn&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/atfbf1flcwwamib9jvwo4/Alucard-Legend-Luckybox.zip?rlkey=y4ooottpepg57awmaex5knnkn&st=qqrsj10b&dl=1",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Luckybox.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Luckybox.zip",
               "05 LIGHTBORN": "unavailable",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/d0mxnvnnn8ugd2ylfkm8n/Alucard-Starwars-Luckybox.zip?rlkey=sc1atz9f46l0gc6miucz68bzl&st=ahl8skyq&dl=1",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Luckybox.zip",
               "07 SPECIAL": "unavailable"
             }
           },
@@ -588,12 +588,12 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero075-icon.png/revision/latest?cb=20220920090058",
             "type1": "Starlight 2017",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/pguc3yh76zplp4oqkbr70/Alucard-Luckybox-Starlight.zip?rlkey=6vbgcdzf52faavo1hv1klid1l&st=er7rpkgg&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Starlight.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/3rjud11q826p3sh7fkll1/Alucard-Legend-Starlight.zip?rlkey=43vgnphas9u5ylgp286ikdq9q&st=x06gmr6s&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/q9sloikyzybhnmloea4ua/Alucard-Legend-Starlight.zip?rlkey=7jv6tjh0f7xqdxtja7ml817ye&st=f09oe3mj&dl=1",
-              "05 LIGHTBORN": "https://www.dropbox.com/scl/fi/460segzun1m1c89290rlt/Alucard-Lightborn-Starlight.zip?rlkey=rlfk10bi04uk7it98ihrjqj9u&st=6xyldsgo&dl=1",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/uokav23nzrd9g0gyy1vq0/Alucard-Starwars-Starlight.zip?rlkey=zlopb3ktuobias8vlgvicl6rm&st=0ga5v6bq&dl=1",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Starlight.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Starlight.zip",
+              "05 LIGHTBORN": "https://github.com/injctr/large/raw/main/Alucard/Lightborn/Alucard%20Lightborn%20-%20Starlight.zip",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Starlight.zip",
               "07 SPECIAL": "unavailable"
             }
           },
@@ -601,12 +601,12 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero076-icon.png/revision/latest?cb=20220920090103",
             "type1": "Valentine",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/shq1imhourhbg5j4qrg9t/Alucard-Luckybox-Valentine.zip?rlkey=bpsjftm08xz1fbbu3wqzngn85&st=65zxux46&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Valentine.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/9u0y5g5cnmm4zzh0xluo7/Alucard-Legend-Valentine.zip?rlkey=hwtikiyiqqqif9zms1lzfsrng&st=m0r6dhfa&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/8pjsk09lss30wrf8trzpq/Alucard-Legend-Valentine.zip?rlkey=yqg7t0o2hxmyqw8brp03b6ldv&st=5qqdse06&dl=1",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Valentine.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Valentine.zip",
               "05 LIGHTBORN": "unavailable",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/dn1suf3t8aeevhxnxchqe/Alucard-Starwars-Valentine.zip?rlkey=1267m1cgcvo60bhqvbs4xigao&st=pxc15up1&dl=1",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Valentine.zip",
               "07 SPECIAL": "unavailable"
             }
           },
@@ -614,12 +614,12 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero077-icon.png/revision/latest?cb=20260424021741",
             "type1": "Legend",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/ey06jp2oo92srx0z0thci/Alucard-Luckybox-Legend.zip?rlkey=8zxlvnao447b526gecw1pm03r&st=oya0burs&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Legend.zip",
               "02 VALENTINE": "unavailable",
               "03 LEGEND": "unavailable",
               "04 LEGEND": "unavailable",
               "05 LIGHTBORN": "unavailable",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/7ui6czu5q3bh7j9urpamt/Alucard-Starwars-Legend.zip?rlkey=4p7rp9wnjr7b9o4i48fnx605q&st=5ag1hyx3&dl=1",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Legend.zip",
               "07 SPECIAL": "unavailable"
             }
           },
@@ -627,12 +627,12 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero078-icon.png/revision/latest?cb=20220920085915",
             "type1": "Basic - Empire Agent",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/yooivpav8rfgguwb0ivym/Alucard-Luckybox-Empire-Agent.zip?rlkey=v5jsp7dwm1l4tnz35uwbyau8n&st=cx4feaon&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Empire%20Agent.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/ymadlc3jx0jrs2x65d7lo/Alucard-Legend-Empire-Agent.zip?rlkey=ac0cxvntqnymso5a4urmv4xe3&st=g1m13mim&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/n6zh3r3qhoifyzmvqs7lp/Alucard-Legend-Empire-Agent.zip?rlkey=29w8tqa1irm007nxbs0gqg4c6&st=8alibv8j&dl=1",
-              "05 LIGHTBORN": "https://www.dropbox.com/scl/fi/ybybtuhbv24io7hso3nwd/Alucard-Lightborn-Empire-Agent.zip?rlkey=vog3hilb7eavjx4uks8l74aon&st=yobcxvca&dl=1",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/gbe1uopu1o2afjwxwxtfj/Alucard-Starwars-Empire-Agent.zip?rlkey=wn0ch8w06j498w8gq2d6vvxsv&st=vumvmqvw&dl=1",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Empire%20Agent.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Empire%20Agent.zip",
+              "05 LIGHTBORN": "https://github.com/injctr/large/raw/main/Alucard/Lightborn/Alucard%20Lightborn%20-%20Empire%20Agent.zip",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Empire%20Agent.zip",
               "07 SPECIAL": "unavailable"
             }
           },
@@ -640,12 +640,12 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero079-icon.png/revision/latest?cb=20220922084844",
             "type1": "Lightborn",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/ebpp5fyiebkrhx9iu45rg/Alucard-Luckybox-Lightborn.zip?rlkey=dfg6u3qjky0q35dn5vne89rd2&st=5my9hzqo&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Lightborn.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/8q446p991kp5q8r3lxgyc/Alucard-Legend-Lightborn.zip?rlkey=3k0jo0isj26b1seca0cfjx50c&st=n6rl6bq6&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/ndhdabdnlhg9ddrp889tp/Alucard-Legend-Lightborn.zip?rlkey=0jgkmrw72lmvpievqequrc2xo&st=rkycg02j&dl=1",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Lightborn.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Lightborn.zip",
               "05 LIGHTBORN": "unavailable",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/l96xfw7inqdc5ip6vm1oo/Alucard-Starwars-Lightborn.zip?rlkey=mzk7781q92imwyxuptafdpl4s&st=c21yxchq&dl=1",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Lightborn.zip",
               "07 SPECIAL": "unavailable"
             }
           },
@@ -653,10 +653,10 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero100710-icon.png/revision/latest?cb=20220125055644",
             "type1": "Starwars",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/knmthk0c2nf655zh6yh2d/Alucard-Luckybox-Starwars.zip?rlkey=fg74g3mj1zxncp9wcps2wnziy&st=5gaksj88&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Starwars.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/1fo07o4rq8fv8v4nxr19c/Alucard-Legend-Star-Wars.zip?rlkey=mcgqrww4h4td7djm8aublnnx0&st=9eja0jei&dl=1",
-              "04 LEGEND": "unavailable",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Star%20Wars.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Starwars.zip",
               "05 LIGHTBORN": "unavailable",
               "06 STARWARS": "unavailable",
               "07 SPECIAL": "unavailable"
@@ -666,12 +666,12 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero100711-icon.png/revision/latest?cb=20241201053544",
             "type1": "Special",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/rj5yjlza4ymz84tkwgnea/Alucard-Luckybox-Special.zip?rlkey=u2jdbm885e1b83vknu1w5gkoz&st=k568pbtb&dl=1",
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Alucard/Luckybox/Alucard%20Luckybox%20-%20Special.zip",
               "02 VALENTINE": "unavailable",
-              "03 LEGEND": "https://www.dropbox.com/scl/fi/xr1j72y4jki2gi6asx2ha/Alucard-Legend-Special.zip?rlkey=m4qcladq69s88kuhsqog6k6t8&st=q7u8jtjq&dl=1",
-              "04 LEGEND": "https://www.dropbox.com/scl/fi/ssbkm2zd4k6hmopim7kw7/Alucard-Legend-Special.zip?rlkey=p8m3egvqv9layqxaakwmkb9j9&st=oimsrtqy&dl=1",
+              "03 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/Old%20Legend/Alucard%20Legend%20-%20Special.zip",
+              "04 LEGEND": "https://github.com/injctr/large/raw/main/Alucard/New%20Legend/Alucard%20Legend%20-%20Special.zip",
               "05 LIGHTBORN": "unavailable",
-              "06 STARWARS": "https://www.dropbox.com/scl/fi/wr89jvj7sim1r5tp8r8sj/Alucard-Starwars-Special.zip?rlkey=s1zpmpevlbdj6u3wlcgp1bj76&st=xna7ffzw&dl=1",
+              "06 STARWARS": "https://github.com/injctr/large/raw/main/Alucard/Starwars/Alucard%20Starwars%20-%20Special.zip",
               "07 SPECIAL": "unavailable"
             }
           }
@@ -6009,9 +6009,9 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero1161-icon.png/revision/latest?cb=20241021153321",
             "type1": "Default",
             "type_links": {
-              "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/fxnnuvz4xx4riwi69o1pt/Julian-JJK-Default.zip?rlkey=go81jgl6zrpu2t1nqhan988j8&st=uxx1hhpy&dl=1",
-              "02 MYSTIC MEOW": "https://www.dropbox.com/scl/fi/tpnuw0u5qadyufumsp9rn/Julian-Mystic-Default.zip?rlkey=ajno4vnfy2gxv884ov401si8q&st=nsyneg7f&dl=1",
-              "03 HUNTERXHUNTER": "https://www.dropbox.com/scl/fi/1nyarbzlf29q3g8d7on32/Julian-HxH-Default.zip?rlkey=xmlmzbstn6bvexoaujczqmqna&st=kalczono&dl=1",
+              "01 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Julian/JJK/Julian%20JJK%20-%20Default.zip",
+              "02 MYSTIC MEOW": "https://github.com/injctr/large/raw/main/Julian/Mystic/Julian%20Mystic%20-%20Default.zip",
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Julian/HxH/Julian%20HxH%20-%20Default.zip",
               "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20Default.zip"
             }
           },
@@ -6019,9 +6019,9 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1162-icon.png/revision/latest?cb=20220525115601",
             "type1": "Basic",
             "type_links": {
-              "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/8b23y3xzmvr14g7ss4h5v/Julian-JJK-Basic.zip?rlkey=3emb51rou7ugmiv2gpcaqp2kf&st=zx2vamw4&dl=1",
-              "02 MYSTIC MEOW": "https://www.dropbox.com/scl/fi/fc2j6xanrqnid5crumji9/Julian-Mystic-Basic.zip?rlkey=z47k67ktoko7zmkkt6p87biq0&st=ndlhst98&dl=1",
-              "03 HUNTERXHUNTER": "https://www.dropbox.com/scl/fi/yr9fxvtrg1z6qoowjo0cg/Julian-HxH-Basic.zip?rlkey=lk9l6k4wwd4yua86xftdnrgp5&st=p5bkm47m&dl=1",
+              "01 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Julian/JJK/Julian%20JJK%20-%20Basic.zip",
+              "02 MYSTIC MEOW": "https://github.com/injctr/large/raw/main/Julian/Mystic/Julian%20Mystic%20-%20Basic.zip",
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Julian/HxH/Julian%20HxH%20-%20%20Basic.zip",
               "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20Basic.zip"
             }
           },
@@ -6030,8 +6030,8 @@
             "type1": "Jujutsu Kaisen",
             "type_links": {
               "01 JUJUTSU KAISEN": "unavailable",
-              "02 MYSTIC MEOW": "https://www.dropbox.com/scl/fi/n9qg9rqawlxih1auzdjcj/Julian-Mystic-JJK.zip?rlkey=31ar5tjvha8clwug96kstqfe0&st=82hw36hn&dl=1",
-              "03 HUNTERXHUNTER": "https://www.dropbox.com/scl/fi/dj2g4ba7zbae6fo31hn1o/Julian-HxH-Jujutsu-Kaisen.zip?rlkey=h43rws4jmrx6mj8dgxtiqh06b&st=mcvqi3hw&dl=1",
+              "02 MYSTIC MEOW": "https://github.com/injctr/large/raw/main/Julian/Mystic/Julian%20Mystic%20-%20JJK.zip",
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Julian/HxH/Julian%20HxH%20-%20Jujutsu%20Kaisen.zip",
               "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20JJK.zip"
             }
           },
@@ -6039,9 +6039,9 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1166-icon.png/revision/latest?cb=20250106155511",
             "type1": "Mystic Meow",
             "type_links": {
-              "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/2ensu6u6sm0nk7q754wiq/Julian-JJK-Meowkin-Tracker.zip?rlkey=xjzkb8ntszaeajuxx4g0dkw68&st=493ku261&dl=1",
+              "01 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Julian/JJK/Julian%20JJK%20-%20Meowkin%20Tracker.zip",
               "02 MYSTIC MEOW": "unavailable",
-              "03 HUNTERXHUNTER": "https://www.dropbox.com/scl/fi/9eoe7etxa9nf2kj6gljri/Julian-HxH-Meowkin-Tracker.zip?rlkey=aoh5ut65vklhwdkcwmmt6vuip&st=jxkikl2x&dl=1",
+              "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Julian/HxH/Julian%20HxH%20-%20Meowkin%20Tracker.zip",
               "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20Meowkin.zip"
             }
           },
@@ -6049,8 +6049,8 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1167-icon.png/revision/latest?cb=20241201053537",
             "type1": "Hunter X Hunter",
             "type_links": {
-              "01 JUJUTSU KAISEN": "https://www.dropbox.com/scl/fi/j1nz8bk26ypf2hjnl7fm9/Julian-JJK-HxH.zip?rlkey=mjsxgh33wmq78g0d399l526va&st=wyakckef&dl=1",
-              "02 MYSTIC MEOW": "https://www.dropbox.com/scl/fi/q4tlqqb9hdsy6kc1f8lp6/Julian-Mystic-HxH.zip?rlkey=kimoykgf7dq78ech664obkbr2&st=uihfjlh9&dl=1",
+              "01 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Julian/JJK/Julian%20JJK%20-%20HxH.zip",
+              "02 MYSTIC MEOW": "https://github.com/injctr/large/raw/main/Julian/Mystic/Julian%20Mystic%20-%20HxH.zip",
               "03 HUNTERXHUNTER": "unavailable",
               "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20HxH.zip"
             }
@@ -6134,7 +6134,7 @@
             "type1": "Default",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Default.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/pwi4qrw9gbfcxkdm93u17/Kagura-Luckybox-Default.zip?rlkey=eyjug4iae1i6ebegcfgrkj668&st=gs41y8io&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Default.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Default.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Default.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Default.zip"
@@ -6145,7 +6145,7 @@
             "type1": "Basic",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Basic.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/2ztfhw2g0sn97z6ff5tws/Kagura-Luckybox-Basic.zip?rlkey=easmvq766fsrnalbsjbppiit6&st=i8leklyj&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Basic.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Basic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Basic.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Basic.zip"
@@ -6167,7 +6167,7 @@
             "type1": "Summer",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Summer.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/8ignvzvv5ol8xdfwlrrre/Kagura-Luckybox-Summer.zip?rlkey=sadkdxtmhtew8699g2hbvpwtb&st=i3mhoxa4&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Summer.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Summer.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Summer.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Summer.zip"
@@ -6189,7 +6189,7 @@
             "type1": "Starlight 2021",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Starlight.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/llyks113tlyjadt6qeg6p/Kagura-Luckybox-Starlight.zip?rlkey=eweabo7dvakz75gr3sqz0aydu&st=eavlsz5q&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Starlight.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Starlight.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Starlight.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Starlight.zip"
@@ -6200,7 +6200,7 @@
             "type1": "Annual Starlight",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Annual%20Starlight.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/k71ki6xgeiuqsnkgb553x/Kagura-Luckybox-Annual-Star.zip?rlkey=0co1lkmmq4wh3mg3zgfne126q&st=4idybj8v&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Annual%20Starlight.zip",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Annual%20Star.zip",
               "05 COULDS": "unavailable"
@@ -6211,7 +6211,7 @@
             "type1": "Exorcist",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Exorcist.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/iomtoyx3t3r2ivtehj13b/Kagura-Luckybox-Exorcists.zip?rlkey=uhdr0awi66q06lwjtaqsddhr8&st=9rzs6r4t&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Exorcist.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Exorcist.zip",
               "04 EXORCIST": "unavailable",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Exorcist.zip"
@@ -6222,7 +6222,7 @@
             "type1": "Coulds",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20BTC.zip",
-              "02 LUCKYBOX": "unavailable",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20BTC.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20BTC.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20BTC.zip",
               "05 COULDS": "unavailable"
@@ -6233,7 +6233,7 @@
             "type1": "Epic",
             "type_links": {
               "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Epic.zip",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/zv0dq50dsd7tnyvssnte6/Kagura-Luckybox-Epic.zip?rlkey=ji0gyyfcg5ksph9iv6lvdugxt&st=34sktbfb&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Epic.zip",
               "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Kagura/Annual/Kagura%20Annual%20-%20Epic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Kagura/Exorcist/Kagura%20Exorcist%20-%20Epic.zip",
               "05 COULDS": "https://github.com/injctr/large/raw/main/Kagura/BTC/Kagura%20BTC%20-%20Epic.zip"
@@ -6244,7 +6244,7 @@
             "type1": "Special",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 LUCKYBOX": "https://www.dropbox.com/scl/fi/h56a2iudxay7dtdg0nua9/Kagura-Luckybox-Special-Lady-Parasol.zip?rlkey=9rcu532ypxi8jez7kwnc81vav&st=gf6z3krf&dl=1",
+              "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kagura/Luckybox/Kagura%20Luckybox%20-%20Special.zip",
               "03 ANNUAL STARLIGHT": "unavailable",
               "04 EXORCIST": "unavailable",
               "05 COULDS": "unavailable"
@@ -6280,7 +6280,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero621-icon.png/revision/latest?cb=20241021145645",
             "type1": "Default",
             "type_links": {
-              "01 EPIC": "https://www.dropbox.com/scl/fi/bc89hxp0yueoo9tikd97v/Kaja-Epic-Default.zip?rlkey=kzd17qhesplavwr5kszd1ycel&st=l803wtbu&dl=1",
+              "01 EPIC": "https://github.com/injctr/large/raw/main/Kaja/Epic/Kaja%20Epic%20-%20Default.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kaja/Luckybox/Kaja%20Luckybox%20-%20Default.zip"
             }
           },
@@ -6288,7 +6288,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a2/Hero622-icon.png/revision/latest?cb=20220126141806",
             "type1": "Basic",
             "type_links": {
-              "01 EPIC": "https://www.dropbox.com/scl/fi/s9uflzpwhgll1lpfott3e/Kaja-Epic-Basic.zip?rlkey=6xusqxrsfp78u4zm2u026665h&st=ehc6kzvs&dl=1",
+              "01 EPIC": "https://github.com/injctr/large/raw/main/Kaja/Epic/Kaja%20Epic%20-%20Basic.zip",
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kaja/Luckybox/Kaja%20Luckybox%20-%20Basic.zip"
             }
           },
@@ -6350,14 +6350,14 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png/revision/latest?cb=20250402015050",
             "type1": "Default",
             "type_links": {
-              "01 NARUTO": "https://www.dropbox.com/scl/fi/ogrsvgy8oerhste9qb585/Kalea-Sakura-Default.zip?rlkey=cojlel6sktcxg5upacv2o4zp6&st=zxyfv8a1&dl=1"
+              "01 NARUTO": "https://github.com/injctr/large/raw/main/Kalea/Naruto/Kalea%20Sakura%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1282-icon.png/revision/latest?cb=20250402015034",
             "type1": "Basic",
             "type_links": {
-              "01 NARUTO": "https://www.dropbox.com/scl/fi/vjk36uf5fxnishoky6w8n/Kalea-Sakura-Basic.zip?rlkey=c3r3o5rmhniepb807oscdo8d6&st=ypjbb2dh&dl=1"
+              "01 NARUTO": "https://github.com/injctr/large/raw/main/Kalea/Naruto/Kalea%20Sakura%20-%20Basic.zip"
             }
           },
           "03 NARUTO": {
@@ -6381,105 +6381,77 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero081-icon.png/revision/latest?cb=20241021145117",
             "type1": "Default",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "https://www.dropbox.com/scl/fi/z49zwgxi3fsfwfn31gqac/Karina-KOF-Default.zip?rlkey=el0zb6gmvq0kniqbe3svhg3jc&st=9mi4onfd&dl=1",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "https://github.com/injctr/large/raw/main/Karina/KOF/Karina%20KOF%20-%20Default.zip"
             }
           },
           "02 ELITE 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero082-icon.png/revision/latest?cb=20220125055642",
             "type1": "Elite 1",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "https://www.dropbox.com/scl/fi/pxj9t976tulv5rij83wch/Karina-KOF-Elite-Phantom.zip?rlkey=mus2nyx3lyf5acow70pzz0j7t&st=5azdjiww&dl=1",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "https://github.com/injctr/large/raw/main/Karina/KOF/Karina%20KOF%20-%20Elite%20Phantom.zip"
             }
           },
           "03 CHRISTMAS": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero083-icon.png/revision/latest?cb=20220125055638",
             "type1": "Christmas",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "https://www.dropbox.com/scl/fi/1mzhhpj9ixtpxdwtzrrb5/Karina-KOF-Christmas.zip?rlkey=fznk1aup5b9iapr67pdiwrpuh&st=uqh4v03f&dl=1",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "https://github.com/injctr/large/raw/main/Karina/KOF/Karina%20KOF%20-%20Christmas.zip"
             }
           },
           "04 STARLIGHT 2017": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c1/Hero084-icon.png/revision/latest?cb=20220125055640",
             "type1": "Starlight 2017",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "https://www.dropbox.com/scl/fi/m4cvi6yzeqcgvasnn29yy/Karina-KOF-Starlight.zip?rlkey=mmuml9a6o5iypb13n1k9k06hf&st=bp40q0uj&dl=1",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "https://github.com/injctr/large/raw/main/Karina/KOF/Karina%20KOF%20-%20Starlight.zip"
             }
           },
           "05 ELITE 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero085-icon.png/revision/latest?cb=20220125063050",
             "type1": "Elite 2",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "https://www.dropbox.com/scl/fi/8ps0eg3yodq9q3bxo3faz/Karina-KOF-Elite.zip?rlkey=uacm1fauxrpd01i6rxxt3nl2e&st=7enrtvvt&dl=1",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "https://github.com/injctr/large/raw/main/Karina/KOF/Karina%20KOF%20-%20Elite.zip"
             }
           },
           "06 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero086-icon.png/revision/latest?cb=20220125063052",
-            "type1": "Luckubox",
+            "type1": "Luckybox",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "https://www.dropbox.com/scl/fi/kmab6zkyzmikimhlie2st/Karina-KOF-Luckybox.zip?rlkey=it0l4scdk6gv5l4cf85n4vfl6&st=eprfi27f&dl=1",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "https://github.com/injctr/large/raw/main/Karina/KOF/Karina%20KOF%20-%20Luckybox.zip"
             }
           },
           "07 KOF": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero087-icon.png/revision/latest?cb=20220125063039",
             "type1": "KOF",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "unavailable",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "unavailable"
             }
           },
           "08 ZODIAC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero088-icon.png/revision/latest?cb=20230623130814",
             "type1": "Zodiac",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "unavailable",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "unavailable"
             }
           },
           "09 S17 FIRST RECHARGE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c8/Hero089-icon.png/revision/latest?cb=20220125063053",
             "type1": "S17 First Recharge",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "unavailable",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "unavailable"
             }
           },
           "10 MCGG": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero100811-icon.png/revision/latest?cb=20251001064157",
             "type1": "MCGG",
             "type_links": {
-              "01 EPIC": "unavailable",
-              "02 KOF": "unavailable",
-              "03 ZODIAC": "unavailable"
+              "01 KOF": "unavailable"
             }
           }
         },
         "Skins": {
-          "01 EPIC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero086-icon.png/revision/latest?cb=20220125063052",
-            "type2": "Luckubox"
-          },
-          "02 KOF": {
+          "01 KOF": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero087-icon.png/revision/latest?cb=20220125063039",
             "type2": "KOF"
-          },
-          "03 ZODIAC": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero088-icon.png/revision/latest?cb=20230623130814",
-            "type2": "Zodiac"
           }
         }
       },
@@ -6490,7 +6462,7 @@
             "type1": "Default",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/ik3iqhu89mje22zvnat7f/Karrie-Annual-Default.zip?rlkey=a066ehyqg66v4bd5rfyfl015b&st=cx60jv9d&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Default.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/jmknt0rfru6z9f7tq0uxu/Karrie-Kishin-Default.zip?rlkey=h765uu1gpvvbzyixpiam452xx&st=cbzj9ip5&dl=1"
             }
           },
@@ -6499,7 +6471,7 @@
             "type1": "Basic",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/2xsqa5vzi65wpryvmn399/Karrie-Annual-Basic.zip?rlkey=4smhjvx5k151id91fz2yt7d4g&st=bfl6tfbi&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Basic.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/mwlgm2ke14n30w4c3sgmn/Karrie-Kishin-Basic.zip?rlkey=8v3y71m67n2vxk39tzalfw42z&st=ymnp9ypf&dl=1"
             }
           },
@@ -6508,7 +6480,7 @@
             "type1": "Elite 1",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/y6uxmuqng2zy297zzfyqd/Karrie-Annual-Elite.zip?rlkey=1im4sxeahmxi2o6hc5lwf9esz&st=zfq9x33r&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Elite.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/55t618aey5fr8hlaznpxb/Karrie-Kishin-Elite.zip?rlkey=9ceqgw1h75vg45u5y7j4ddwpg&st=hgkeu6ok&dl=1"
             }
           },
@@ -6517,7 +6489,7 @@
             "type1": "Starlight 2018",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/obqckfn0la8swdofc2y11/Karrie-Annual-Starlight.zip?rlkey=yb2qz4zmro49rbujouh79ks7l&st=0x779cdv&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Starlight.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/5zi91qvyau9as7ltd6vwf/Karrie-Kishin-Starlight.zip?rlkey=sbmeklxojxdwg1rxujdywxh08&st=1gb2bons&dl=1"
             }
           },
@@ -6526,7 +6498,7 @@
             "type1": "Halloween",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/5vg1zq81f2dadwhpdfvp8/Karrie-Annual-Halloween.zip?rlkey=e36ksyn7tenkp5rlwsio3vthw&st=jp2ylwxz&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Halloween.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/6rtu3pd4vhpmsq6cm6zzt/Karrie-Kishin-Special.zip?rlkey=blqbsqxrkib4a6pla08mh49rh&st=etpa8xrs&dl=1"
             }
           },
@@ -6535,7 +6507,7 @@
             "type1": "Luckybox",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/nh852j57z2c85m15ibepz/Karrie-Annual-Luckybox.zip?rlkey=rvo35ehs3l48hz3ctxxm2wi4p&st=b5bqabje&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Luckybox.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/ktu7pssh9czw5se35dvls/Karrie-Kishin-Luckybox.zip?rlkey=bqd1f3cus90br67p1uzm0q9il&st=06gn2trw&dl=1"
             }
           },
@@ -6544,7 +6516,7 @@
             "type1": "Eric 1",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/u3qpy909dffnnc3xb6jk7/Karrie-Annual-Epic-Gill-Girl.zip?rlkey=x5qgml5qhwtcrcwtxvzn9w0mp&st=1r1sb10t&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Epic%20Gill%20Girl.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/alwrpp0vgyzf0wynmeh27/Karrie-Kishin-Epic-Gill-Girl.zip?rlkey=w0yyezrkhr2t010sj58emvpzs&st=2mfqmf3d&dl=1"
             }
           },
@@ -6562,7 +6534,7 @@
             "type1": "Elite 2",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/vcwlp4rcl27fsm1t7e5p6/Karrie-Annual-Elite-Top-up.zip?rlkey=t81kul6i0knpkdhx0x8soysua&st=74ytc1ml&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Elite%20Top%20up.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/hiiyv3j8edz3bp43l8u5b/Karrie-Kishin-Elite-Top-Up.zip?rlkey=w6995qg56pbdrm2a2n07vo8ca&st=oa53an0i&dl=1"
             }
           },
@@ -6571,7 +6543,7 @@
             "type1": "Epic 2",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/qdgspr5lf86h0viuqrqq3/Karrie-Annual-Epic-Ice-Talon.zip?rlkey=j7r7v418ctapn0prf6ynra1a3&st=jqlry7nq&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Epic%20Ice%20Talon.zip",
               "03 KISHIN DENSETSU": "https://www.dropbox.com/scl/fi/2nbtp4mjntn627lxy3eux/Karrie-Kishin-Epic-Ice-Talon.zip?rlkey=7beyc1caej2xj2mxvdgf7dgjg&st=ls5yltwy&dl=1"
             }
           },
@@ -6580,7 +6552,7 @@
             "type1": "Kishin Densetsu",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ANNUAL STARLIGHT": "https://www.dropbox.com/scl/fi/39j1ulbrvb4xdlvgak7jn/Karrie-Annual-Kishin.zip?rlkey=0q96opcm5rkc8bk4v1dxe0ewq&st=hrx29ea3&dl=1",
+              "02 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Karrie/Annual%20Starlight/Karrie%20Annual%20-%20Kishin.zip",
               "03 KISHIN DENSETSU": "unavailable"
             }
           }
@@ -6669,28 +6641,28 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero781-icon.png/revision/latest?cb=20241021152946",
             "type1": "Default",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/it6l5ryi3pfz4zun67oz5/Khufta-Collector-Default.zip?rlkey=vjlnbve5ihmy73nvosf9dxst4&st=64cs0ocm&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Khufra/Collector/Khufta%20Collector%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero782-icon.png/revision/latest?cb=20220126142143",
             "type1": "Basic",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/p51lbrhrfj5ao5trxikuz/Khufta-Collector-Basic.zip?rlkey=8ungmslnwpx5k4lz2j4ad2gzv&st=k4l1gkcy&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Khufra/Collector/Khufta%20Collector%20-%20Basic.zip"
             }
           },
           "03 ELITE 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/fe/Hero783-icon.png/revision/latest?cb=20220126142111",
             "type1": "Elite 1",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/ku499bcdz4h7ke8iqaq4m/Khufta-Collector-Elite-Apophis.zip?rlkey=y2tvfoh6dro44bjwofe454spy&st=lvn2ni22&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Khufra/Collector/Khufta%20Collector%20-%20Elite%20Apophis.zip"
             }
           },
           "04 VALENTINE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero784-icon.png/revision/latest?cb=20220126142109",
             "type1": "Valentine",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/bu4o7mda25h353b48eeay/Khufta-Collector-Valentine.zip?rlkey=fsxl7loxnkacpabopp59dnso1&st=z5xae48s&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Khufra/Collector/Khufta%20Collector%20-%20Valentine.zip"
             }
           },
           "05 COLLECTOR": {
@@ -6704,21 +6676,21 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero786-icon.png/revision/latest?cb=20220126142717",
             "type1": "Starlight 2021",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/1uz6qy6f5c82a2zz4ih60/Khufta-Collector-Starlight.zip?rlkey=m6h98f6y5vzy6skl0mo8yqa6c&st=s6spmcp7&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Khufra/Collector/Khufta%20Collector%20-%20Starlight.zip"
             }
           },
           "07 ELITE 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero787-icon.png/revision/latest?cb=20230317100409",
             "type1": "Elite 2",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/8ubxwhd1y30wbjitdsmtg/Khufta-Collector-Elite-Iron-Hook.zip?rlkey=j5qrfa0kuixi38fz7107bzmg3&st=cq1apcti&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Khufra/Collector/Khufta%20Collector%20-%20Elite%20Iron%20Hook.zip"
             }
           },
           "08 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero788-icon.png/revision/latest?cb=20241013072543",
             "type1": "Epic",
             "type_links": {
-              "01 COLLECTOR": "https://www.dropbox.com/scl/fi/ydkj2beioblz9cddpe1f0/Khufta-Collector-Epic.zip?rlkey=2oj63ffeuhpyrrxnvxasq2djt&st=qwa4gdkx&dl=1"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Khufra/Collector/Khufta%20Collector%20-%20Epic.zip"
             }
           }
         },
@@ -6735,30 +6707,27 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero711-icon.png/revision/latest?cb=20250402105900",
             "type1": "Default",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/dpwvqy9ftb753pwb3wzww/Kimmy-Luckybox-Default.zip?rlkey=u6rl2tjjkww94i969q5umfik4&st=h698m7qd&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/cyw9cu7e0somsrd7xfu7y/Kimmy-Starwars-Default.zip?rlkey=ubcknzoiyzheoaishrgj8517i&st=2airv5np&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Default.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Default.zip",
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Default.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero712-icon.png/revision/latest?cb=20250402105856",
             "type1": "Basic",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/6q9vkmzh0vhxgekoarvgg/Kimmy-Luckybox-Basic.zip?rlkey=5372ebvr5mu0rt8dboaa8r5u2&st=9y9yo6tr&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/vwkzcc3obfto1wlxk92x9/Kimmy-Starwars-Basic.zip?rlkey=7flgw5ih2d4zwcldccajw6r7l&st=n5jji1fw&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Basic.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Basic.zip",
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Basic.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Basic.zip"
             }
           },
           "03 STARLIGHT": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero713-icon.png/revision/latest?cb=20220126142652",
             "type1": "Starlight",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/ze3b2b57519tfjt6okwd4/Kimmy-Luckybox-Starlight.zip?rlkey=18zy4l138albs62ug2az4m90s&st=epg0ihro&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/to96k61j1wdini7udxds5/Kimmy-Starwars-Starlight.zip?rlkey=dhbawjvuroxmerb4kofn8wnt4&st=kosrv3uq&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Starlight.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Starlight.zip",
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Starlight.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Starlight.zip"
             }
           },
           "04 LUCKYBOX": {
@@ -6766,59 +6735,53 @@
             "type1": "Luckybox",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/x0svjklmho9o02hjo1xzi/Kimmy-Starwars-Luckybox.zip?rlkey=5chgq2psgfd10hmquevl8lefp&st=d5tgn5zr&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Luckybox.zip"
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Luckybox.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Luckybox.zip"
             }
           },
           "05 SPECIAL 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero715-icon.png/revision/latest?cb=20220126142744",
             "type1": "Special 1",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/yrnao68mkjsu8tvuvflvm/Kimmy-Luckybox-Social-Charge.zip?rlkey=6ocazy1fs3ucaijjak7vkwo7p&st=2zweydgy&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/xta77ehqpvbw817jsgusi/Kimmy-Starwars-Special-Charge.zip?rlkey=11ilm1fny13cbf5cm572b10pz&st=ltbrd2qc&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20SP%20Charge.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Social%20Charge.zip",
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Special%20Charge.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20SP%20Charge.zip"
             }
           },
           "06 DRAGON TAMER": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero716-icon.png/revision/latest?cb=20221022084104",
             "type1": "Dragon Tamer",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/2wdrtvsjifz673d9iasol/Kimmy-Luckybox-Dragon-Tamer.zip?rlkey=4fjogsitwmgsnub5ypjwmj160&st=0z7g21nt&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/cqyjfnrndovkok4q3ehxy/Kimmy-Starwars-Dragon.zip?rlkey=8hmytqttpmjxa1l1xhbcgkl07&st=tx4m4hfs&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Dragon%20Tamer.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Dragon%20Tamer.zip",
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Dragon.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Dragon%20Tamer.zip"
             }
           },
           "07 STARWARS": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero717-icon.png/revision/latest?cb=20220628175408",
             "type1": "Starwars",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/sciflwgdk2utehcg33xci/Kimmy-Luckybox-Starwars.zip?rlkey=pidbrtjwh6tk499oh5f6zpiwn&st=rjkyugif&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "unavailable",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Starwars.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Starwars.zip",
+              "02 STARWARS": "unavailable",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Starwars.zip"
             }
           },
           "08 SPECIAL 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero718-icon.png/revision/latest?cb=20240324140838",
             "type1": "Special 2",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/vjn2wtf7ip8767bgmuq5j/Kimmy-Luckybox-Special-Rising.zip?rlkey=lgtnm3773j34zwdq0rcr5ro9b&st=clfk0vpg&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/exuohdw15oi6jjryxwt0z/Kimmy-Starwars-Special-Rising.zip?rlkey=udexo4yt24b4aojomy5qzkntl&st=ohloln9h&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20SP%20Rising.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Special%20Rising.zip",
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Special%20Rising.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20SP%20Rising.zip"
             }
           },
           "09 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero719-icon.png/revision/latest?cb=20241201053524",
             "type1": "Elite",
             "type_links": {
-              "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/vf7uzchc6i1x3kxw2iarv/Kimmy-Luckybox-Elite.zip?rlkey=qxgpg9jp4nnpkxjvx8h2qajtq&st=z4wl03ps&dl=1",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "https://www.dropbox.com/scl/fi/3kl58m5szlikufdnc9f3l/Kimmy-Starwars-Elite.zip?rlkey=uiwedi315lw44fxh43354h5kk&st=3a1er2xi&dl=1",
-              "04 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Elite.zip"
+              "01 LUCKYBOX": "https://github.com/injctr/large/raw/main/Kimmy/Luckybox/Kimmy%20Luckybox%20-%20Elite.zip",
+              "02 STARWARS": "https://github.com/injctr/large/raw/main/Kimmy/Starwars/Kimmy%20Starwars%20-%20Elite.zip",
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Kimmy/Collector/Kimmy%20Collector%20-%20Elite.zip"
             }
           },
           "10 COLLECTOR": {
@@ -6826,9 +6789,8 @@
             "type1": "Collector",
             "type_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 DRAGON TAMER": "unavailable",
-              "03 STARWARS": "unavailable",
-              "04 COLLECTOR": "unavailable"
+              "02 STARWARS": "unavailable",
+              "03 COLLECTOR": "unavailable"
             }
           }
         },
@@ -6837,15 +6799,11 @@
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero714-icon.png/revision/latest?cb=20220126142651",
             "type2": "Luckybox"
           },
-          "02 DRAGON TAMER": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero716-icon.png/revision/latest?cb=20221022084104",
-            "type2": "Dragon Tamer"
-          },
-          "03 STARWARS": {
+          "02 STARWARS": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero717-icon.png/revision/latest?cb=20220628175408",
             "type2": "Starwars"
           },
-          "04 COLLECTOR": {
+          "03 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero107110-icon.png/revision/latest?cb=20260423003119",
             "type2": "Collector"
           }
@@ -12440,7 +12398,7 @@
     },
     "Effects": {
       "Recall": {
-        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Recall/TLPH.jpeg",
+        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Recall/Seal%20of%20Anvil.jpeg",
         "name": "Recall",
         "01 CLASSIC": {
           "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Recall/Replacements/Classic.jpeg",
@@ -13235,7 +13193,7 @@
         }
       },
       "Emote": {
-        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Emote/Gojo%20Saturo.jpeg",
+        "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Emote/Pleasant%20Surprise.jpeg",
         "name": "Emote",
         "01 GENIUS": {
           "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Emote/Genuis.png",

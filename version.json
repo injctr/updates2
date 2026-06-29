@@ -2,8 +2,8 @@
   {
     "unity_ads": "Rewarded_Android",
     "allow": "no",
-    "version": "2.3",
-    "message": "June 16, 2026\n[RADIANT KIT] - Enter practice mode before injecting.\n  - Freya Legend\n  - Lesley Legend\n  - Lunox Legend\n\n[RECALL]\n  - Navi (10 replace)\n  - FLCN (15 replace)\n  - SpongeBob (16 replace)\n  - Neobeast 2 (15 replace)\n  - Dashing Cat (6 replace)\n  - Thamuz 11.11 (3 replace)\n  - Julian Naruto (12 replace)\n  - Lucky Golden Egg (10 replace)",
+    "version": "2.4",
+    "message": "June 29, 2026\n- Added Fix Stuck Loading Screen\n- Fix some bugs",
     "link": "https://youtu.be/xbIvKsNt9oI",
     "live": "no",
     "live_link": "",

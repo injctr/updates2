@@ -860,42 +860,48 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero451-icon.png/revision/latest?cb=20241021145507",
             "type1": "Default",
             "type_links": {
-              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Default.zip"
+              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Default.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Argus/Collector/Argus%20Collector%20-%20Default.zip"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero452-icon.png/revision/latest?cb=20220126141813",
             "type1": "Basic",
             "type_links": {
-              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Basic.zip"
+              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Basic.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Argus/Collector/Argus%20Collector%20-%20Basic.zip"
             }
           },
           "03 STARLIGHT 2017": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero453-icon.png/revision/latest?cb=20220126141811",
             "type1": "Starlight 2017",
             "type_links": {
-              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Starlight.zip"
+              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Starlight.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Argus/Collector/Argus%20Collector%20-%20Starlight.zip"
             }
           },
           "04 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero454-icon.png/revision/latest?cb=20220118094827",
             "type1": "Elite",
             "type_links": {
-              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Elite.zip"
+              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Elite.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Argus/Collector/Argus%20Collector%20-%20Elite.zip"
             }
           },
           "05 STARWARS": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero456-icon.png/revision/latest?cb=20220126141815",
             "type1": "Starwars",
             "type_links": {
-              "01 STARWARS": "unavailable"
+              "01 STARWARS": "unavailable",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Argus/Collector/Argus%20Collector%20-%20Star%20Wars.zip"
             }
           },
           "06 SEASON 27": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero457-icon.png/revision/latest?cb=20221223124525",
             "type1": "Season 27",
             "type_links": {
-              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Season.zip"
+              "01 STARWARS": "https://github.com/injctr/large/raw/main/Argus/Starwars/Argus%20Starwars%20-%20Season.zip",
+              "02 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Argus/Collector/Argus%20Collector%20-%20Season.zip"
             }
           }
         },
@@ -903,6 +909,10 @@
           "01 STARWARS": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero456-icon.png/revision/latest?cb=20220126141815",
             "type2": "Starwars"
+          },
+          "02 COLLECTOR TITANS": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20ARGUS.png",
+            "type2": "Collector Titans"
           }
         }
       },
@@ -968,7 +978,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "https://github.com/injctr/large/raw/main/Atlas/Starlight/Atlas%20Starlight%20-%20Default.zip",
               "02 MSC 2033": "https://github.com/injctr/large/raw/main/Atlas/MSC/Atlas%20MSC%20-%20Default.zip",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Default.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Default.zip",
+              "04 EPIC": "https://github.com/injctr/large/raw/main/Atlas/Epic/Atlas%20Epic%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -977,7 +988,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "https://github.com/injctr/large/raw/main/Atlas/Starlight/Atlas%20Starlight%20-%20Basic.zip",
               "02 MSC 2033": "https://github.com/injctr/large/raw/main/Atlas/MSC/Atlas%20MSC%20-%20Basic.zip",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Basic.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Basic.zip",
+              "04 EPIC": "https://github.com/injctr/large/raw/main/Atlas/Epic/Atlas%20Epic%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -986,7 +998,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "unavailable",
               "02 MSC 2033": "unavailable",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Elite.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Elite.zip",
+              "04 EPIC": "https://github.com/injctr/large/raw/main/Atlas/Epic/Atlas%20Epic%20-%20Elite%201.zip"
             }
           },
           "04 STARLIGHT 2022": {
@@ -995,7 +1008,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "unavailable",
               "02 MSC 2033": "unavailable",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Starlight.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20Starlight.zip",
+              "04 EPIC": "https://github.com/injctr/large/raw/main/Atlas/Epic/Atlas%20Epic%20-%20Starlight.zip"
             }
           },
           "05 MSC 2033": {
@@ -1004,7 +1018,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "unavailable",
               "02 MSC 2033": "unavailable",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20MSC.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Atlas/Collector/Atlas%20Collector%20-%20MSC.zip",
+              "04 EPIC": "unavailable"
             }
           },
           "06 COLLECTOR": {
@@ -1013,7 +1028,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "unavailable",
               "02 MSC 2033": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 EPIC": "unavailable"
             }
           },
           "07 EPIC": {
@@ -1022,7 +1038,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "unavailable",
               "02 MSC 2033": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 EPIC": "unavailable"
             }
           },
           "08 ELITE": {
@@ -1031,7 +1048,8 @@
             "type_links": {
               "01 STARLIGHT 2022": "unavailable",
               "02 MSC 2033": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 EPIC": "https://github.com/injctr/large/raw/main/Atlas/Epic/Atlas%20Epic%20-%20Elite%202.zip"
             }
           }
         },
@@ -1047,6 +1065,10 @@
           "03 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero936-icon.png/revision/latest?cb=20241013071652",
             "type2": "Collector"
+          },
+          "04 EPIC": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero937-icon.png/revision/latest?cb=20251001064156",
+            "type2": "Epic"
           }
         }
       },
@@ -6039,7 +6061,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero1166-icon.png/revision/latest?cb=20250106155511",
             "type1": "Mystic Meow",
             "type_links": {
-              "01 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Julian/JJK/Julian%20JJK%20-%20Meowkin%20Tracker.zip",
+              "01 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Julian/JJK/Julian%20JJK%20-%20Mystic%20Meow.zip",
               "02 MYSTIC MEOW": "unavailable",
               "03 HUNTERXHUNTER": "https://github.com/injctr/large/raw/main/Julian/HxH/Julian%20HxH%20-%20Meowkin%20Tracker.zip",
               "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20Meowkin.zip"
@@ -6053,6 +6075,16 @@
               "02 MYSTIC MEOW": "https://github.com/injctr/large/raw/main/Julian/Mystic/Julian%20Mystic%20-%20HxH.zip",
               "03 HUNTERXHUNTER": "unavailable",
               "04 NARUTO": "https://github.com/injctr/large/raw/main/Julian/Itachi/Julian%20Itachi%20-%20HxH.zip"
+            }
+          },
+          "06 NARUTO": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero1168-icon.png/revision/latest?cb=20260421223511",
+            "type1": "Naruto",
+            "type_links": {
+              "01 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Julian/JJK/Julian%20JJK%20-%20Itachi%20Uchiha.zip",
+              "02 MYSTIC MEOW": "unavailable",
+              "03 HUNTERXHUNTER": "unavailable",
+              "04 NARUTO": "unavailable"
             }
           }
         },
@@ -8448,49 +8480,56 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero191-icon.png/revision/latest?cb=20241021145234",
             "type1": "Default",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Default.zip"
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Default.zip",
+              "02 EPIC": "https://github.com/injctr/large/raw/main/Minotaur/Epic/Minotaur%20Epic%20-%20Default.zip"
             }
           },
           "02 ELITE 1": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero192-icon.png/revision/latest?cb=20220125063030",
             "type1": "Elite 1",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Elite%20Yama.zip"
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Elite%20Yama.zip",
+              "02 EPIC": "https://github.com/injctr/large/raw/main/Minotaur/Epic/Minotaur%20Epic%20-%20Elite%201.zip"
             }
           },
           "03 SEASON 4": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero193-icon.png/revision/latest?cb=20220125063029",
             "type1": "Season 4",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Season.zip"
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Season.zip",
+              "02 EPIC": "https://github.com/injctr/large/raw/main/Minotaur/Epic/Minotaur%20Epic%20-%20Season.zip"
             }
           },
           "04 ELITE 2": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero194-icon.png/revision/latest?cb=20220125063023",
             "type1": "Elite 2",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Elite%20Hammer.zip"
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Elite%20Hammer.zip",
+              "02 EPIC": "https://github.com/injctr/large/raw/main/Minotaur/Epic/Minotaur%20Epic%20-%20Elite%202.zip"
             }
           },
           "05 ZODIAC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Hero195-icon.png/revision/latest?cb=20220125063021",
             "type1": "Zodiac",
             "type_links": {
-              "01 ZODIAC": "unavailable"
+              "01 ZODIAC": "unavailable",
+              "02 EPIC": "unavailable"
             }
           },
           "06 SPECIAL": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/5a/Hero196-icon.png/revision/latest?cb=20240308031125",
             "type1": "Special",
             "type_links": {
-              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Special.zip"
+              "01 ZODIAC": "https://github.com/injctr/large/raw/main/Minotaur/Zodiac/Minotaur%20Zodiac%20-%20Special.zip",
+              "02 EPIC": "unavailable"
             }
           },
           "07 EPIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero197-icon.png/revision/latest?cb=20250619142203",
             "type1": "Epic",
             "type_links": {
-              "01 ZODIAC": "unavailable"
+              "01 ZODIAC": "unavailable",
+              "02 EPIC": "unavailable"
             }
           }
         },
@@ -8498,6 +8537,10 @@
           "01 ZODIAC": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/55/Hero195-icon.png/revision/latest?cb=20220125063021",
             "type2": "Zodiac"
+          },
+          "02 EPIC": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero197-icon.png/revision/latest?cb=20250619142203",
+            "type2": "Epic"
           }
         }
       },
@@ -10679,7 +10722,8 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/5vfykaryc3cqa5xww9rzd/Sun-Lunar-Default.zip?rlkey=p8fn0mdtmdxn7crn24lljroeu&st=e9o3nqak&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/rxcrpnly3qqu5x2pxagyx/Sun-Collector-Default.zip?rlkey=3y4arcrgx1kadgl76q94683bq&st=vwxcp49l&dl=1",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Default.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Default.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Default.zip"
             }
           },
           "02 ELITE": {
@@ -10688,7 +10732,8 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/wagdix1dv8wwp9m9wlt61/Sun-Lunar-Elite.zip?rlkey=y2dmu4sq9txy9schcwdtch0sn&st=31fjo577&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/iwjtryvs2cz70jk8fbzys/Sun-Collector-Elite.zip?rlkey=b1vyzxexm5nmhfzr9onpzsuzb&st=x4k8u7pk&dl=1",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Elite.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Elite.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Elite.zip"
             }
           },
           "03 SPECIAL 1": {
@@ -10697,7 +10742,8 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/i04eqyojojqkbpv0drmne/Sun-Lunar-Special-Rockstar.zip?rlkey=dsjkfytzuub70u669msxh3wsa&st=dh2bv6eo&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/wl3n9x661rc98ofn5o3md/Sun-Collector-Special.zip?rlkey=z3pot8jt9j60xvlbtdhaetno4&st=ipqcy22x&dl=1",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Special%20Rock%20Star.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Special%20Rock%20Star.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Special%20Rock%20Star.zip"
             }
           },
           "04 SPECIAL 2": {
@@ -10706,7 +10752,8 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/66qi84ui0hgf0m49idjrq/Sun-Lunar-Special-Street.zip?rlkey=w80xxvzie6xkarijpsnq6rkb4&st=4p49pf51&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/jz0l4nv9ilbjdtrvh8lef/Sun-Collector-Special-Street.zip?rlkey=6eccvuve45zotcclr3cu23vrq&st=4spfdw0g&dl=1",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Special%20Street%20Legend.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Special%20Street%20Legend.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Special%20Street%20Legend.zip"
             }
           },
           "05 STARLIGHT 2021": {
@@ -10715,7 +10762,8 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/6ym5sgv021s1r2lt5see3/Sun-Lunar-Starlight.zip?rlkey=fgqup58wgc34t1q8ny11xvdsb&st=5fwphjjj&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/nih01pdswwkf5ip6azalj/Sun-Collector-Starlight.zip?rlkey=clya001bcnlmcckir35bgylob&st=up7y4bmb&dl=1",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Starlight.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Starlight.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Starlight.zip"
             }
           },
           "06 S15 FIRST RECHARGE": {
@@ -10724,7 +10772,8 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/onjkq42j3ggsjuukig12w/Sun-Lunar-Top-up.zip?rlkey=fukdrqatko19smmoftkuwkdgr&st=pdt9tna8&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/ihvrjq9e75fsha69rfuz8/Sun-Collector-Top-up.zip?rlkey=l8ogstdajajynndit6pitj5f8&st=crwtxw47&dl=1",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Celestial%20Outlaw.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Celestial%20Outlaw.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Celestial%20Outlaw.zip"
             }
           },
           "07 LUNAR FEST": {
@@ -10733,7 +10782,8 @@
             "type_links": {
               "01 LUNAR FEST": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/vyba8yi272rknosjjlmey/Sun-Collector-Lunar.zip?rlkey=3yg90p1g5wnii5xjt7z0dmd4m&st=cxqnx7hi&dl=1",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Lunar%20Fest.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Lunar%20Fest.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Lunar%20Fest.zip"
             }
           },
           "08 COLLECTOR": {
@@ -10742,7 +10792,18 @@
             "type_links": {
               "01 LUNAR FEST": "https://www.dropbox.com/scl/fi/yei3z7777vh3p7vsgkwb1/Sun-Lunar-Collector.zip?rlkey=s31hkjny2hwze3zvuzm696s7s&st=3pp6e8ay&dl=1",
               "02 COLLECTOR": "unavailable",
-              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Collector.zip"
+              "03 ANNUAL STARLIGHT": "https://github.com/injctr/large/raw/main/Sun/Annual%20Starlight/Sun%20Annual%20Star%20-%20Collector.zip",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Collector.zip"
+            }
+          },
+          "09 ANNUAL STARLIGHT": {
+            "img1": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero279-icon.png/revision/latest?cb=20251107123321",
+            "type1": "Annual Starlight",
+            "type_links": {
+              "01 LUNAR FEST": "unavailable",
+              "02 COLLECTOR": "unavailable",
+              "03 ANNUAL STARLIGHT": "unavailable",
+              "04 COLLECTOR TITANS": "https://github.com/injctr/large/raw/main/Sun/Coll.%20Titans/Sun%20Collector%20Titans%20-%20Annual%20Star.zip"
             }
           }
         },
@@ -10758,6 +10819,10 @@
           "03 ANNUAL STARLIGHT": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero279-icon.png/revision/latest?cb=20251107123321",
             "type2": "Annual Starlight"
+          },
+          "04 COLLECTOR TITANS": {
+            "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20SUN.png",
+            "type2": "Collector Titans"
           }
         }
       },
@@ -13973,150 +14038,50 @@
       }
     },
     "Latest": {
-      "Lancelot_05 KISHIN DENSETSU": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero104712-icon.png/revision/latest?cb=20240928233454",
-        "type2": "Kishin Densetsu",
-        "key": "Lancelot"
-      },
-      "Balmond_02 COLLECTOR TITANS": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Balmond%20skin%20Collector%20Titans.png",
+      "Sun_04 COLLECTOR TITANS": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20SUN.png",
         "type2": "Collector Titans",
-        "key": "Balmond"
-      },
-      "Thamuz_02 11.11": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero727-icon.png/revision/latest?cb=20241013072538",
-        "type2": "11.11",
-        "key": "Thamuz"
-      },
-      "Lunox_02 LUCKYBOX": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero686-icon.png/revision/latest?cb=20260424022726",
-        "type2": "Luckybox",
-        "key": "Lunox"
-      },
-      "Odette_07 VALENTINE": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero104610.png/revision/latest?cb=20260421221542",
-        "type2": "Valentine",
-        "key": "Odette"
-      },
-      "Sun_03 ANNUAL STARLIGHT": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3c/Hero279-icon.png/revision/latest?cb=20251107123321",
-        "type2": "Annual Starlight",
         "key": "Sun"
       },
-      "Paquito_07 EPIC": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Paquito%20skin%20Epic.png",
-        "type2": "Epic",
-        "key": "Paquito"
+      "Argus_02 COLLECTOR TITANS": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20ARGUS.png",
+        "type2": "Collector Titans",
+        "key": "Argus"
       },
-      "Yin_05 COLLECTOR": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Yin%20skin%20Collector.png",
-        "type2": "Collector",
+      "Xavier_01 JUJUTSU KAISEN": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1153-icon.png/revision/latest?cb=20230212040133",
+        "type2": "Jujutsu Kaisen",
+        "key": "Xavier"
+      },
+      "Yin_02 JUJUTSU KAISEN": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
+        "type2": "Jujutsu Kaisen",
         "key": "Yin"
       },
-      "Pharsa_04 TIDES": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero105212-icon.png/revision/latest?cb=20260423000426",
-        "type2": "Tides",
-        "key": "Pharsa"
+      "Julian_01 JUJUTSU KAISEN": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",
+        "type2": "Jujutsu Kaisen",
+        "key": "Julian"
       },
-      "Selena_06 ZENITH": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/11/Hero106311-icon.png/revision/latest?cb=20250106155532",
-        "type2": "Zenith",
-        "key": "Selena"
+      "Melissa_01 JUJUTSU KAISEN": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero1143-icon.png/revision/latest?cb=20230212040132",
+        "type2": "Jujutsu Kaisen",
+        "key": "Melissa"
       },
-      "Selena_07 EPIC": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Selena%20skin%20Epic.png",
+      "Atlas_04 EPIC": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero937-icon.png/revision/latest?cb=20251001064156",
         "type2": "Epic",
-        "key": "Selena"
+        "key": "Atlas"
       },
-      "Novaria_04 COLLECTOR": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1194-icon.png/revision/latest?cb=20240905080720",
-        "type2": "Collector",
-        "key": "Novaria"
-      },
-      "Novaria_05 SPECIAL M7": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1195-icon.png/revision/latest?cb=20260421221437",
-        "type2": "Special M7",
-        "key": "Novaria"
-      },
-      "Kaja_02 LUCKYBOX": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero625-icon.png/revision/latest?cb=20250522143052",
-        "type2": "Luckybox",
-        "key": "Kaja"
-      },
-      "Akai_02 LUCKYBOX": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero095-icon.png/revision/latest?cb=20260424021838",
-        "type2": "Luckybox",
-        "key": "Akai"
-      },
-      "Belerick_02 STARLIGHT": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Belerick%20skin%20Starlight.png",
-        "type2": "Starlight",
-        "key": "Belerick"
-      },
-      "Joy_03 SPECIAL": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Joy%20skin%20Special.png",
-        "type2": "Special",
-        "key": "Joy"
-      },
-      "Roger_07 SPECIAL": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero103911-icon.png/revision/latest?cb=20260530012752",
-        "type2": "Special",
-        "key": "Roger"
-      },
-      "Chou_08 STREET FIGHTER 2": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20CHOU%2099.png",
-        "type2": "Street Fighter 2",
-        "key": "Chou"
-      },
-      "Guinevere_05 STREET FIGHTER 2": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20GUINEVERE%2099.png",
-        "type2": "Street Fighter 2",
-        "key": "Guinevere"
-      },
-      "Dyrroth_05 STREET FIGHTER 2": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20DYRROTH.png",
-        "type2": "Street Fighter 2",
-        "key": "Dyrroth"
-      },
-      "Paquito_05 STREET FIGHTER 2": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/STREET%20PAQUITO.png",
-        "type2": "Street Fighter 2",
-        "key": "Paquito"
+      "Minotaur_02 EPIC": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero197-icon.png/revision/latest?cb=20250619142203",
+        "type2": "Epic",
+        "key": "Minotaur"
       },
       "Kimmy_04 COLLECTOR": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/17/Hero107110-icon.png/revision/latest?cb=20260423003119",
         "type2": "Collector",
         "key": "Kimmy"
-      },
-      "Helcurt_02 COLLECTOR": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Helcurt%20-%20Kaiju%20of%20the%20Deep.png",
-        "type2": "Collector",
-        "key": "Helcurt"
-      },
-      "Fanny_01 LUCKYBOX": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero174-icon.png/revision/latest?cb=20220125063036",
-        "type2": "Luckybox",
-        "key": "Fanny"
-      },
-      "Aldous_02 COLLECTOR": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero647-icon.png/revision/latest?cb=20220126142228",
-        "type2": "Collector",
-        "key": "Aldous"
-      },
-      "Lesley_04 COLLECTOR": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero539-icon.png/revision/latest?cb=20220126141704",
-        "type2": "Collector",
-        "key": "Lesley"
-      },
-      "Franco_01 LUCKYBOX": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero106-icon.png/revision/latest?cb=20220125063122",
-        "type2": "Luckybox",
-        "key": "Franco"
-      },
-      "Harith_04 STARLIGHT 2026": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/Harith%20-%20Rebel%20Emberfang.png",
-        "type2": "Starlight 2026",
-        "key": "Harith"
       }
     },
     "CS-Categories": [

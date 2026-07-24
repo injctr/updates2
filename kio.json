@@ -14099,7 +14099,11 @@
         "key": "Minotaur"
       }
     },
-    "CS-Categories": ["3D Model", "Customized Effects", "Skin-Hero Replace"],
+    "CS-Categories": [
+      "3D Model",
+      "Customized Effects",
+      "Skin-Hero Replace"
+    ],
     "Custom-Skins": {
       "CSMQAKZF6D": {
         "category": "3D Model",

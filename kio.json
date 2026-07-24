@@ -12020,21 +12020,21 @@
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Yin_%28M-World_Yin%29.png/revision/latest?cb=20220401091203",
             "type2": "M-World"
           },
-          "02 STARLIGHT 2023": {
+          "02 JUJUTSU KAISEN": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
+            "type2": "Jujutsu Kaisen"
+          },
+          "03 STARLIGHT 2023": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero1135-icon.png/revision/latest?cb=20230623130955",
             "type2": "Starlight 2023"
           },
-          "03 ATTACK ON TITAN": {
+          "04 ATTACK ON TITAN": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero1136-icon.png/revision/latest?cb=20240301101156",
             "type2": "Attack on Titan"
           },
-          "04 COLLECTOR": {
+          "05 COLLECTOR": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/Yin%20skin%20Collector.png",
             "type2": "Collector"
-          },
-          "05 JUJUTSU KAISEN": {
-            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
-            "type2": "Jujutsu Kaisen"
           },
           "06 JJK SKILL1 BLACK FLASH": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
@@ -14099,11 +14099,7 @@
         "key": "Minotaur"
       }
     },
-    "CS-Categories": [
-      "3D Model",
-      "Customized Effects",
-      "Skin-Hero Replace"
-    ],
+    "CS-Categories": ["3D Model", "Customized Effects", "Skin-Hero Replace"],
     "Custom-Skins": {
       "CSMQAKZF6D": {
         "category": "3D Model",

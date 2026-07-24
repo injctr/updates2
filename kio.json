@@ -11950,7 +11950,8 @@
               "02 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Yin/JJK/Yin%20JJK%20-%20Default.zip",
               "03 STARLIGHT 2023": "https://github.com/injctr/large/raw/main/Yin/Starlight/Yin%20Starlight%20-%20Default.zip",
               "04 ATTACK ON TITAN": "https://github.com/injctr/large/raw/main/Yin/AOT/Yin%20AOT%20-%20Default.zip",
-              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Default.zip"
+              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Default.zip",
+              "06 JJK SKILL1 BLACK FLASH": "https://github.com/injctr/large/raw/main/Yin/JJK%20Black%20Flash/Yin%20JJK%20BlackFlash%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -11961,7 +11962,8 @@
               "02 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Yin/JJK/Yin%20JJK%20-%20Basic.zip",
               "03 STARLIGHT 2023": "https://github.com/injctr/large/raw/main/Yin/Starlight/Yin%20Starlight%20-%20Basic.zip",
               "04 ATTACK ON TITAN": "https://github.com/injctr/large/raw/main/Yin/AOT/Yin%20AOT%20-%20Basic.zip",
-              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Basic.zip"
+              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Basic.zip",
+              "06 JJK SKILL1 BLACK FLASH": "https://github.com/injctr/large/raw/main/Yin/JJK%20Black%20Flash/Yin%20JJK%20BlackFlash%20-%20Basic.zip"
             }
           },
           "03 M-WORLD": {
@@ -11972,7 +11974,8 @@
               "02 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Yin/JJK/Yin%20JJK%20-%20M-World.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 ATTACK ON TITAN": "https://www.dropbox.com/scl/fi/tv734per2iab9xljjpzdu/Yin-AOT-M-World.zip?rlkey=giy463h0k7q0e3avizcl52opd&st=gjxi7l8d&dl=1",
-              "05 COLLECTOR": "unavailable"
+              "05 COLLECTOR": "unavailable",
+              "06 JJK SKILL1 BLACK FLASH": "https://github.com/injctr/large/raw/main/Yin/JJK%20Black%20Flash/Yin%20JJK%20BlackFlash%20-%20M-World.zip"
             }
           },
           "04 JUJUTSU KAISEN": {
@@ -11983,7 +11986,8 @@
               "02 JUJUTSU KAISEN": "unavailable",
               "03 STARLIGHT 2023": "unavailable",
               "04 ATTACK ON TITAN": "https://github.com/injctr/large/raw/main/Yin/AOT/Yin%20AOT%20-%20JJK.zip",
-              "05 COLLECTOR": "unavailable"
+              "05 COLLECTOR": "unavailable",
+              "06 JJK SKILL1 BLACK FLASH": "unavailable"
             }
           },
           "05 STARLIGHT 2023": {
@@ -11994,7 +11998,8 @@
               "02 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Yin/JJK/Yin%20JJK%20-%20Starlight.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 ATTACK ON TITAN": "https://github.com/injctr/large/raw/main/Yin/AOT/Yin%20AOT%20-%20Starlight.zip",
-              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Starlight.zip"
+              "05 COLLECTOR": "https://github.com/injctr/large/raw/main/Yin/Collector/Yin%20Collector%20-%20Starlight.zip",
+              "06 JJK SKILL1 BLACK FLASH": "https://github.com/injctr/large/raw/main/Yin/JJK%20Black%20Flash/Yin%20JJK%20BlackFlash%20-%20Starlight.zip"
             }
           },
           "06 ATTACK ON TITAN": {
@@ -12005,7 +12010,8 @@
               "02 JUJUTSU KAISEN": "https://github.com/injctr/large/raw/main/Yin/JJK/Yin%20JJK%20-%20AOT.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 ATTACK ON TITAN": "unavailable",
-              "05 COLLECTOR": "unavailable"
+              "05 COLLECTOR": "unavailable",
+              "06 JJK SKILL1 BLACK FLASH": "https://github.com/injctr/large/raw/main/Yin/JJK%20Black%20Flash/Yin%20JJK%20BlackFlash%20-%20AOT.zip"
             }
           }
         },
@@ -12029,6 +12035,10 @@
           "05 COLLECTOR": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/Yin%20skin%20Collector.png",
             "type2": "Collector"
+          },
+          "06 JJK SKILL1 BLACK FLASH": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
+            "type2": "JJK Skill1 Black Flash"
           }
         }
       },
@@ -14038,25 +14048,10 @@
       }
     },
     "Latest": {
-      "Sun_04 COLLECTOR TITANS": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20SUN.png",
-        "type2": "Collector Titans",
-        "key": "Sun"
-      },
-      "Argus_02 COLLECTOR TITANS": {
-        "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20ARGUS.png",
-        "type2": "Collector Titans",
-        "key": "Argus"
-      },
       "Xavier_01 JUJUTSU KAISEN": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1153-icon.png/revision/latest?cb=20230212040133",
         "type2": "Jujutsu Kaisen",
         "key": "Xavier"
-      },
-      "Yin_02 JUJUTSU KAISEN": {
-        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
-        "type2": "Jujutsu Kaisen",
-        "key": "Yin"
       },
       "Julian_01 JUJUTSU KAISEN": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero1163-icon.png/revision/latest?cb=20230212040135",

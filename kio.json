@@ -12036,7 +12036,7 @@
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
             "type2": "Jujutsu Kaisen"
           },
-          "06 JJK SKILL 1 BLACK FLASH": {
+          "06 JJK SKILL1 BLACK FLASH": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
             "type2": "JJK Skill 1 Black Flash"
           }
@@ -14099,11 +14099,7 @@
         "key": "Minotaur"
       }
     },
-    "CS-Categories": [
-      "3D Model",
-      "Customized Effects",
-      "Skin-Hero Replace"
-    ],
+    "CS-Categories": ["3D Model", "Customized Effects", "Skin-Hero Replace"],
     "Custom-Skins": {
       "CSMQAKZF6D": {
         "category": "3D Model",

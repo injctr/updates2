@@ -14048,6 +14048,31 @@
       }
     },
     "Latest": {
+      "Sun_04 COLLECTOR TITANS": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20SUN.png",
+        "type2": "Collector Titans",
+        "key": "Sun"
+      },
+      "Argus_02 COLLECTOR TITANS": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20ARGUS.png",
+        "type2": "Collector Titans",
+        "key": "Argus"
+      },
+      "Balmond_02 COLLECTOR TITANS": {
+        "img2": "https://github.com/injctr/IMAGES/raw/main/Balmond%20skin%20Collector%20Titans.png",
+        "type2": "Collector Titans",
+        "key": "Balmond"
+      },
+      "Yin_06 JJK SKILL1 BLACK FLASH": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
+        "type2": "JJK Skill1 Black Flash",
+        "key": "Yin"
+      },
+      "Yin_05 JUJUTSU KAISEN": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero1134-icon.png/revision/latest?cb=20230212040131",
+        "type2": "Jujutsu Kaisen",
+        "key": "Yin"
+      },
       "Xavier_01 JUJUTSU KAISEN": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1153-icon.png/revision/latest?cb=20230212040133",
         "type2": "Jujutsu Kaisen",
@@ -14074,7 +14099,11 @@
         "key": "Minotaur"
       }
     },
-    "CS-Categories": ["3D Model", "Customized Effects", "Skin-Hero Replace"],
+    "CS-Categories": [
+      "3D Model",
+      "Customized Effects",
+      "Skin-Hero Replace"
+    ],
     "Custom-Skins": {
       "CSMQAKZF6D": {
         "category": "3D Model",

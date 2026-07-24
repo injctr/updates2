@@ -14043,6 +14043,56 @@
             "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Lunox%20Legend.jpg",
             "name": "Lunox Legend",
             "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Lunox%20Legend%20-%20Default.zip"
+          },
+          "04 ALPHA LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Alpha.jpg",
+            "name": "Alpha Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Alpha%20Legend%20-%20Default.zip"
+          },
+          "05 SABER LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Saber.jpg",
+            "name": "Saber Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Saber%20Legend%20-%20Default.zip"
+          },
+          "06 JOHNSON LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Johnson.jpg",
+            "name": "Johnson Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Johnson%20Legend%20-%20Default.zip"
+          },
+          "07 ALUCARD LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Alucard.jpg",
+            "name": "Alucard Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Alucard%20Legend%20-%20Default.zip"
+          },
+          "08 FANNY LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Fanny.jpg",
+            "name": "Fanny Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Fanny%20Legend%20-%20Default.zip"
+          },
+          "09 FRANCO LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Franco.jpg",
+            "name": "Franco Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Franco%20Legend%20-%20Default.zip"
+          },
+          "10 GORD LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Gord.jpg",
+            "name": "Gord Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Gord%20Legend%20-%20Default.zip"
+          },
+          "11 LAYLA LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Layla.jpg",
+            "name": "Layla Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Layla%20Legend%20-%20Default.zip"
+          },
+          "12 MIYA LEGEND": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Miya.jpg",
+            "name": "Miya Legend",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Miya%20Legend%20-%20Default.zip"
+          },
+          "13 STARLIGHT": {
+            "img": "https://github.com/injctr/IMAGES/raw/main/Effects/Radiant%20Kits/Starlight.jpg",
+            "name": "Starlight",
+            "link": "https://github.com/injctr/R4Dl4T/raw/main/%5BRadiant%20Kit%5D%20Starlight%20-%20Default.zip"
           }
         }
       }
@@ -14099,7 +14149,11 @@
         "key": "Minotaur"
       }
     },
-    "CS-Categories": ["3D Model", "Customized Effects", "Skin-Hero Replace"],
+    "CS-Categories": [
+      "3D Model",
+      "Customized Effects",
+      "Skin-Hero Replace"
+    ],
     "Custom-Skins": {
       "CSMQAKZF6D": {
         "category": "3D Model",

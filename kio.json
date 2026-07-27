@@ -14155,6 +14155,51 @@
       "Skin-Hero Replace"
     ],
     "Custom-Skins": {
+      "CSMS2WC1G6": {
+        "category": "Skin-Hero Replace",
+        "name": "Dyrroth",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero851-icon.png/revision/latest?cb=20250917081355",
+        "cs-name": "Gon Freecss",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Chou%20as%20Gon%20Freecss.jpg",
+        "yt-link": "https://youtu.be/G4ND7NEhm8A",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Chou%20as%20Gon%20Freecss.zip"
+      },
+      "CSMS2WAMUU": {
+        "category": "3D Model",
+        "name": "Brody",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1001-icon.png/revision/latest?cb=20241021153151",
+        "cs-name": "Choso",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Brody%20as%20Choso.jpg",
+        "yt-link": "https://youtu.be/4UKDK75AJEk",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Brody%20as%20Choso.zip"
+      },
+      "CSMS2W9XPH": {
+        "category": "3D Model",
+        "name": "Benedetta",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero971-icon.png/revision/latest?cb=20241021153134",
+        "cs-name": "Maki Zenin",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Benedetta%20as%20Maki%20Zenin.jpg",
+        "yt-link": "https://youtu.be/qd7yxZtfsW4",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Benedetta%20as%20Maki%20Zenin.zip"
+      },
+      "CSMS2W9AEM": {
+        "category": "Skin-Hero Replace",
+        "name": "Arlott",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero1201-icon.png/revision/latest?cb=20241021153344",
+        "cs-name": "Levi Ackerman",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Arlott%20as%20Levi%20Ackerman.jpg",
+        "yt-link": "https://youtu.be/hgeD4Jj31ZE",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Arlott%20as%20Levi%20Ackerman.zip"
+      },
+      "CSMS2W88YM": {
+        "category": "Skin-Hero Replace",
+        "name": "Aamon",
+        "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1091-icon.png/revision/latest?cb=20241021153241",
+        "cs-name": "Naruto Uzumaki",
+        "img2": "https://github.com/injctr/IMAGES/raw/main/cs-skin/Aamon%20as%20Naruto%20Uzumaki.jpg",
+        "yt-link": "https://youtu.be/rOoV2ZkgJa0",
+        "url": "https://github.com/injctr/CS-SKIN/raw/main/Aamon%20as%20Naruto%20Uzumaki.zip"
+      },
       "CSMQAKZF6D": {
         "category": "3D Model",
         "name": "Argus",

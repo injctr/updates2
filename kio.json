@@ -11929,7 +11929,7 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero309-icon.png/revision/latest?cb=20260420231856",
             "type1": "Special",
             "type_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/YSS/Collector/YSS%20Collector%20-%20Special.zip"
             }
           }
         },
@@ -14098,6 +14098,11 @@
       }
     },
     "Latest": {
+      "Yi Sun-shin_01 COLLECTOR": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero305-icon.png/revision/latest?cb=20220126042009",
+        "type2": "Collector",
+        "key": "Yi Sun-shin"
+      },
       "Sun_04 COLLECTOR TITANS": {
         "img2": "https://github.com/injctr/IMAGES/raw/main/MECHA%20SUN.png",
         "type2": "Collector Titans",

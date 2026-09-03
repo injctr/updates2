@@ -131,8 +131,8 @@
             },
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
-              "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "02 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Luckybox/Akai%20Luckybox%20-%20Default.ziphttps://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Luckybox/Akai%20Luckybox%20-%20Default.zip",
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Default.zip"
             }
           },
           "02 SUMMER": {
@@ -145,8 +145,8 @@
             },
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
-              "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "02 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Luckybox/Akai%20Luckybox%20-%20Elite%20Stream%20Recluse.zip",
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Default.zip"
             }
           },
           "03 ELITE 1": {
@@ -160,7 +160,7 @@
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
               "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Elite.zip"
             }
           },
           "04 STARLIGHT 2018": {
@@ -174,7 +174,7 @@
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
               "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Starlight.zip"
             }
           },
           "05 LUCKYBOX": {
@@ -188,7 +188,7 @@
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
               "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Luckybox.zip"
             }
           },
           "06 ELITE 2": {
@@ -202,7 +202,7 @@
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
               "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Elite%20Top%20up.zip"
             }
           },
           "07 SEASON 19": {
@@ -216,7 +216,7 @@
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
               "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Season.zip"
             }
           },
           "08 KUNG FU PANDA": {
@@ -244,7 +244,7 @@
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
               "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Halloween.zip"
             }
           },
           "10 8TH ANNIVERSARY": {
@@ -258,7 +258,7 @@
             "supa_links": {
               "01 STARLIGHT 2018": "unavailable",
               "02 LUCKYBOX": "unavailable",
-              "03 KUNG FU PANDA": "unavailable"
+              "03 KUNG FU PANDA": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Akai/Kung%20Fu%20Panda/Akai%20Kungfu%20-%20Anniversary.zip"
             }
           }
         },
@@ -290,11 +290,11 @@
               "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Default.zip"
             },
             "supa_links": {
-              "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "01 BLAZING BOUNTIES": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Blazing/Aldous%20Blazing%20-%20Default.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Default.zip",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Default.zip",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Default.zip",
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -308,11 +308,11 @@
               "05 M1": "https://github.com/injctr/large/raw/main/Aldous/M1/Aldous%20M1%20-%20Basic.zip"
             },
             "supa_links": {
-              "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "01 BLAZING BOUNTIES": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Blazing/Aldous%20Blazing%20-%20Basic.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Basic.zip",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Basic.zip",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Basic.zip",
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -327,10 +327,10 @@
             },
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Elite.zip",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Elite.zip",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Elite.zip",
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Elite.zip"
             }
           },
           "04 STARLIGHT 2019": {
@@ -345,10 +345,10 @@
             },
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
-              "05 M1": "unavailable"
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Starlight.zip",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Starlight.zip",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Starlight.zip",
+              "05 M1": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/M1/Aldous%20M1%20-%20Starlight.zip"
             }
           },
           "05 BLAZING BOUNTIES": {
@@ -363,9 +363,9 @@
             },
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Blazing.zip",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Blazing.zip",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Blazing.zip",
               "05 M1": "unavailable"
             }
           },
@@ -382,8 +382,8 @@
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Collector.zip",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Collector.zip",
               "05 M1": "unavailable"
             }
           },
@@ -399,9 +399,9 @@
             },
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Transformers.zip",
               "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20Transformers.zip",
               "05 M1": "unavailable"
             }
           },
@@ -411,14 +411,14 @@
             "type_links": {
               "01 BLAZING BOUNTIES": "unavailable",
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Aldous/Collector/Aldous%20Collector%20-%20Mistbenders.zip",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Misbenders.zip",
+              "03 TRANSFORMERS": "https://github.com/injctr/large/raw/main/Aldous/Transformers/Aldous%20Transformers%20-%20Misbenders.zip",
+              "04 MISBENDER": "unavailable",
               "05 M1": "unavailable"
             },
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Mistbenders.zip",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20Misbenders.zip",
               "04 MISBENDER": "unavailable",
               "05 M1": "unavailable"
             }
@@ -435,9 +435,9 @@
             },
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
-              "03 TRANSFORMERS": "unavailable",
-              "04 MISBENDER": "unavailable",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20M1.zip",
+              "03 TRANSFORMERS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Transformers/Aldous%20Transformers%20-%20M1.zip",
+              "04 MISBENDER": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Misbenders/Aldous%20Mistbenders%20-%20M1.zip",
               "05 M1": "unavailable"
             }
           },
@@ -453,7 +453,7 @@
             },
             "supa_links": {
               "01 BLAZING BOUNTIES": "unavailable",
-              "02 COLLECTOR": "unavailable",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aldous/Collector/Aldous%20Collector%20-%20Special.zip",
               "03 TRANSFORMERS": "unavailable",
               "04 MISBENDER": "unavailable",
               "05 M1": "unavailable"

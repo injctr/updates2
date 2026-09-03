@@ -16,7 +16,7 @@
               "01 ELITE": "unavailable",
               "02 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Starlight/Aamon%20Starlight%20-%20Default.zip",
               "03 SOUL VESSELS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Soul%20Vessels/Aamon%20Vessels%20-%20Default.zip",
-              "04 COLLECTOR": "unavailable"
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Collector/Aamon%20Collector%20-%20Default.zip"
             }
           },
           "02 BASIC": {
@@ -30,9 +30,9 @@
             },
             "supa_links": {
               "01 ELITE": "unavailable",
-              "02 STARLIGHT 2023": "unavailable",
-              "03 SOUL VESSELS": "unavailable",
-              "04 COLLECTOR": "unavailable"
+              "02 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Starlight/Aamon%20Starlight%20-%20Basic.zip",
+              "03 SOUL VESSELS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Soul%20Vessels/Aamon%20Vessels%20-%20Basic.zip",
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Collector/Aamon%20Collector%20-%20Basic.zip"
             }
           },
           "03 ELITE": {
@@ -46,9 +46,9 @@
             },
             "supa_links": {
               "01 ELITE": "unavailable",
-              "02 STARLIGHT 2023": "unavailable",
-              "03 SOUL VESSELS": "unavailable",
-              "04 COLLECTOR": "unavailable"
+              "02 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Starlight/Aamon%20Starlight%20-%20Elite.zip",
+              "03 SOUL VESSELS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Soul%20Vessels/Aamon%20Vessels%20-%20Elite.zip",
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Collector/Aamon%20Collector%20-%20Elite.zip"
             }
           },
           "04 STARLIGHT 2023": {
@@ -63,8 +63,8 @@
             "supa_links": {
               "01 ELITE": "unavailable",
               "02 STARLIGHT 2023": "unavailable",
-              "03 SOUL VESSELS": "unavailable",
-              "04 COLLECTOR": "unavailable"
+              "03 SOUL VESSELS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Soul%20Vessels/Aamon%20Vessels%20-%20Starlight.zip",
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Collector/Aamon%20Collector%20-%20Starlight.zip"
             }
           },
           "05 SOUL VESSELS": {
@@ -78,9 +78,9 @@
             },
             "supa_links": {
               "01 ELITE": "unavailable",
-              "02 STARLIGHT 2023": "unavailable",
+              "02 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Starlight/Aamon%20Starlight%20-%20Soul%20Vessel.zip",
               "03 SOUL VESSELS": "unavailable",
-              "04 COLLECTOR": "unavailable"
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Collector/Aamon%20Collector%20-%20Soul%20Vessel.zip"
             }
           },
           "06 COLLECTOR": {
@@ -94,7 +94,7 @@
             },
             "supa_links": {
               "01 ELITE": "unavailable",
-              "02 STARLIGHT 2023": "unavailable",
+              "02 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Aamon/Starlight/Aamon%20Starlight%20-%20Collector.zip",
               "03 SOUL VESSELS": "unavailable",
               "04 COLLECTOR": "unavailable"
             }

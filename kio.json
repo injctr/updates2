@@ -493,8 +493,8 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Alice/Collector/Alice%20Collector%20-%20Default.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Luckybox/Alice%20Luckybox%20-%20Default.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Collector/Alice%20Collector%20-%20Default.zip"
             }
           },
           "02 ELITE": {
@@ -505,8 +505,8 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Alice/Collector/Alice%20Collector%20-%20Elite.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Luckybox/Alice%20Luckybox%20-%20Elite.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Collector/Alice%20Collector%20-%20Elite.zip"
             }
           },
           "03 LUCKYBOX": {
@@ -518,7 +518,7 @@
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Collector/Alice%20Collector%20-%20Luckybox.zip"
             }
           },
           "04 SPECIAL": {
@@ -529,8 +529,8 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Alice/Collector/Alice%20Collector%20-%20Special.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Luckybox/Alice%20Luckybox%20-%20Special.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Collector/Alice%20Collector%20-%20Special.zip"
             }
           },
           "05 STARLIGHT 2019": {
@@ -541,8 +541,8 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Alice/Collector/Alice%20Collector%20-%20Starlight.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Luckybox/Alice%20Luckybox%20-%20Starlight.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Collector/Alice%20Collector%20-%20Starlight.zip"
             }
           },
           "06 SEASON 29": {
@@ -553,8 +553,8 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Alice/Collector/Alice%20Collector%20-%20Season.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Luckybox/Alice%20Luckybox%20-%20Season.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Collector/Alice%20Collector%20-%20Season.zip"
             }
           },
           "07 EPIC": {
@@ -565,8 +565,8 @@
               "02 COLLECTOR": "https://github.com/injctr/large/raw/main/Alice/Collector/Alice%20Collector%20-%20Epic.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 COLLECTOR": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Luckybox/Alice%20Luckybox%20-%20Epic.zip",
+              "02 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alice/Collector/Alice%20Collector%20-%20Epic.zip"
             }
           },
           "08 COLLECTOR": {
@@ -606,11 +606,11 @@
               "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Default.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 ABYSS": "unavailable",
-              "03 STARLIGHT 2023": "unavailable",
-              "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Default.zip",
+              "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Default.zip",
+              "03 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Starlight/Alpha%20Starlight%20-%20Default.zip",
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Default.zip",
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Default.zip"
             }
           },
           "02 LUCKYBOX": {
@@ -625,10 +625,10 @@
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
-              "02 ABYSS": "unavailable",
+              "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Luckybox.zip",
               "03 STARLIGHT 2023": "unavailable",
-              "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Luckybox.zip",
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Luckybox.zip"
             }
           },
           "03 BASIC": {
@@ -642,11 +642,11 @@
               "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Basic.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 ABYSS": "unavailable",
-              "03 STARLIGHT 2023": "unavailable",
-              "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Basic.zip",
+              "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Basic.zip",
+              "03 STARLIGHT 2023": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Starlight/Alpha%20Starlight%20-%20Default.zip",
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Basic.zip",
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Basic.zip"
             }
           },
           "04 SEASON 6": {
@@ -660,11 +660,11 @@
               "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Season.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 ABYSS": "unavailable",
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Season.zip",
+              "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Season.zip",
               "03 STARLIGHT 2023": "unavailable",
-              "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Season.zip",
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Season.zip"
             }
           },
           "05 SPECIAL": {
@@ -678,11 +678,11 @@
               "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Special.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 ABYSS": "unavailable",
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Special.zip",
+              "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Special.zip",
               "03 STARLIGHT 2023": "unavailable",
-              "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Special.zip",
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Special.zip"
             }
           },
           "06 ABYSS": {
@@ -696,11 +696,11 @@
               "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Abyss.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Abyss.zip",
               "02 ABYSS": "unavailable",
               "03 STARLIGHT 2023": "unavailable",
-              "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Abyss.zip",
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Abyss.zip"
             }
           },
           "07 STARLIGHT 2023": {
@@ -714,11 +714,11 @@
               "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Starlight.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 ABYSS": "unavailable",
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Starlight.zip",
+              "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Starlight.zip",
               "03 STARLIGHT 2023": "unavailable",
-              "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "04 COLLECTOR": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Collector/Alpha%20Collector%20-%20Starlight.zip",
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Starlight.zip"
             }
           },
           "08 COLLECTOR": {
@@ -732,11 +732,11 @@
               "05 LEGEND": "https://github.com/injctr/large/raw/main/Alpha/Legend/Alpha%20Legend%20-%20Collector.zip"
             },
             "supa_links": {
-              "01 LUCKYBOX": "unavailable",
-              "02 ABYSS": "unavailable",
+              "01 LUCKYBOX": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Collector.ziphttps://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Luckybox/Alpha%20Luckybox%20-%20Collector.zip",
+              "02 ABYSS": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Abyss/Alpha%20Abyss%20-%20Collector.zip",
               "03 STARLIGHT 2023": "unavailable",
               "04 COLLECTOR": "unavailable",
-              "05 LEGEND": "unavailable"
+              "05 LEGEND": "https://urpfiajrjfctkizlbulv.supabase.co/storage/v1/object/public/vinzz-tools/vinzztools/Alpha/Legend/Alpha%20Legend%20-%20Collector.zip"
             }
           },
           "09 LEGEND": {

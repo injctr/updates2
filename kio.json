@@ -18446,7 +18446,7 @@
             "type2": "Lunar Fest"
           },
           "04 CREATE": {
-            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create.jpg",
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create%20skin.jpg",
             "type2": "Create"
           }
         }
@@ -20092,6 +20092,11 @@
       }
     },
     "Latest": {
+      "Zilong_04 CREATE": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create.jpg",
+        "type2": "Create",
+        "key": "Zilong"
+      },
       "Selena_08 ASPIRANTS": {
         "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Selenas%20Aspirants.jpg",
         "type2": "Aspirants",
@@ -20101,11 +20106,6 @@
         "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Obsidias%20Aspirants.jpg",
         "type2": "Aspirants",
         "key": "Obsidia"
-      },
-      "Zilong_04 CREATE": {
-        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create.jpg",
-        "type2": "Create",
-        "key": "Zilong"
       },
       "Layla_04 10TH COLLECTOR": {
         "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Layla%2010th.jpg",

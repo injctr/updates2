@@ -1597,50 +1597,60 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/b/bf/Hero1081-icon.png/revision/latest?cb=20260423095836",
             "type1": "Default",
             "type_links": {
-              "01 SPECIAL": "https://github.com/injctr/large/raw/main/Aulus/Special/Aulus%20Special%20-%20Default.zip"
+              "01 SPECIAL": "https://github.com/injctr/large/raw/main/Aulus/Special/Aulus%20Special%20-%20Default.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Aulus/Starlight/Aulus%20Starlight%20-%20Default.zip"
             },
             "supa_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Basic.png",
             "type1": "Basic",
             "type_links": {
-              "01 SPECIAL": "https://github.com/injctr/large/raw/main/Aulus/Special/Aulus%20Special%20-%20Basic.zip"
+              "01 SPECIAL": "https://github.com/injctr/large/raw/main/Aulus/Special/Aulus%20Special%20-%20Basic.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Aulus/Starlight/Aulus%20Starlight%20-%20Basic.zip"
             },
             "supa_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "03 ELITE": {
             "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Elite.png",
             "type1": "Elite",
             "type_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             },
             "supa_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "04 SPECIAL": {
             "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Special.png",
             "type1": "Special",
             "type_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             },
             "supa_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "05 SEASON 34": {
             "img1": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Season.png",
             "type1": "Season 34",
             "type_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             },
             "supa_links": {
-              "01 SPECIAL": "unavailable"
+              "01 SPECIAL": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           }
         },
@@ -1648,6 +1658,10 @@
           "01 SPECIAL": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/Aulus%20Special.png",
             "type2": "Special"
+          },
+          "02 STARLIGHT": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero1086-icon.png/revision/latest?cb=20260710015145",
+            "type2": "Starlight"
           }
         }
       },
@@ -7597,50 +7611,60 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero691-icon.png/revision/latest?cb=20250118142130",
             "type1": "Default",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Default.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Default.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Hanzo/Starlight/Hanzo%20Starlight%20-%20Default.zip"
             },
             "supa_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero692-icon.png/revision/latest?cb=20250109162116",
             "type1": "Basic",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Basic.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Basic.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Hanzo/Starlight/Hanzo%20Starlight%20-%20Basic.zip"
             },
             "supa_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "03 ELITE": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero693-icon.png/revision/latest?cb=20250118145914",
             "type1": "Elite",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Elite.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Elite.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Hanzo/Starlight/Hanzo%20Starlight%20-%20Elite.zip"
             },
             "supa_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "04 SPECIAL": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero694-icon.png/revision/latest?cb=20250118145916",
             "type1": "Special",
             "type_links": {
-              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Special.zip"
+              "01 COLLECTOR": "https://github.com/injctr/large/raw/main/Hanzo/Collector/Hanzo%20Collector%20-%20Special.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Hanzo/Starlight/Hanzo%20Starlight%20-%20Special.zip"
             },
             "supa_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "05 COLLECTOR": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero695-icon.png/revision/latest?cb=20250403144511",
             "type1": "Collector",
             "type_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 STARLIGHT": "unavailable"
             },
             "supa_links": {
-              "01 COLLECTOR": "unavailable"
+              "01 COLLECTOR": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           }
         },
@@ -7648,6 +7672,10 @@
           "01 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero695-icon.png/revision/latest?cb=20250403144511",
             "type2": "Collector"
+          },
+          "02 STARLIGHT": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero696-icon.png/revision/latest?cb=20260824034012",
+            "type2": "Starlight"
           }
         }
       },
@@ -7943,14 +7971,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Default.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Default.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Default.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Default.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Default.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Default.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Default.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "02 BASIC": {
@@ -7961,14 +7993,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Basic.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Basic.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Basic.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Basic.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Basic.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Basic.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Basic.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "03 ELITE 1": {
@@ -7979,14 +8015,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Elite%20Future.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Elite.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Elite.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Elite.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Elite.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Elite%20Future%20Enforcer.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Elite%20Future%20Enforcer.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "04 SUMMER": {
@@ -7997,14 +8037,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Summer.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Summer.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Summer.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Summer.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Summer.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Summer.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Summer.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "05 ANNUAL STARLIGHT": {
@@ -8015,14 +8059,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Annual%20Starlight.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Annual.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Actual%20Star.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Annual%20Starlight.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Annual%20Starlight.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Annual%20Starlight.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Annual%20Starlight.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "06 LUCKYBOX": {
@@ -8033,14 +8081,18 @@
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Luckybox.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Luckybox.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Luckybox.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Luckybox.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Luckybox.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Luckybox.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "07 STARLIGHT 2020": {
@@ -8051,14 +8103,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Starlight.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Starlight.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Starlight.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Starlight.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Starlight.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Old%20Starlight.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Old%20Starlight.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "08 11.11": {
@@ -8069,14 +8125,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%2011.11.zip",
               "03 11.11": "unavailable",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%2011.11.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%2011.11.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%2011.11.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%2011.11.zip",
+              "07 NEW 11.11": "unavailable"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "09 ELITE 2": {
@@ -8087,14 +8147,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Elite%20Ninja.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Elite%20Top%20up.zip",
               "04 EXORCIST": "https://github.com/injctr/large/raw/main/Hayabusa/Exorcist/Hayabusa%20Exorcist%20-%20Elite%20Top%20Up.zip",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Elite%20Top%20up.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Elite%20Top%20up.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Elite%20Techie%20Ninja.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Elite%20Techie%20Ninja.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "10 EXORCIST": {
@@ -8105,14 +8169,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Exorcist.zip",
               "03 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/11.11/Hayabusa%2011.11%20-%20Exorcist.zip",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Exorcist.zip"
+              "05 NARUTO": "https://github.com/injctr/large/raw/main/Hayabusa/Naruto/Hayabusa%20Naruto%20-%20Exorcist.zip",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Exorcist.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Exorcist.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           },
           "11 NARUTO": {
@@ -8123,14 +8191,18 @@
               "02 LUCKYBOX": "https://github.com/injctr/large/raw/main/Hayabusa/Luckybox/Hayabusa%20Luckybox%20-%20Naruto.zip",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Hayabusa/Starlight%202026/Hayabusa%20Starlight%202026%20-%20Kakashi.zip",
+              "07 NEW 11.11": "https://github.com/injctr/large/raw/main/Hayabusa/New%2011.11/Hayabusa%2011.11%20new%20-%20Kakashi.zip"
             },
             "supa_links": {
               "01 ANNUAL STARLIGHT": "unavailable",
               "02 LUCKYBOX": "unavailable",
               "03 11.11": "unavailable",
               "04 EXORCIST": "unavailable",
-              "05 NARUTO": "unavailable"
+              "05 NARUTO": "unavailable",
+              "06 STARLIGHT 2026": "unavailable",
+              "07 NEW 11.11": "unavailable"
             }
           }
         },
@@ -8145,7 +8217,7 @@
           },
           "03 11.11": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero218-icon.png/revision/latest?cb=20220126042042",
-            "type2": "11.11"
+            "type2": "Old 11.11"
           },
           "04 EXORCIST": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102110-icon.png/revision/latest?cb=20240520070512",
@@ -8154,6 +8226,14 @@
           "05 NARUTO": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101503",
             "type2": "Naruto"
+          },
+          "06 STARLIGHT 2026": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Hayabusa%202nd%20StarLight.jpg",
+            "type2": "Starlight 2026"
+          },
+          "07 NEW 11.11": {
+            "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero218-icon.png/revision/latest?cb=20220126042042",
+            "type2": "New 11.11"
           }
         }
       },
@@ -9365,30 +9445,36 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero1281-icon.png/revision/latest?cb=20250402015050",
             "type1": "Default",
             "type_links": {
-              "01 NARUTO": "https://github.com/injctr/large/raw/main/Kalea/Naruto/Kalea%20Sakura%20-%20Default.zip"
+              "01 NARUTO": "https://github.com/injctr/large/raw/main/Kalea/Naruto/Kalea%20Sakura%20-%20Default.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Kalea/Starlight%202026/Kalea%20Starlight%20-%20Default.zip"
             },
             "supa_links": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1282-icon.png/revision/latest?cb=20250402015034",
             "type1": "Basic",
             "type_links": {
-              "01 NARUTO": "https://github.com/injctr/large/raw/main/Kalea/Naruto/Kalea%20Sakura%20-%20Basic.zip"
+              "01 NARUTO": "https://github.com/injctr/large/raw/main/Kalea/Naruto/Kalea%20Sakura%20-%20Basic.zip",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Kalea/Starlight%202026/Kalea%20Starlight%20-%20Basic.zip"
             },
             "supa_links": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           },
           "03 NARUTO": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero1283-icon.png/revision/latest?cb=20250411100954",
             "type1": "Naruto",
             "type_links": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT": "https://github.com/injctr/large/raw/main/Kalea/Starlight%202026/Kalea%20Starlight%20-%20Sakura%20Haruno.zip"
             },
             "supa_links": {
-              "01 NARUTO": "unavailable"
+              "01 NARUTO": "unavailable",
+              "02 STARLIGHT": "unavailable"
             }
           }
         },
@@ -9396,6 +9482,10 @@
           "01 NARUTO": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero1283-icon.png/revision/latest?cb=20250411100954",
             "type2": "Naruto"
+          },
+          "02 STARLIGHT": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Kaleas%20Upcoming%20Starlight%20Skin%20Splashart%20%26%20Painted%20Skin.jpg",
+            "type2": "Starlight"
           }
         }
       },
@@ -10375,12 +10465,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Default.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/iyu61n8o9ujctpkxug1j0/Layla-Legend-Default.zip?rlkey=frc6ypxz409t0wtpnqm8d5at4&st=fogglglr&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Default.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Default.zip",
+              "04 10TH COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/10th%20Collector/Layla%2010th%20Collector%20-%20Default.zip"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "02 BASIC 1": {
@@ -10389,12 +10481,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Basic.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/ijt8xjbp5jgzekmf3v4i8/Layla-Legend-Basic.zip?rlkey=louaf13fuql82owe58uu9s3ux&st=2tocto6k&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Basic.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Basic.zip",
+              "04 10TH COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/10th%20Collector/Layla%2010th%20Collector%20-%20Basic.zip"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "03 STARLIGHT 2017": {
@@ -10403,12 +10497,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Old%20Starlight.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/xc5bzqem2nj24iothncn8/Layla-Legend-Old-Starlight.zip?rlkey=ydyx6hln879202vfnlcc4gxhp&st=80kwjb88&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Old%20Starlight.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Old%20Starlight.zip",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "04 VALENTINE": {
@@ -10417,12 +10513,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Valentine.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/njoe6536dtiptitzd3k2v/Layla-Legend-Valentine.zip?rlkey=1bw3fdqi09nzl5a06eb2wjaxv&st=gwqzponq&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Valentine.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Valentine.zip",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "05 BASIC 2": {
@@ -10431,12 +10529,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Blue%20Spectre.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/kpdsqpdfw2cfaowpd4p4j/Layla-Legend-Blue-Specre.zip?rlkey=x6nld67ybc0smx70kkd63cls9&st=l87p2lc5&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Blue%20Spectre.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Blue%20Spectre.zip",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "06 BASIC 3": {
@@ -10445,12 +10545,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Classic.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/urq8hm1mxr04meuit92a4/Layla-Legend-Classic-Malefic.zip?rlkey=91ayqehwpxbvsea6vkd29ob5d&st=emkcrhg2&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Classic.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Classic.zip",
+              "04 10TH COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/10th%20Collector/Layla%2010th%20Collector%20-%20Classic%20Malefic.zip"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "07 S.A.B.E.R.": {
@@ -10459,12 +10561,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20SABER.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/0fdjhs5jkjikof77p5oy4/Layla-Legend-S.A.B.E.R.zip?rlkey=jybqpl0zwdqp9rpziw55t4ggm&st=p0wrukfw&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20SABER.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20SABER.zip",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "08 BLAZING BOUNTIES": {
@@ -10473,12 +10577,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/6jiimbkj0w357f7ba5inm/Layla-Legend-Blazing.zip?rlkey=wyt89r32keaq7sh2h72qsezwl&st=owfji92v&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Blazing.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Blazing.zip",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "09 THE ASPIRANTS": {
@@ -10487,12 +10593,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/ejpsfo5x4eb7lrj2uw48n/Layla-Legend-Aspirants.zip?rlkey=fetxzo8qmnud3ckq773xkp35q&st=yc46i77i&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Aspirants.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20Aspirants.zip",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "10 STARLIGHT 2023": {
@@ -10501,12 +10609,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20New%20Starlight.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/iht2r2wy6o19or8sxwtuy/Layla-Legend-New-Starlight.zip?rlkey=ak0d2qqpw42syyei0wnud2uf0&st=0ae3n7zb&dl=1",
-              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20New%20Starlight.zip"
+              "03 COLLECTOR": "https://github.com/injctr/large/raw/main/Layla/Collector/Layla%20Collector%20-%20New%20Starlight.zip",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           },
           "11 COLLECTOR": {
@@ -10515,12 +10625,14 @@
             "type_links": {
               "01 THE ASPIRANTS": "https://github.com/injctr/large/raw/main/Layla/Aspirants/Layla%20Aspirants%20-%20Collector.zip",
               "02 LEGEND": "https://www.dropbox.com/scl/fi/u5zmey8ggqepvxxo81ekr/Layla-Legend-Collector.zip?rlkey=o2e32sol50s77g7enhb3hc1tz&st=n213rca2&dl=1",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             },
             "supa_links": {
               "01 THE ASPIRANTS": "unavailable",
               "02 LEGEND": "unavailable",
-              "03 COLLECTOR": "unavailable"
+              "03 COLLECTOR": "unavailable",
+              "04 10TH COLLECTOR": "unavailable"
             }
           }
         },
@@ -10536,6 +10648,10 @@
           "03 COLLECTOR": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/56/Hero101811-icon.png/revision/latest?cb=20241013071715",
             "type2": "Collector"
+          },
+          "04 10TH COLLECTOR": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Layla%2010th.jpg",
+            "type2": "10th Collector"
           }
         }
       },
@@ -13773,30 +13889,36 @@
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/9/9b/Hero1301-icon.png/revision/latest?cb=20250928040150",
             "type1": "Default",
             "type_links": {
-              "01 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Obsidia/Starlight/Obsidia%20Starlight%20-%20Default.zip"
+              "01 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Obsidia/Starlight/Obsidia%20Starlight%20-%20Default.zip",
+              "02 ASPIRANTS": "https://github.com/injctr/large/raw/main/Obsidia/Aspirants/Obsidia%20Aspirants%20-%20Default.zip"
             },
             "supa_links": {
-              "01 STARLIGHT 2026": "unavailable"
+              "01 STARLIGHT 2026": "unavailable",
+              "02 ASPIRANTS": "unavailable"
             }
           },
           "02 BASIC": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero1302-icon.png/revision/latest?cb=20250703151405",
             "type1": "Basic",
             "type_links": {
-              "01 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Obsidia/Starlight/Obsidia%20Starlight%20-%20Basic.zip"
+              "01 STARLIGHT 2026": "https://github.com/injctr/large/raw/main/Obsidia/Starlight/Obsidia%20Starlight%20-%20Basic.zip",
+              "02 ASPIRANTS": "https://github.com/injctr/large/raw/main/Obsidia/Aspirants/Obsidia%20Aspirants%20-%20Basic.zip"
             },
             "supa_links": {
-              "01 STARLIGHT 2026": "unavailable"
+              "01 STARLIGHT 2026": "unavailable",
+              "02 ASPIRANTS": "unavailable"
             }
           },
           "03 STARLIGHT 2026": {
             "img1": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1303-icon.png/revision/latest?cb=20260422235635",
             "type1": "Starlight 2026",
             "type_links": {
-              "01 STARLIGHT 2026": "unavailable"
+              "01 STARLIGHT 2026": "unavailable",
+              "02 ASPIRANTS": "https://github.com/injctr/large/raw/main/Obsidia/Aspirants/Obsidia%20Aspirants%20-%20Starlight.zip"
             },
             "supa_links": {
-              "01 STARLIGHT 2026": "unavailable"
+              "01 STARLIGHT 2026": "unavailable",
+              "02 ASPIRANTS": "unavailable"
             }
           }
         },
@@ -13804,6 +13926,10 @@
           "01 STARLIGHT 2026": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1303-icon.png/revision/latest?cb=20260422235635",
             "type2": "Starlight 2026"
+          },
+          "02 ASPIRANTS": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Obsidias%20Aspirants.jpg",
+            "type2": "Aspirants"
           }
         }
       },
@@ -15331,7 +15457,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/27p7r9lbihjrd7ce0ihej/Selena-STUN-Default.zip?rlkey=5wfsnme8uav4p4t1g34jpckxb&st=qa6odg32&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/3vft2ofr9tijdi0uqeimj/Selena-Abyss-Default.zip?rlkey=4mgbqv7vhezmfqe0829xcjocn&st=jc2tnj81&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Default.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Selena/Epic%20Butterfly/Selena%20Epic%20Butterfly%20-%20Default.zip"
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Selena/Epic%20Butterfly/Selena%20Epic%20Butterfly%20-%20Default.zip",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Default.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15340,7 +15467,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "02 BASIC": {
@@ -15353,7 +15481,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/gb2jftsmr4bge1imgrkng/Selena-STUN-Basic.zip?rlkey=0k29hjtcxheakbbjd48b1xptb&st=803pqupa&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/ggzzawty0onzv4c50351r/Selena-Abyss-Basic.zip?rlkey=7h0h17plsn2mvnxg1739xypfr&st=znojt4h2&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Basic.zip",
-              "07 EPIC": "https://github.com/injctr/large/raw/main/Selena/Epic%20Butterfly/Selena%20Epic%20Butterfly%20-%20Basic.zip"
+              "07 EPIC": "https://github.com/injctr/large/raw/main/Selena/Epic%20Butterfly/Selena%20Epic%20Butterfly%20-%20Basic.zip",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Basic.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15362,7 +15491,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "03 EPIC": {
@@ -15375,7 +15505,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/h52gg7k2ffbz5asz5u28r/Selena-STUN-Virus.zip?rlkey=9bp5vv6x4225efcd3qcc91ckn&st=8ryvu9p7&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/dsfw4shzpimqga0627vrp/Selena-Abyss-Epic.zip?rlkey=190nitqst8m8wts65mkt8w6eg&st=ago0p56m&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Virus.zip",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Epic%20Virus.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15384,7 +15515,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "04 ZODIAC": {
@@ -15397,7 +15529,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/bgls80yzdwxoep3mvxnbq/Selena-STUN-Zodiac.zip?rlkey=03b1jvqqemv013q16gv0c3w57&st=iv68qrk8&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/u7cqdtb590r3cq8iy3mwv/Selena-Abyss-Zodiac.zip?rlkey=o59ti76e2jlj4xw87dvb99ypi&st=0n0hocp5&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Zodiac.zip",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Zodiac.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15406,7 +15539,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "05 STARLIGHT 2019": {
@@ -15419,7 +15553,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/ni2nv5lgzub4j2t8lw4q5/Selena-STUN-Starlight.zip?rlkey=iwbc0p5kg1pj8xtkrj57ahox3&st=hodpu6gl&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/03un44moncm0ueizzoeba/Selena-Abyss-Starlight.zip?rlkey=bbivgze6ncebce3h6o6k4386g&st=5l4yawux&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Starlight.zip",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Starlight.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15428,7 +15563,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "06 LUCKYBOX": {
@@ -15441,7 +15577,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/0zskzwmuahenfo0dyzgbl/Selena-Abyss-Luckybox.zip?rlkey=n8ocpowyj0nk9a9vjtgqmyrck&st=u112qcuf&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Luckybox.zip",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Luckybox.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15450,7 +15587,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "07 ELITE": {
@@ -15463,7 +15601,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/t2cfe120pwwibcqdmjns3/Selena-STUN-Elite.zip?rlkey=m56nc3221twm0rmluirqt7jjq&st=86y1w0s6&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/tff7y85v11hnypmwojocf/Selena-Abyss-Elite.zip?rlkey=og25epvxru15vofabipaq1c8r&st=pbapvghs&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Elite.zip",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Elite.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15472,7 +15611,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "08 STUN": {
@@ -15485,7 +15625,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/ajjj3puewp255r590jxmv/Selena-Abyss-STUN.zip?rlkey=r1s93eq6glns7is7dwhja5lqm&st=eziz9wni&dl=1",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20STUN.zip",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20STUN.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15494,7 +15635,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "09 ABYSS": {
@@ -15507,7 +15649,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/lzeojfljllsczs040wm29/Selena-STUN-Abyss.zip?rlkey=6aet51zmipacawuqwuhstuzc3&st=x937o6rc&dl=1",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "https://github.com/injctr/large/raw/main/Selena/Zenith/Selena%20Zenith%20-%20Abyss.zip",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Abyss.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15516,7 +15659,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           },
           "10 ZENITH": {
@@ -15529,7 +15673,8 @@
               "04 STUN": "https://www.dropbox.com/scl/fi/hqik9z7e4k546d9r0v8px/Selena-STUN-Zenith.zip?rlkey=hhp0mx7rb1rmuf4x28b675pus&st=7uafq3sr&dl=1",
               "05 ABYSS": "https://www.dropbox.com/scl/fi/lv9tm17985cepsc360ypr/Selena-Abyss-Zenith.zip?rlkey=xgunhtin1wmkpi7jthgmvecqt&st=rwwz3cz6&dl=1",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "https://github.com/injctr/large/raw/main/Selena/Aspirants/Selena%20Aspirants%20-%20Zenith.zip"
             },
             "supa_links": {
               "01 ZODIAC": "unavailable",
@@ -15538,7 +15683,8 @@
               "04 STUN": "unavailable",
               "05 ABYSS": "unavailable",
               "06 ZENITH": "unavailable",
-              "07 EPIC": "unavailable"
+              "07 EPIC": "unavailable",
+              "08 ASPIRANTS": "unavailable"
             }
           }
         },
@@ -15570,6 +15716,10 @@
           "07 EPIC": {
             "img2": "https://github.com/injctr/IMAGES/raw/main/Selena%20skin%20Epic.png",
             "type2": "Epic"
+          },
+          "08 ASPIRANTS": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Selenas%20Aspirants.jpg",
+            "type2": "Aspirants"
           }
         }
       },
@@ -18095,12 +18245,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/88k37nn2m2jed750r177y/Zilong-Luckybox-Default.zip?rlkey=8tpvcl0bpxm74jloaydytrinx&st=ve4o7xc3&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/9akfkwy29ol12jlf71vro/Zilong-Collector-Default.zip?rlkey=hb4wz7e6j7s63ky6k0vefk9jd&st=9x6ew6wm&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Default.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "02 ELITE 1": {
@@ -18109,12 +18261,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/cnmr9ig7fpa2a0tq9i5ry/Zilong-Luckybox-Elite-Warrior.zip?rlkey=bexsut2zqaxakzw6r46531o4g&st=atwrl17v&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/174c9lirwouhymku7xfwa/Zilong-Collector-Elite.zip?rlkey=qmmgo7w7tiqvfq46d1aw6nc4m&st=fjw7lfmt&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Elite%20Warrior.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "03 EPIC": {
@@ -18123,12 +18277,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/gc4zfqzkcuo6ksdq0bjpy/Zilong-Luckybox-Epic.zip?rlkey=peet0nuk00ywaeazgxx172sj1&st=2wuxyikc&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/isng3u4lzthh5w2e6ndav/Zilong-Collector-Epic.zip?rlkey=f6qpuab3rlprjhx4pn27rhk8s&st=v04pvwp4&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Epic.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "04 STARLIGHT 2017": {
@@ -18137,12 +18293,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/l5qfkonff7b3p5naqdak4/Zilong-Luckybox-Starlight.zip?rlkey=lkc1ip90qvuh1szancy10lefx&st=iypli1d8&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/wugfbfutukn0br45uzslg/Zilong-Collector-Starlight.zip?rlkey=mr2osx7wfh2twdwkjxnb41dix&st=ebxj46yx&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Starlight.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "05 ELITE 2": {
@@ -18151,12 +18309,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/g67ewk4knsace0d2r1alv/Zilong-Luckybox-Elite-Lancer.zip?rlkey=qao5st054im6yitz4bvp0xqxv&st=pbdk8h2r&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/ce2jny2rqtvcr1mntcv0m/Zilong-Collector-Elite-Lancer.zip?rlkey=0xyk6mk9uhvkaepl7c2f351qg&st=1mq0wome&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Elite%20Blazing%20Lancer.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "06 LUCKYBOX": {
@@ -18165,12 +18325,14 @@
             "type_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/mi0hi9pbl3afynb458die/Zilong-Collector-Luckybox.zip?rlkey=kv4rmou1utwhl5dibe6s1d7n9&st=g07208zg&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Luckybox.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "07 CHRISTMAS": {
@@ -18179,12 +18341,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/v9b51wdrekemnmacefepm/Zilong-Luckybox-Christmas.zip?rlkey=c50kt57y5iky7fz57ce25ntnv&st=ctcntdug&dl=1",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Christmas.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "08 S19 FIRST RECHARGE": {
@@ -18193,12 +18357,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/bp8mqovxnbwkqvn91grq3/Zilong-Luckybox-Top-Up.zip?rlkey=0fhg0lpv8kb24aoz3pr5gqdst&st=dcxg3ts6&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/vzzkekxrm04lgvokddvl6/Zilong-Collector-Top-up.zip?rlkey=01fepcmffd5xtltikeqg8nr7k&st=wl9i6fql&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Loyal%20Spear.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "09 SUMMER": {
@@ -18207,12 +18373,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/39z4175tmadrham8tr8dq/Zilong-Luckybox-Summer.zip?rlkey=17b6wglt4r0jaqrqfg99hp1po&st=l2powp78&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/2ucf9cd4fgmb9gh8m6xir/Zilong-Collector-Summer.zip?rlkey=viaphuowu6sr9h90qifwors7e&st=ljv45lwd&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Summer.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "10 COLLECTOR": {
@@ -18221,12 +18389,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/000ubn8vyqac8bvuf8s42/Zilong-Luckybox-Collector.zip?rlkey=qsfcazxvdht5va6pq4yr202hp&st=fr8i43by&dl=1",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Collector.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "11 515": {
@@ -18235,12 +18405,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/4rcwz8utc9c3rpbqmcaiz/Zilong-Luckybox-515.zip?rlkey=2j4l4tlyj40xkwnigsw9m5f8d&st=v4aowhlz&dl=1",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20515.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           },
           "12 LUNAR FEST": {
@@ -18249,12 +18421,14 @@
             "type_links": {
               "01 LUCKYBOX": "https://www.dropbox.com/scl/fi/wfqnjtv9zc3l26wz6jpm2/Zilong-Luckybox-Lunar-Fest.zip?rlkey=rcg5qgt0rrlta5iklb7l2k5t9&st=e284idgh&dl=1",
               "02 COLLECTOR": "https://www.dropbox.com/scl/fi/13uiunh11nqho8a4g41re/Zilong-Collector-Lunar.zip?rlkey=zpwuxao54ur7fu8n5o7drxrm8&st=ql57nkbe&dl=1",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "https://github.com/injctr/large/raw/main/Zilong/Create/Zilong%20Create%20-%20Lunar%20Fest.zip"
             },
             "supa_links": {
               "01 LUCKYBOX": "unavailable",
               "02 COLLECTOR": "unavailable",
-              "03 LUNAR FEST": "unavailable"
+              "03 LUNAR FEST": "unavailable",
+              "04 CREATE": "unavailable"
             }
           }
         },
@@ -18270,6 +18444,10 @@
           "03 LUNAR FEST": {
             "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero101611-icon.png/revision/latest?cb=20220401091147",
             "type2": "Lunar Fest"
+          },
+          "04 CREATE": {
+            "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create.jpg",
+            "type2": "Create"
           }
         }
       }
@@ -19914,6 +20092,51 @@
       }
     },
     "Latest": {
+      "Selena_08 ASPIRANTS": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Selenas%20Aspirants.jpg",
+        "type2": "Aspirants",
+        "key": "Selena"
+      },
+      "Obsidia_02 ASPIRANTS": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Obsidias%20Aspirants.jpg",
+        "type2": "Aspirants",
+        "key": "Obsidia"
+      },
+      "Zilong_04 CREATE": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Zilongs%20Create.jpg",
+        "type2": "Create",
+        "key": "Zilong"
+      },
+      "Layla_04 10TH COLLECTOR": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Layla%2010th.jpg",
+        "type2": "10th Collector",
+        "key": "Layla"
+      },
+      "Hayabusa_07 NEW 11.11": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero218-icon.png/revision/latest?cb=20220126042042",
+        "type2": "New 11.11",
+        "key": "Hayabusa"
+      },
+      "Hayabusa_06 STARLIGHT 2026": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Hayabusa%202nd%20StarLight.jpg",
+        "type2": "Starlight 2026",
+        "key": "Hayabusa"
+      },
+      "Kalea_02 STARLIGHT": {
+        "img2": "https://cdn.jsdelivr.net/gh/injctr/IMAGES@main/Kaleas%20Upcoming%20Starlight%20Skin%20Splashart%20%26%20Painted%20Skin.jpg",
+        "type2": "Starlight",
+        "key": "Kalea"
+      },
+      "Hanzo_02 STARLIGHT": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero696-icon.png/revision/latest?cb=20260824034012",
+        "type2": "Starlight",
+        "key": "Hanzo"
+      },
+      "Aulus_02 STARLIGHT": {
+        "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero1086-icon.png/revision/latest?cb=20260710015145",
+        "type2": "Starlight",
+        "key": "Aulus"
+      },
       "Yi Sun-shin_01 COLLECTOR": {
         "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero305-icon.png/revision/latest?cb=20220126042009",
         "type2": "Collector",
